@@ -15,7 +15,7 @@ def wfs_get_service_name(url, version="1.0.0"):
         wfs = WebFeatureService(url=url, version=version)
         return wfs.identification.title
     except Exception as e:
-        raise Exception(f"Nie udało się pobrać nazwy serwisu. {e}")
+        raise Exception(f"Nie udało się pobrać nazwy serwisu. Błąd: {e}")
 
 if __name__ == '__main__':
     # Testy pobierania
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     download_and_save_file("https://opendata.geoportal.gov.pl/NumDaneWys/NMT/77218/77218_1301111_N-34-139-C-b-1-4.asc", "nmt.asc")
 
     try:
-        download_and_save_file("xdxdxdxdxd", "xd")
+        download_and_save_file("bledny_adres.png", "xd.png")
     except Exception as e:
         print("Pobieranie z błędnego URL się nie udało. Sukces!")
         print("Wyjątek:", e)
