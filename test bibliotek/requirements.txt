@@ -1,0 +1,11 @@
+pytest
+requests
+numpy
+pandas
+tqdm
+geopandas
+rasterio
+pipwin
+open3d
+matplotlib
+laspy[laszip]
