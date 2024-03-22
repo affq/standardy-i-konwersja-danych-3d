@@ -50,8 +50,11 @@ if __name__ == '__main__':
             [i, i + 1, i + 1 + num_vertices_base]
         )
         triangles.append(
-            [i + 1 + num_vertices_base, i + 2 + num_vertices_base, i]
+            [i + 1 + num_vertices_base, i + num_vertices_base, i]
         )
+    triangles.append([num_vertices_base - 1, 0, num_vertices_base])
+    triangles.append([num_vertices_base, num_vertices_base + num_vertices_base, 0])
+    
     mesh = open3d.geometry.TriangleMesh(
         open3d.utility.Vector3dVector(xyz),
         open3d.utility.Vector3iVector(triangles)
