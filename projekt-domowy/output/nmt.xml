@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding="UTF-8" ?>
+<wfs:FeatureCollection
+   xmlns:gugik="http://www.gugik.gov.pl"
+   xmlns:gml="http://www.opengis.net/gml/3.2"
+   xmlns:wfs="http://www.opengis.net/wfs/2.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.gugik.gov.pl https://mapy.geoportal.gov.pl/wss/service/PZGIK/NumerycznyModelTerenuEVRF2007/WFS/Skorowidze?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=DescribeFeatureType&amp;TYPENAME=gugik:SkorowidzNMT2023&amp;OUTPUTFORMAT=application%2Fgml%2Bxml%3B%20version%3D3.2 http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd http://www.opengis.net/gml/3.2 http://schemas.opengis.net/gml/3.2.1/gml.xsd"
+   timeStamp="2024-03-26T11:43:20" numberMatched="1" numberReturned="1">
+      <wfs:boundedBy>
+      	<gml:Envelope srsName="urn:ogc:def:crs:EPSG::2180">
+      		<gml:lowerCorner>688678.070000 502043.720000</gml:lowerCorner>
+      		<gml:upperCorner>690996.750000 504089.480000</gml:upperCorner>
+      	</gml:Envelope>
+      </wfs:boundedBy>
+    <wfs:member>
+      <gugik:SkorowidzNMT2023 gml:id="SkorowidzNMT2023.1473732">
+        <gml:boundedBy>
+        	<gml:Envelope srsName="urn:ogc:def:crs:EPSG::2180">
+        		<gml:lowerCorner>688678.070000 502043.720000</gml:lowerCorner>
+        		<gml:upperCorner>690996.750000 504089.480000</gml:upperCorner>
+        	</gml:Envelope>
+        </gml:boundedBy>
+        <gugik:msGeometry>
+          <gml:Polygon gml:id="SkorowidzNMT2023.1473732.1" srsName="urn:ogc:def:crs:EPSG::2180">
+            <gml:exterior>
+              <gml:LinearRing>
+                <gml:posList srsDimension="2">689836.630000 502044.230000 690416.010000 502043.970000 690995.400000 502043.720000 690995.650000 502554.650000 690995.960000 503065.570000 690996.330000 503576.500000 690996.750000 504087.430000 690417.370000 504087.940000 689837.980000 504088.460000 689258.810000 504088.970000 688679.420000 504089.480000 688679.000000 503578.290000 688678.630000 503067.110000 688678.320000 502555.920000 688678.070000 502044.740000 689257.450000 502044.480000 689836.630000 502044.230000 </gml:posList>
+              </gml:LinearRing>
+            </gml:exterior>
+          </gml:Polygon>
+        </gugik:msGeometry>
+        <gugik:godlo>N-34-63-C-c-1-2</gugik:godlo>
+        <gugik:akt_rok>2023</gugik:akt_rok>
+        <gugik:asortyment>NMT</gugik:asortyment>
+        <gugik:format>ARC/INFO ASCII GRID</gugik:format>
+        <gugik:char_przestrz>5.00 m</gugik:char_przestrz>
+        <gugik:blad_sr_wys>0.5</gugik:blad_sr_wys>
+        <gugik:uklad_xy>PL-1992</gugik:uklad_xy>
+        <gugik:modul_archiwizacji>1:5000</gugik:modul_archiwizacji>
+        <gugik:uklad_h>PL-EVRF2007-NH</gugik:uklad_h>
+        <gugik:nr_zglosz>DFT.7201.003.2023</gugik:nr_zglosz>
+        <gugik:akt_data gml:id="SkorowidzNMT2023.1473732.akt_data"><gml:timePosition>2023-05-28</gml:timePosition></gugik:akt_data>
+        <gugik:czy_ark_wypelniony>TAK</gugik:czy_ark_wypelniony>
+        <gugik:url_do_pobrania>https://opendata.geoportal.gov.pl/NumDaneWys/NMT/78969/78969_1473732_N-34-63-C-c-1-2.asc</gugik:url_do_pobrania>
+        <gugik:zrodlo_danych>Zdj. lotnicze</gugik:zrodlo_danych>
+      </gugik:SkorowidzNMT2023>
+    </wfs:member>
+</wfs:FeatureCollection>
+
