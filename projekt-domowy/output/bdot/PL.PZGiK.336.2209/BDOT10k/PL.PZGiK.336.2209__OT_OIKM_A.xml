@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_OIKM_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_OIKM_A gml:id="OT_OIKM_A.f7c91ec8-19bc-4fe9-8a2d-069f003e7da0">
+      <ot:lokalnyId>48bbfdaf-f5ae-41df-834f-f0741074dac2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>pas startowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0ee747fc-9618-47c2-9097-80f9df37ff34" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495101.94 687328.31 495138.28 687319.55 495106.14 687166.43 495078.72 687049.70 495006.06 686689.66 494961.82 686699.29 495101.94 687328.31</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIKM_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIKM_A gml:id="OT_OIKM_A.2c21c876-2d3c-4b4a-ac39-54a13b1d40ac">
+      <ot:lokalnyId>28BEDAB6-AFFD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>pas startowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5ff78aa3-6c66-4cc7-9fc5-dfab72b66807" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>510258.76 684929.88 510111.44 684901.57 510112.12 684897.52 509987.32 684873.54 509931.94 684862.57 509926.50 684861.49 509618.03 684801.11 509609.54 684799.47 509280.74 684736.15 508964.05 684674.03 508948.21 684670.92 508719.90 684626.82 508603.69 684604.38 508406.40 684566.10 508186.31 684522.62 508039.24 684494.27 507662.14 684422.75 507659.40 684425.50 507521.37 684398.98 507513.15 684448.36 507649.96 684475.48 507701.73 684489.14 507962.78 684540.25 508119.70 684571.03 508229.46 684591.89 508400.63 684625.63 508598.04 684663.93 508710.12 684685.58 508714.08 684686.17 508717.97 684687.11 508942.50 684730.47 509275.05 684795.70 509554.00 684849.42 509605.03 684859.30 509640.77 684866.22 509920.73 684921.02 509985.67 684933.74 510042.15 684944.62 510102.18 684951.21 510249.53 684980.33 510254.13 684955.17 510258.76 684929.88</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIKM_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

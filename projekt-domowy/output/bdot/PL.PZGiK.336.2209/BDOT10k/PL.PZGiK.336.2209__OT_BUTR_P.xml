@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_BUTR_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_BUTR_P gml:id="OT_BUTR_P.d45f11a4-f816-4224-9041-027eb8a5ee2d">
+      <ot:lokalnyId>28BEDAB6-8FE9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_215</ot:kodKarto10k>
+      <ot:rodzaj>obrotnica kolejowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7b9f51be-1a64-4e6f-b612-277d5147dc6b" srsDimension="2">
+          <gml:pos>503456.42 685510.54</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_BUTR_P>
+  </gml:featureMember>
+</gml:FeatureCollection>

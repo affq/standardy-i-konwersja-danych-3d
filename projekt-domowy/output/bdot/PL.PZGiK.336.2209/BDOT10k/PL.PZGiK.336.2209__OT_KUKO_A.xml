@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_KUKO_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.fe864199-f6c7-4fb7-b7fe-9807d75d394d">
+      <ot:lokalnyId>c84ff957-35f3-42ec-94df-df3606736a71</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>Kajakowa przystań w Janówce</ot:informacjaDodatkowa>
+      <ot:skrotKartograficzny>port</ot:skrotKartograficzny>
+      <ot:rodzaj>port wodny lub przystań</ot:rodzaj>
+      <ot:typPortu>przystań żeglugi pasażerskiej</ot:typPortu>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2be6f209-4836-4e49-b397-c29aed7da4e1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>508211.05 688730.71 508226.39 688752.53 508248.36 688736.40 508256.90 688732.45 508244.41 688707.63 508211.05 688730.71</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.248ddd98-f590-4c5c-83f1-556e34b1113c">
+      <ot:lokalnyId>d26f5980-bd44-11ea-bc83-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>port lot.</ot:skrotKartograficzny>
+      <ot:rodzaj>lotnisko lub lądowisko</ot:rodzaj>
+      <ot:typLotniska>inne lotnisko lub lądowisko</ot:typLotniska>
+      <ot:nazwa>Lotnisko Królewo Malborskie</ot:nazwa>
+      <ot:idIata>998</ot:idIata>
+      <ot:idIcao>998</ot:idIcao>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2f6698c7-22f5-4366-850a-9b9faad89f44" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507243.94 683975.22 507242.11 683967.97 507233.48 683974.21 507334.96 684118.50 507414.24 684569.09 507371.76 684767.94 507396.22 684772.24 507491.24 684788.73 507546.73 684797.64 507584.26 684804.23 507689.81 684822.77 507782.81 684838.68 507832.02 684847.17 507962.44 684869.67 508118.49 684896.61 508152.27 684902.50 508183.00 684907.85 508185.63 684908.31 508187.25 684908.63 508256.37 684922.41 508329.40 684935.58 508333.32 684936.29 508355.58 684940.30 508455.45 684958.31 508537.48 684973.80 508610.37 684987.57 508706.66 685005.75 508723.56 685009.15 508813.49 685027.24 509041.13 685073.04 509223.73 685107.84 509370.36 685135.78 509408.33 685143.01 509412.41 685143.79 509426.21 685146.39 509543.29 685168.41 509549.11 685180.51 509557.97 685189.18 509565.58 685195.61 509607.55 685231.11 509702.14 685312.43 509762.26 685362.82 509765.86 685359.30 509773.86 685350.57 509787.57 685333.66 509800.54 685319.09 509815.10 685304.07 509827.88 685294.43 509833.04 685291.02 509838.57 685288.02 509847.57 685283.12 509871.99 685273.66 509904.38 685265.77 509972.07 685251.02 510091.27 685224.07 510128.85 685215.76 510148.91 685208.56 510164.07 685200.66 510178.61 685189.65 510193.14 685176.57 510206.22 685160.78 510215.49 685146.78 510228.75 685125.36 510230.02 685123.31 510234.00 685116.90 510242.27 685103.58 510256.60 685085.09 510268.02 685074.29 510281.93 685065.15 510294.59 685058.08 510311.09 685051.93 510326.45 685048.61 510342.44 685046.53 510360.50 685047.57 510405.98 685056.71 510416.19 685058.73 510484.50 685072.28 510534.36 685082.23 510562.46 685086.80 510576.17 685085.35 510588.63 685079.74 510597.14 685073.09 510605.24 685063.12 510609.80 685052.73 510614.58 685034.04 510621.62 684998.21 510622.45 684985.13 510621.62 684974.53 510617.67 684964.77 510612.07 684956.67 510605.63 684950.02 510599.64 684945.12 510585.11 684937.65 510509.53 684906.07 510410.92 684863.87 510400.62 684859.46 510381.65 684850.60 510372.93 684844.58 510363.18 684835.44 510356.95 684827.13 510352.17 684818.41 510348.85 684809.47 510346.36 684800.96 510346.06 684796.89 510345.32 684787.04 510347.19 684768.13 510348.23 684744.55 510347.19 684736.04 510344.07 684725.44 510339.92 684716.51 510334.11 684707.58 510329.12 684700.72 510323.10 684694.70 510313.97 684688.05 510307.36 684684.39 510295.52 684679.61 510250.88 684670.26 510234.00 684666.97 510228.75 684665.95 510078.29 684636.66 509922.83 684606.10 509872.56 684596.22 509786.88 684579.84 509695.80 684562.42 509639.66 684551.47 509454.59 684515.37 509222.06 684469.95 509187.79 684463.38 509015.69 684429.47 508961.13 684419.95 508678.62 684364.35 508653.45 684358.97 508639.87 684355.43 508655.54 684261.68 508607.14 684197.45 508527.47 684234.56 508520.47 684238.28 508508.25 684244.75 508504.73 684246.62 508493.30 684252.68 508490.55 684254.13 508323.13 684342.90 508323.06 684342.94 508257.05 684382.47 508178.77 684358.10 508096.14 684171.49 507992.32 684156.31 507800.74 684136.91 507626.43 684118.24 507501.02 684153.20 507500.99 684153.19 507421.92 684121.98 507243.94 683975.22</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.5a9470d9-8d34-467d-83d0-d9ee657494ea">
+      <ot:lokalnyId>28BEDAB6-9593-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:nazwa>Lotos</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ba86f1cd-bd68-4b96-89c5-42bd3c740762" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504876.51 686000.53 504881.40 686008.01 504885.31 686012.05 504906.97 686033.98 504973.21 686035.13 504968.53 685987.54 504961.26 685913.73 504958.89 685889.60 504894.47 685887.64 504893.80 685914.66 504893.64 685920.86 504893.36 685932.03 504881.15 685929.02 504884.48 685937.07 504884.20 685999.00 504876.51 686000.53</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.f3ccf5f1-9617-441e-9aaa-e225efbeaedd">
+      <ot:lokalnyId>28BEDAB6-9594-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ba6b1a24-9207-4cc2-90ce-fbf33686bf91" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501875.03 685479.57 501873.61 685497.62 501873.05 685503.07 501930.39 685508.32 501931.52 685513.92 501937.73 685513.79 501958.66 685514.54 501948.79 685511.76 501948.79 685489.92 501956.89 685489.52 501975.47 685488.83 501974.62 685467.55 501963.41 685468.03 501962.87 685445.00 501962.46 685438.59 501958.49 685441.03 501953.50 685444.42 501946.19 685450.94 501942.78 685453.75 501940.24 685455.85 501935.84 685460.99 501930.88 685465.10 501924.68 685468.61 501918.27 685472.18 501914.14 685473.74 501908.73 685474.60 501899.23 685474.61 501891.68 685474.47 501884.84 685474.18 501875.53 685473.25 501875.03 685479.57</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.8ef33c97-b695-41de-a94c-4a9572a4ff68">
+      <ot:lokalnyId>28BEDAB6-9595-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:nazwa>Mirex</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.852aa3a5-d63c-421a-81b7-b45ff7a61a21" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500909.52 686675.54 500915.66 686685.61 501017.13 686637.59 501002.55 686618.27 500986.19 686626.73 500972.19 686631.73 500958.11 686638.96 500938.03 686648.43 500940.18 686652.97 500914.72 686664.50 500909.52 686675.54</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.bf3eec98-d296-4044-bb33-5d43c797e52e">
+      <ot:lokalnyId>28BEDAB6-9596-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:nazwa>Lotos</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.079a7906-1bdb-4191-9f89-6b3984499896" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502186.44 685756.84 502188.91 685758.29 502213.42 685753.84 502235.20 685749.89 502244.50 685748.26 502237.51 685704.79 502205.73 685708.74 502178.81 685713.14 502181.28 685731.84 502186.44 685756.84</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.a297c3f1-6e34-41e8-bb74-ae84bdbfc1ef">
+      <ot:lokalnyId>28BEDAB6-9598-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9112cba0-1ab3-4dc7-ae17-efe2e12fab73" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502016.06 685589.62 502099.86 685591.99 502101.59 685579.16 502072.71 685576.69 502074.51 685560.42 502074.88 685556.81 502054.90 685553.50 502060.05 685524.53 502012.94 685514.52 502011.72 685520.40 502012.02 685525.34 502002.24 685523.86 501997.97 685556.25 502018.59 685558.28 502016.06 685589.62</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.4b91cb5c-98af-4dda-95c0-bb978b188a1f">
+      <ot:lokalnyId>28BEDAB6-9599-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja kolejowa</ot:rodzaj>
+      <ot:nazwa>Malbork</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5fa23f68-31e5-42c9-845f-1c6465ad473b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502933.17 685674.46 503007.81 685640.52 503004.21 685633.96 503000.26 685623.98 503019.08 685616.88 503023.85 685614.66 503019.66 685605.84 503018.66 685603.75 502975.72 685621.71 502930.56 685641.82 502927.14 685635.03 502926.09 685632.70 502922.97 685625.48 502909.78 685623.32 502904.27 685606.95 502892.30 685611.13 502886.80 685612.53 502879.88 685610.09 502878.32 685605.40 502875.93 685600.96 502828.91 685619.42 502824.47 685621.16 502817.30 685623.25 502819.67 685631.48 502821.43 685637.32 502823.03 685648.83 502826.53 685650.81 502828.56 685658.28 502837.24 685674.48 502799.82 685695.91 502765.04 685715.83 502762.11 685717.51 502755.32 685721.40 502695.88 685755.99 502708.02 685777.11 502710.91 685782.14 502712.46 685784.84 502713.38 685786.43 502718.26 685794.05 502706.06 685803.50 502692.81 685813.54 502696.20 685817.28 502704.18 685826.37 502743.82 685799.60 502793.16 685765.59 502879.88 685716.10 502876.23 685706.08 502874.07 685701.37 502905.31 685687.31 502933.17 685674.46</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.5811c653-296c-477b-864e-ef55a8e66070">
+      <ot:lokalnyId>28BEDAB6-959A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:nazwa>Orlen</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.57360e2e-a4b8-4a2a-8ce9-9e6efc0ee842" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500716.55 685948.67 500721.29 685961.23 500741.81 685958.02 500745.92 685961.28 500780.38 685948.59 500798.06 685943.41 500753.17 685857.34 500704.26 685876.17 500699.23 685880.82 500697.60 685886.40 500694.04 685889.03 500715.99 685947.19 500716.55 685948.67</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.b5f626d4-eb4d-4755-bcd9-074aa3d4333b">
+      <ot:lokalnyId>28BEDAB6-959B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>zaj.</ot:skrotKartograficzny>
+      <ot:rodzaj>zajezdnia lub baza transportowa</ot:rodzaj>
+      <ot:nazwa>GDDKiA oddział w Gdańsku Rejon Tczew Obwód Malbork</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.50e37e59-d2b9-40b7-b9f3-3bef5fcdf041" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500585.92 686437.58 500599.62 686420.88 500657.82 686355.33 500545.00 686319.13 500525.85 686385.34 500570.64 686424.29 500585.92 686437.58</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.645bb6d1-e89a-4d94-80d9-56a3cb08aa8c">
+      <ot:lokalnyId>28BEDAB6-959C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7e095d04-a46c-4436-b478-3e4198bf1077" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500811.86 683941.69 500812.83 683943.20 500816.11 683948.31 500829.75 683940.64 500836.79 683936.68 500834.75 683927.87 500821.37 683903.30 500807.66 683877.81 500805.86 683874.48 500799.10 683877.22 500795.65 683879.00 500792.75 683880.79 500784.46 683888.41 500780.53 683892.03 500782.46 683895.28 500811.86 683941.69</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.53569841-5cb5-4d6d-8c5d-a032bdc30a2c">
+      <ot:lokalnyId>28BEDAB6-959D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>zaj.</ot:skrotKartograficzny>
+      <ot:rodzaj>zajezdnia lub baza transportowa</ot:rodzaj>
+      <ot:nazwa>Zakład Gospodarki Komunalnej i Mieszkaniowej w Malborku Sp. z o.o.</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.cabba767-7596-4a35-8139-12f8ff842045" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503358.39 684598.12 503351.39 684601.98 503374.14 684641.73 503385.63 684646.56 503398.58 684670.08 503408.99 684690.12 503435.37 684679.72 503395.83 684577.45 503346.84 684446.68 503329.89 684451.73 503322.73 684453.86 503275.29 684483.52 503299.61 684520.50 503309.70 684514.18 503358.39 684598.12</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.dd344d90-9764-41fc-bb9a-313255ea039d">
+      <ot:lokalnyId>28BEDAB6-959E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5b9a2de0-bfc8-48bf-ae22-161ab26b0104" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>493852.12 687821.84 493850.12 687807.61 493840.84 687809.35 493838.83 687793.66 493797.63 687800.41 493798.19 687803.80 493786.02 687805.79 493780.14 687807.17 493784.33 687837.76 493837.86 687825.20 493852.12 687821.84</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.4443735f-7c03-4c0f-a0a8-aef3991a8043">
+      <ot:lokalnyId>28BEDAB6-959F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5ceb2f04-55d3-4186-99ac-7cf87054844e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494004.88 683146.46 494012.15 683159.40 494023.80 683182.44 494050.73 683235.67 494073.60 683227.01 494084.44 683221.65 494080.06 683208.49 494078.97 683205.45 494077.03 683199.99 494075.87 683196.73 494071.35 683187.31 494054.14 683146.57 494047.55 683129.61 494004.88 683146.46</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.06c93c6f-1dfe-4ed0-b188-8b8ebf73de81">
+      <ot:lokalnyId>28BEDAB6-95A0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja kolejowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f0d28d5a-7f60-4f78-bb8a-2379ba043930" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495032.60 689909.18 495041.05 689930.02 495080.00 689914.73 495121.76 689890.71 495191.71 689866.29 495324.37 689817.47 495436.06 689774.75 495513.33 689744.83 495511.44 689739.94 495508.72 689732.31 495507.24 689728.15 495505.80 689724.23 495504.56 689720.83 495502.93 689716.34 495490.20 689720.80 495439.02 689738.75 495413.28 689747.78 495413.19 689747.81 495366.90 689764.05 495359.22 689766.74 495349.78 689770.05 495337.42 689773.19 495308.03 689784.06 495251.62 689804.92 495200.08 689822.99 495158.32 689837.70 495133.43 689847.06 495094.84 689860.64 495076.92 689866.91 495068.56 689873.05 495056.42 689877.45 495033.62 689885.40 495033.36 689889.65 495033.13 689893.32 495032.51 689903.19 495032.60 689909.18</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.e9bfb912-d71b-4e99-970e-e4ce1f75a31f">
+      <ot:lokalnyId>28BEDAB6-95A1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.db8c64fb-e797-4ec5-87ba-54b500a532ba" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502826.58 684370.34 502840.70 684339.95 502818.97 684329.79 502802.53 684358.80 502800.35 684362.65 502826.58 684370.34</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.9a96d3bd-750d-4320-b077-12fb004ef023">
+      <ot:lokalnyId>28BEDAB6-95A2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:nazwa>Nad Stawem</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3f0062af-6cd8-4c1c-aa42-5458d35163a8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501754.42 686641.55 501760.21 686644.04 501764.60 686643.86 501769.00 686642.48 501774.94 686638.63 501778.69 686634.23 501780.35 686628.16 501781.00 686619.48 501779.46 686615.29 501776.05 686610.23 501750.51 686587.22 501721.08 686550.39 501686.78 686508.30 501684.32 686505.29 501672.68 686509.40 501663.89 686509.05 501658.16 686525.39 501658.02 686539.83 501674.96 686538.90 501732.78 686602.63 501737.41 686608.47 501738.29 686617.71 501740.33 686624.76 501744.40 686632.19 501749.13 686637.36 501754.42 686641.55</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.2252eddd-ba59-4b9f-b791-ff72c7ea30ec">
+      <ot:lokalnyId>28BEDAB6-95A3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>zaj.</ot:skrotKartograficzny>
+      <ot:rodzaj>zajezdnia lub baza transportowa</ot:rodzaj>
+      <ot:nazwa>Baza Miejskiego Zakładu Komunikacji</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6d3defdb-8dc3-44f7-ad5c-c28227fac31b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503213.29 684715.50 503215.03 684733.55 503214.90 684741.24 503209.62 684779.17 503386.15 684699.33 503408.99 684690.12 503398.58 684670.08 503385.63 684646.56 503374.14 684641.73 503351.39 684601.98 503358.39 684598.12 503309.70 684514.18 503299.61 684520.50 503275.29 684483.52 503261.81 684492.16 503225.30 684514.38 503227.40 684518.47 503236.05 684548.95 503241.81 684564.59 503244.90 684583.23 503239.46 684604.17 503236.92 684613.04 503234.69 684618.40 503233.40 684620.68 503231.52 684624.02 503222.53 684645.99 503212.91 684672.54 503211.84 684692.30 503212.05 684702.67 503213.29 684715.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.583dc17f-67a9-4e02-8da5-8914e8bbcfa3">
+      <ot:lokalnyId>28BEDAB6-95A5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.85bb9994-aef1-41ce-ae27-f23246bf8ebf" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501922.73 686046.66 501923.77 686050.54 501942.08 686075.98 501966.57 686110.02 501978.74 686102.22 501996.96 686091.97 502000.90 686089.75 501988.69 686047.60 501988.48 686046.89 501981.64 686025.90 501950.36 686034.38 501922.73 686046.66</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.0ba61f1f-b27c-45f0-8e91-590863008552">
+      <ot:lokalnyId>28BEDAB6-95A6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e7c82681-9633-4301-a274-9c078aeca0a7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503590.73 686298.36 503591.67 686307.24 503594.14 686330.47 503630.04 686327.79 503628.46 686303.27 503627.90 686294.63 503590.73 686298.36</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.25681211-0d31-476c-b712-72770879f3bc">
+      <ot:lokalnyId>28BEDAB6-95A7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:nazwa>Perfekt</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.caeee066-79d5-410e-8e4c-29eb0c636c30" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494366.70 687620.23 494381.80 687683.36 494390.40 687681.77 494388.07 687667.40 494400.66 687664.94 494403.73 687677.43 494422.25 687672.72 494419.79 687661.16 494432.66 687658.01 494444.04 687655.22 494448.45 687672.74 494457.69 687670.49 494445.50 687621.30 494443.14 687614.02 494428.40 687617.66 494425.49 687606.19 494366.70 687620.23</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.6ea82b32-9468-4111-bc5f-ee78ff0de309">
+      <ot:lokalnyId>28BEDAB6-95A8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:nazwa>Statoil</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.25fc1c19-71d8-49b0-a518-d6eb3e7165e5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502037.35 685646.09 502057.07 685651.67 502062.52 685653.21 502066.28 685654.97 502076.85 685657.76 502083.16 685657.29 502091.03 685654.16 502095.96 685652.20 502099.60 685600.22 502043.92 685599.70 502039.67 685630.20 502038.83 685636.24 502038.24 685640.49 502037.35 685646.09</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.cb5a67ad-2bfa-4a90-b4b0-7afbbcf11bf6">
+      <ot:lokalnyId>28BEDAB6-95AA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:nazwa>Centrum Handlowe Intermarche</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3df18484-d269-47ad-aa4c-9f1cead0e862" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502851.39 684242.21 502826.68 684243.87 502824.74 684246.18 502802.13 684233.69 502748.70 684204.97 502737.91 684223.89 502719.36 684256.42 502734.00 684264.41 502727.02 684276.55 502723.27 684278.06 502713.32 684294.77 502717.45 684297.77 502709.60 684311.50 502706.00 684317.80 502709.74 684321.28 502713.13 684324.43 502723.27 684332.69 502741.28 684344.70 502757.75 684354.58 502792.84 684377.29 502800.95 684382.66 502820.55 684380.40 502826.58 684370.34 502800.35 684362.65 502802.53 684358.80 502818.97 684329.79 502840.70 684339.95 502844.22 684341.60 502846.65 684336.55 502853.01 684334.39 502859.97 684318.40 502884.07 684266.49 502884.60 684262.28 502880.91 684257.24 502851.39 684242.21</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.eeee5cd6-7410-4f3e-913b-2a3297be912a">
+      <ot:lokalnyId>28BEDAB6-95AC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.11cb5a7f-07dc-4684-9141-f7a8457a8526" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504663.69 682962.74 504674.81 682994.63 504703.73 682984.74 504731.18 682975.00 504722.16 682951.66 504690.04 682952.66 504663.69 682962.74</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.1888a2f5-29b8-48dc-a7e5-eab9dea0e363">
+      <ot:lokalnyId>28BEDAB6-95AD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ee2025b0-a353-48bf-a145-fc3a49c49986" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503218.99 684521.79 503216.93 684517.78 503210.87 684524.17 503199.13 684536.54 503173.16 684563.25 503166.74 684570.24 503162.64 684574.71 503183.54 684592.75 503201.60 684608.33 503206.49 684612.25 503214.89 684604.81 503221.69 684597.62 503236.01 684585.17 503237.06 684577.55 503237.06 684568.87 503233.04 684558.50 503228.60 684544.95 503225.21 684534.15 503218.99 684521.79</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.e9afa8fc-cbb4-44c9-9cd1-0d5bf2b96e5c">
+      <ot:lokalnyId>28BEDAB6-95AE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja paliw</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8090af61-abf4-4bd8-972e-247db7c1ae10" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502909.99 685780.19 502915.07 685780.47 502922.00 685781.15 502939.89 685779.80 502956.04 685778.45 502962.58 685776.72 502966.42 685773.01 502965.14 685767.98 502964.23 685764.39 502963.97 685761.91 502951.17 685736.91 502917.85 685753.99 502921.64 685759.10 502913.76 685763.43 502911.22 685767.87 502910.26 685774.22 502909.99 685780.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.10ced506-941a-4e09-ad5a-ea2ed5129f71">
+      <ot:lokalnyId>28BEDAB6-95AF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>zaj.</ot:skrotKartograficzny>
+      <ot:rodzaj>zajezdnia lub baza transportowa</ot:rodzaj>
+      <ot:nazwa>Mal-Trans</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f37fce92-f843-4f04-85b4-dec1d3946ef8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503833.02 687138.61 503839.67 687162.17 503844.01 687178.30 503863.30 687172.52 503871.92 687195.53 503893.28 687181.23 503904.92 687170.06 503918.22 687156.03 503932.97 687132.13 503943.39 687114.41 503950.11 687096.15 503884.89 687095.60 503886.61 687102.74 503890.17 687117.58 503877.80 687120.44 503863.16 687123.68 503857.45 687125.05 503853.04 687105.94 503839.65 687109.54 503846.59 687134.87 503833.02 687138.61</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.ea499b5d-496c-427b-a019-df59d695cb5d">
+      <ot:lokalnyId>2c541d17-4c39-4fc2-b10b-a552d18d1eb3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1848caaf-a145-4a37-a25d-08378e724935" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502861.40 686501.37 502893.47 686446.05 502900.46 686434.81 502891.73 686427.30 502901.63 686416.38 502914.71 686401.95 502884.73 686410.07 502841.23 686447.16 502849.01 686474.30 502857.72 686507.69 502861.40 686501.37</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_A gml:id="OT_KUKO_A.d7b90cd4-69bc-434e-b9f3-fdd9646c8140">
+      <ot:lokalnyId>d26dd2de-bd44-11ea-b3c8-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:skrotKartograficzny>p.</ot:skrotKartograficzny>
+      <ot:rodzaj>parking</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c9c66d8c-08ad-4028-8ffe-18578eca6e28" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501886.33 685925.32 501896.28 685976.85 501967.84 685962.28 501959.18 685923.86 501956.15 685907.80 501954.37 685898.40 501950.85 685878.08 501880.06 685893.48 501886.33 685925.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUKO_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

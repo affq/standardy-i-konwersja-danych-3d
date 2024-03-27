@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_KUSK_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.5be822f6-4fbe-4644-9f0c-35d2245eea45">
+      <ot:lokalnyId>28BEDAB6-AFF0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>park lub skwer</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ab7d2f16-5e1e-4a6e-9852-144a34fba093" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501760.81 685223.48 501763.82 685238.21 501767.83 685256.33 501783.32 685252.63 501790.17 685250.73 501793.37 685249.85 501802.27 685246.73 501846.81 685228.97 501864.71 685222.32 501887.22 685213.97 501927.65 685198.95 501926.13 685192.85 501922.22 685177.26 501919.89 685168.03 501916.79 685156.92 501911.31 685137.24 501904.75 685138.71 501893.22 685141.28 501876.60 685144.68 501856.79 685148.47 501845.13 685151.03 501835.53 685153.13 501812.52 685158.67 501788.71 685163.54 501752.19 685173.03 501756.47 685198.06 501760.81 685223.48</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.bdb44fde-9c55-493e-99df-f6bc46839e7e">
+      <ot:lokalnyId>28BEDAB6-AFF1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>park lub skwer</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1e016342-89a2-4039-8169-8f492282f42e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504563.12 691367.50 504601.74 691395.46 504663.75 691432.96 504676.03 691408.61 504645.62 691392.53 504577.12 691346.87 504563.12 691367.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.058837c7-0945-44d8-a5ed-67a16b45c0ea">
+      <ot:lokalnyId>28BEDAB6-AFF2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>park lub skwer</ot:rodzaj>
+      <ot:nazwa>Jumpy Park s.c.</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a1f3fd10-3eed-491b-b06e-7f96836707a1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502276.68 686713.38 502271.08 686713.79 502260.64 686714.88 502223.48 686731.65 502202.33 686749.03 502220.39 686768.41 502304.26 686840.13 502314.35 686848.76 502344.35 686876.49 502425.59 686870.31 502437.65 686869.00 502401.92 686831.76 502321.07 686750.15 502306.36 686733.59 502303.59 686729.65 502296.29 686719.30 502276.68 686713.38</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.82b10a42-0c95-4c87-8d2c-1a637346cb26">
+      <ot:lokalnyId>eca1faf0-9c1b-11ea-89f3-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, nr rej.: 176/90 z 1991-01-15</ot:informacjaDodatkowa>
+      <ot:rodzaj>park lub skwer</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.98aafb60-298a-4a07-8350-b80ab645975a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>489055.40 692823.22 489092.91 692802.21 489100.07 692816.77 489114.83 692810.57 489185.36 692782.04 489160.61 692747.20 489106.31 692766.11 489083.25 692774.15 489057.57 692731.51 489037.31 692697.10 489045.76 692691.47 489056.07 692679.10 489095.49 692657.74 489077.19 692627.23 489065.48 692633.93 489026.10 692657.71 488971.13 692688.91 488980.37 692704.27 488991.15 692721.64 489009.08 692750.52 489015.18 692760.70 489027.72 692779.78 489030.47 692783.95 489055.40 692823.22</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.a3c6c200-4151-4d7d-bc00-fbfcf39d7bd5">
+      <ot:lokalnyId>eca1accf-9c1b-11ea-9c11-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>Gminny Ośrodek Kultury i Sportu w Starym Polu</ot:informacjaDodatkowa>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b7f531c5-6c51-4b7a-91a5-bdc74855cf88" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513150.61 687455.68 513163.33 687457.38 513190.57 687461.03 513196.77 687461.69 513231.80 687465.52 513264.47 687469.10 513273.45 687470.08 513295.45 687324.66 513302.94 687290.96 513304.09 687285.57 513305.70 687277.31 513313.67 687241.91 513321.08 687206.23 513227.40 687204.46 513218.02 687222.19 513174.43 687321.51 513164.26 687380.48 513153.67 687440.80 513150.61 687455.68</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.994499dc-812c-4da0-a9a1-a0192af6e3c1">
+      <ot:lokalnyId>28BEDAB6-AFF3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Kąpielisko Miejskie</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9f256644-23b4-4187-b5a7-5c9ed427972b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501412.18 685407.68 501434.72 685406.14 501459.43 685465.14 501443.80 685472.56 501447.27 685481.09 501463.53 685474.14 501485.88 685522.47 501479.46 685544.19 501480.46 685546.45 501483.56 685553.51 501497.56 685551.51 501503.87 685549.88 501503.13 685548.06 501497.73 685536.14 501474.36 685482.76 501436.54 685394.39 501433.28 685387.26 501424.45 685368.26 501409.37 685335.16 501376.30 685262.56 501345.52 685276.11 501355.58 685299.58 501361.98 685316.89 501369.71 685343.58 501393.11 685396.02 501405.81 685405.70 501412.18 685407.68</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.a0c27587-64d8-46ac-8b10-d3ed84b3f275">
+      <ot:lokalnyId>28BEDAB6-AFF4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Ośrodek Sportu i Rekracji</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.93102cc2-2063-456d-ab2c-7932d4236610" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502121.29 685111.39 502122.01 685124.23 502124.13 685134.39 502129.84 685143.28 502135.56 685154.29 502135.73 685163.07 502133.44 685169.00 502127.75 685180.72 502125.42 685185.60 502137.01 685232.63 502137.76 685229.09 502138.23 685225.24 502140.34 685222.33 502144.13 685217.99 502151.52 685215.48 502159.52 685214.60 502171.52 685213.99 502185.83 685211.55 502200.75 685206.26 502215.40 685199.71 502222.67 685194.66 502231.25 685186.11 502233.22 685183.40 502234.95 685179.82 502236.30 685176.00 502237.16 685171.81 502238.27 685154.07 502240.04 685126.82 502240.60 685118.19 502241.47 685094.40 502242.82 685064.74 502243.07 685059.25 502241.09 685058.83 502226.34 685055.71 502184.37 685077.50 502128.89 685107.77 502121.29 685111.39</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.bcb34f8f-c671-445a-8bf8-3578b4f0c237">
+      <ot:lokalnyId>28BEDAB6-AFF5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Klub Sportowy Lisovia</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ca49abd0-b42d-41c7-88cb-14ed7a9fb266" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>489023.91 692413.80 489024.98 692418.28 489031.13 692444.04 489056.97 692492.23 489067.23 692510.23 489100.68 692573.22 489113.38 692597.74 489123.91 692607.34 489133.83 692607.34 489163.69 692599.55 489156.26 692443.17 489155.34 692440.66 489086.02 692426.61 489082.44 692448.78 489041.86 692441.18 489046.00 692417.90 489042.06 692417.26 489023.91 692413.80</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.d8dd86f2-ba61-4b3b-9f96-a63f65acff94">
+      <ot:lokalnyId>28BEDAB6-AFF6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Ośrodek Sportu i Rekreacji w Malborku</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.63d1fa04-eaa6-4029-a0b6-4a3987b9f94b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503047.08 686394.44 503040.81 686364.08 503011.21 686370.42 502978.63 686377.30 502985.09 686437.33 502994.74 686488.41 502986.52 686490.46 502893.47 686446.05 502861.40 686501.37 502894.65 686591.93 502900.11 686606.82 502930.58 686661.02 502961.66 686700.97 502967.14 686711.32 503056.10 686705.43 503139.02 686702.38 503118.14 686579.37 503062.44 686582.18 503062.07 686577.88 503053.81 686524.45 503053.46 686521.74 503053.19 686519.60 503072.22 686516.83 503047.08 686394.44</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.60115591-be5b-451f-b4cf-9524fa674866">
+      <ot:lokalnyId>28BEDAB6-AFEC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>park lub skwer</ot:rodzaj>
+      <ot:nazwa>Plac Kombatantów</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a64dcfe6-8471-4575-9ee0-fbbdef3d39b4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500526.05 697089.25 500593.33 697040.70 500533.36 696957.56 500512.33 696928.62 500497.72 696941.73 500469.21 696976.82 500467.66 696999.54 500526.05 697089.25</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.b1136dd9-f6ac-4fa4-a07c-673276d0f751">
+      <ot:lokalnyId>28BEDAB6-AFED-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>w budowie</ot:informacjaDodatkowa>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Dino Park</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a6f182f1-b6af-4363-bfbd-a5276cbac91f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502827.93 686636.18 502882.61 686608.30 502850.25 686507.58 502849.61 686505.59 502837.77 686462.77 502769.17 686487.81 502782.20 686531.98 502788.93 686554.80 502827.93 686636.18</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.cad9d858-a792-415b-b0d0-5fb5f3c8fdac">
+      <ot:lokalnyId>28BEDAB6-AFEF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>Sekcja kajakowa</ot:informacjaDodatkowa>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Malborski Klub Sportowy Nogat</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.fe6cd7f0-fd22-4dc7-b0b8-e8d505744e9a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501059.71 684802.04 501081.16 684831.59 501087.94 684832.53 501097.35 684840.06 501106.20 684849.66 501107.70 684856.81 501112.79 684873.94 501115.80 684879.96 501119.94 684880.90 501124.46 684882.41 501131.80 684885.42 501135.75 684888.24 501158.71 684920.62 501158.53 684935.11 501178.62 684921.24 501195.70 684909.44 501186.29 684889.30 501161.52 684846.59 501160.11 684844.16 501154.77 684833.44 501103.43 684779.15 501059.71 684802.04</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.be4821ec-1c39-4ead-ac34-a60955bbcea8">
+      <ot:lokalnyId>28BEDAB6-AFF7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>MKS Grom</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7f4a5308-2144-4c30-bfbc-6d9fd0d4dadb" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500823.09 696871.33 500824.07 696886.91 500830.77 696925.48 500833.51 696966.69 500838.04 697025.73 500841.78 697073.43 500842.62 697087.67 500842.44 697090.26 500866.09 697085.25 500993.65 697061.99 500992.07 697022.50 500991.71 697002.39 500990.62 696964.17 500980.08 696897.78 500975.17 696899.07 500972.45 696882.04 500966.49 696872.96 500963.50 696861.04 500924.63 696872.33 500910.72 696819.72 500831.36 696838.45 500825.45 696854.37 500823.09 696871.33</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSK_A gml:id="OT_KUSK_A.01d8cfef-1f38-41fc-ad0c-9b465d6d0917">
+      <ot:lokalnyId>28BEDAB6-AFEE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+      <ot:nazwa>Ośrodek Sportu i Rekraacji</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.89ab5400-eab3-42bf-9dd2-6e7fbd7c8866" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502649.42 687046.26 502669.04 687029.49 502683.30 687017.29 502676.12 687006.45 502681.78 687001.07 502687.39 686996.06 502692.68 687002.02 502697.64 686999.29 502724.14 686986.10 502735.49 686974.62 502740.17 686962.90 502742.10 686839.90 502727.52 686817.17 502693.14 686806.60 502656.92 686751.84 502642.60 686760.35 502622.29 686771.55 502559.07 686809.35 502464.49 686859.59 502446.51 686870.94 502567.21 686980.01 502604.63 687012.81 502649.42 687046.26</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSK_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

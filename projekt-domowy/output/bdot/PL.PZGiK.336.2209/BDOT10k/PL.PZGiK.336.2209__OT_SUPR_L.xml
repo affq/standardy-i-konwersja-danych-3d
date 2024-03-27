@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_SUPR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_SUPR_L gml:id="OT_SUPR_L.1aa1001e-8a82-424d-95d5-a68b6e9db071">
+      <ot:lokalnyId>28BEDAB7-58B5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_442</ot:kodKarto10k>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.c01390eb-6bbf-4a9c-94bd-ee615b5da910" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>504851.60 685690.51 504841.42 685690.84</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:rodzaj>ciepłowniczy</ot:rodzaj>
+    </ot:OT_SUPR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SUPR_L gml:id="OT_SUPR_L.557d301c-9c44-4740-824a-d8d7049af2b2">
+      <ot:lokalnyId>28BEDAB7-58B6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_442</ot:kodKarto10k>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.508c84ae-e6f3-4dc4-a55a-0c0a5eb57e26" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>504851.60 685690.51 504851.79 685739.99 504846.55 685765.18</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:rodzaj>ciepłowniczy</ot:rodzaj>
+    </ot:OT_SUPR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SUPR_L gml:id="OT_SUPR_L.17b8243c-9244-4fcd-9259-4b4b5ce19852">
+      <ot:lokalnyId>28BEDAB7-58B3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_442</ot:kodKarto10k>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.5283a047-09c6-4598-b63b-a0a4d53f29f5" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>503744.99 684197.49 503750.82 684196.27 503781.02 684190.92 503786.91 684192.91 503804.54 684297.64 503805.48 684340.97 503811.07 684341.20 503810.95 684350.57 503805.70 684351.15 503806.38 684382.64 503807.29 684424.60 503810.64 684619.72 503872.82 684619.11 503907.14 684723.55 504081.38 684913.26 504193.59 685035.28 504304.47 685153.33 504351.90 685163.94 504360.64 685184.39 504401.98 685170.58 504594.18 685197.43 504610.68 685198.02 504613.30 685198.32 504627.49 685308.60 504631.06 685336.77 504636.06 685378.33 504640.87 685417.20 504645.66 685460.54 504653.47 685522.56 504839.01 685514.16 504840.44 685518.20 504847.55 685648.34 504850.75 685664.92 504851.60 685690.51</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:rodzaj>ciepłowniczy</ot:rodzaj>
+    </ot:OT_SUPR_L>
+  </gml:featureMember>
+</gml:FeatureCollection>

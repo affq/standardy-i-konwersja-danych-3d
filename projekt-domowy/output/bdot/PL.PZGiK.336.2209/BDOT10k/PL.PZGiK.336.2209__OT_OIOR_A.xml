@@ -1,0 +1,2407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_OIOR_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.0713861b-966a-4c71-bab8-dbde1b3b64dd">
+      <ot:lokalnyId>52dc5986-3472-4c91-94cc-58f7485fd40d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.58eccd7f-8f5c-44cc-9224-e1b1242bed03" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500433.22 697242.82 500454.81 697261.38 500458.85 697256.60 500437.26 697238.05 500433.22 697242.82</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.3bbfe3d5-b3d1-4417-8a32-2e2f31663e50">
+      <ot:lokalnyId>fd83f3e6-6b84-4e6e-94ff-a6e2f8841b4c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.49431f47-c572-4e22-8eeb-63239aa66c79" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500438.40 697237.15 500459.73 697256.00 500463.83 697251.28 500442.49 697232.43 500438.40 697237.15</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.b54d7212-f3d6-4948-9b90-00c0fd155421">
+      <ot:lokalnyId>8fe1c943-9ec0-45d7-af14-360083f30e51</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d51bc5ec-77c9-43b2-ac49-72de09ee346a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500475.99 697202.15 500494.84 697224.89 500500.78 697219.96 500481.93 697197.22 500475.99 697202.15</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.0ccd9406-938c-4cb1-8992-160acb69d88a">
+      <ot:lokalnyId>28BEDAB6-B266-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2e4df079-55af-43f0-a2ae-7122f2811ec0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494582.55 682887.32 494584.95 682892.90 494618.55 682878.41 494616.14 682872.83 494582.55 682887.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1ab9ef57-82e1-436d-b7da-ae27067e1e09">
+      <ot:lokalnyId>28BEDAB6-B267-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>trybuny</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2ca35116-2cb3-4eb9-99a5-f709a33aa337" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503005.22 686580.94 503016.62 686578.28 503010.05 686550.62 502998.31 686553.75 503005.22 686580.94</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.defb6c46-44f0-4e45-9896-5bef7419a49f">
+      <ot:lokalnyId>28BEDAB6-B268-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3616ceda-1c3c-4137-a106-6300db6e249f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504242.01 683295.80 504257.74 683317.11 504264.17 683312.36 504248.44 683291.05 504247.17 683291.99 504242.01 683295.80</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4b2ab696-2756-4bc9-80bf-e192dc9de9ae">
+      <ot:lokalnyId>28BEDAB6-B269-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.178d13e5-ccc5-429c-b208-1e5c6520de1c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495165.54 678695.50 495171.37 678698.63 495185.30 678673.85 495212.89 678624.78 495205.97 678620.95 495165.54 678695.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.0b0cc842-01eb-4808-8d06-1d9a2bd9634b">
+      <ot:lokalnyId>1cfb2c07-aea6-4f40-af63-0721dcf4c838</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6a457284-33d8-4672-b323-81bf23c724bf" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499367.10 696410.18 499391.66 696382.87 499386.89 696378.58 499362.33 696405.90 499367.10 696410.18</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.09d5ccac-f501-4e9e-a81d-21ee40a6849d">
+      <ot:lokalnyId>3f4b010e-39bb-4fe3-8254-4249b0633dbb</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.386a572d-3cde-492b-ac25-15de77636d20" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499360.67 696406.17 499385.23 696378.86 499380.91 696374.98 499356.35 696402.29 499360.67 696406.17</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.007381f5-4cc5-4d69-9f01-743ffbff8acf">
+      <ot:lokalnyId>18fc4656-d5d1-4404-b1d5-91bee585b017</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f1548575-930c-423b-92bf-5d18f5ad9b8a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>488854.45 692189.72 488803.72 692183.05 488802.16 692194.95 488846.77 692200.81 488845.87 692207.71 488801.33 692201.82 488799.75 692213.80 488850.03 692220.43 488851.19 692211.56 488853.00 692200.01 488853.66 692195.69 488854.45 692189.72</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.93b65871-82ee-4583-af8f-38846dab6965">
+      <ot:lokalnyId>fa0827ff-51f7-4bcb-a1fa-9f15404fdce2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.00a8a6dd-9e86-426a-889b-fcb2e11fab79" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500467.71 683118.08 500442.78 683128.99 500467.38 683185.38 500509.97 683167.07 500495.10 683132.98 500477.43 683140.37 500467.71 683118.08</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1fcfc118-dd06-43d3-8561-c1dd95e61a9b">
+      <ot:lokalnyId>b4c0a895-402c-46e9-81da-042b768b687f</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6f9c05f1-5934-4796-a5e6-3457dfeb7f57" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500509.11 683127.71 500529.56 683174.34 500564.40 683159.06 500543.95 683112.43 500509.11 683127.71</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.7e0e05be-dd1e-45a0-a3ac-62788971702d">
+      <ot:lokalnyId>c5cb56e4-62a9-4e6a-bbd7-7c0f40c64ebd</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b3f95d0c-9a01-454b-b378-3ac2a86544d2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500489.32 697190.57 500508.60 697213.61 500513.77 697209.28 500494.50 697186.25 500489.32 697190.57</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.6412fef2-e06e-4d4d-afb9-88fe7f8e02ab">
+      <ot:lokalnyId>33445770-3f4a-4a99-972b-9c0a3f1180eb</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.aa650a29-77fa-43c3-b861-01b95efb79ff" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500469.07 697207.91 500488.23 697230.41 500493.15 697226.22 500473.99 697203.73 500469.07 697207.91</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.c079b6ea-1476-49fc-ac88-e3e8db031967">
+      <ot:lokalnyId>a2d65a51-6548-4e62-8ee7-6958b9d73c57</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.899454c3-324a-4d50-bc09-610e9936f3ae" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500495.87 697185.18 500515.21 697208.46 500520.18 697204.33 500500.84 697181.05 500495.87 697185.18</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4f0ed2c5-29aa-4300-83bc-2c4aaa95134e">
+      <ot:lokalnyId>f9e15c41-6e5e-4460-9987-e2aecead0aa3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5d4d0d8d-8382-4419-b808-7a3b69a0b5b4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500482.90 697196.03 500502.30 697219.01 500507.51 697214.61 500488.11 697191.63 500482.90 697196.03</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.8109e7fa-fdf4-445e-ab4b-5e6d55c2b71d">
+      <ot:lokalnyId>c5892f0f-7e78-4931-94ac-31e11b17d10d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1bfea076-9f46-4f62-8565-9b90f941ac5d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500475.08 697318.13 500485.87 697329.47 500489.65 697325.87 500478.86 697314.53 500475.08 697318.13</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.046cd7ca-d6a5-41a9-ba8a-f974a44e5cdb">
+      <ot:lokalnyId>999845f1-2159-4ccc-a98b-27267dd8bb3b</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9d1aca46-5fd7-48e4-8d81-adf0db0a5356" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500463.56 697352.50 500484.96 697331.53 500480.73 697327.21 500459.32 697348.19 500463.56 697352.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.3630a9f0-b627-406d-b8df-215f78f97686">
+      <ot:lokalnyId>f9ee6771-9963-4ab8-b03d-c61fc96edc96</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.874965a9-5ee4-4c54-a288-e7bd978fc108" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500437.97 697383.12 500458.40 697361.54 500455.33 697358.62 500434.89 697380.21 500437.97 697383.12</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.9574c425-586b-447e-ae98-cfd538a70911">
+      <ot:lokalnyId>9e289a2e-4032-4aab-8e08-411cb8d8a208</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d7c8ae66-1bd1-4e2f-ae0b-6564766024df" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500413.60 697409.98 500433.67 697387.97 500429.91 697384.54 500409.84 697406.55 500413.60 697409.98</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.aa8c8b30-747f-467b-8011-f910216ac4fb">
+      <ot:lokalnyId>0598cef8-b83c-4b56-a701-1f260b2c64a4</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9b210829-6db3-4180-b79c-816341f80a03" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500376.81 697451.50 500383.84 697443.51 500368.48 697428.71 500361.11 697436.95 500376.81 697451.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.b58751f9-c264-4930-b13d-57d6ba5a5613">
+      <ot:lokalnyId>2b7ffe10-17a9-4249-aa92-17d983670a45</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2c6786f2-0c8f-4811-8902-fa0eae9f74d2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500370.60 697458.56 500376.81 697451.50 500361.11 697436.95 500354.62 697444.19 500370.60 697458.56</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.e5b734ca-b931-49b5-9cfe-94918ee87d33">
+      <ot:lokalnyId>f78b80ac-af13-497e-9b51-8c44b741a6a1</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4feabcc6-f63c-4877-95ab-eefe44afb052" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500351.22 697447.99 500367.26 697462.36 500370.60 697458.56 500354.62 697444.19 500351.22 697447.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.bdb0daf8-1a1b-477b-8fcd-aafd0b25abeb">
+      <ot:lokalnyId>6b173e8c-e2a7-4425-a702-1220bdb5584c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.fa6fdc35-6620-4bb7-9e17-4f9d4129e23e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500400.44 697424.65 500403.75 697420.89 500388.67 697406.18 500385.24 697410.01 500400.44 697424.65</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.87bd92e0-d17e-41c0-bec0-9cad923c37ed">
+      <ot:lokalnyId>37a82579-3931-4e39-9c26-1cdd6c8169ca</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ff57975e-a7da-4751-9662-60bfced1f838" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500383.84 697443.51 500400.44 697424.65 500385.24 697410.01 500368.48 697428.71 500383.84 697443.51</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.ed28e4c2-7131-45cb-87f4-2dcfc4ed589d">
+      <ot:lokalnyId>c2f801e7-613e-401f-ae74-ef54e62eb5ad</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5fa61c63-7a47-48bc-9922-fce3dd0a77b5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500590.66 683410.26 500597.86 683426.87 500624.40 683415.36 500612.96 683388.14 500593.12 683396.14 500597.80 683407.41 500590.66 683410.26</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.edd8bcf3-9bcb-4681-aed3-7b03aca6c111">
+      <ot:lokalnyId>53698ba8-8bc9-447d-be14-0c72d5f36fc7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7877d3e9-cba2-4a2a-a4c0-812e511cbd32" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500635.27 683466.89 500641.39 683484.82 500703.47 683463.65 500699.65 683452.47 500680.16 683459.12 500677.86 683452.37 500635.27 683466.89</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a1c64650-8c48-43e0-9bc6-047597ae40d3">
+      <ot:lokalnyId>4e94a920-bd45-11ea-a8a3-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7bf36e26-3e99-4ef0-967e-c8bd2c85c492" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499954.11 695995.05 499956.93 696001.56 499984.14 695989.76 499981.32 695983.26 499954.11 695995.05</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.b2178fa8-46de-4904-88ed-9667f03e46d3">
+      <ot:lokalnyId>28BEDAB6-B261-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.37743a3f-7be9-418b-8494-45ec4e196f60" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503175.58 688199.58 503186.34 688201.19 503189.77 688178.30 503179.02 688176.69 503175.58 688199.58</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1196b489-0555-4e3f-b8fd-5c4290da6cf4">
+      <ot:lokalnyId>28BEDAB6-B263-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8a846b6a-6751-404c-adae-650eac4aac42" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504279.54 683300.72 504295.28 683322.03 504301.71 683317.28 504285.97 683295.97 504279.54 683300.72</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.86fa07e2-58a9-4cd4-befe-6291a50446bb">
+      <ot:lokalnyId>a2b3ec51-b811-4075-8a2d-a3ee189a7c38</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a41fd84e-5a14-42b4-9187-b834c66d102c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500408.33 697405.25 500428.58 697383.12 500423.78 697378.73 500403.53 697400.86 500408.33 697405.25</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4f7dfa78-8758-441a-9bed-d147f7d0bade">
+      <ot:lokalnyId>bbfc9e5a-6e21-4fa5-a437-f308f8bcad8f</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e4da7968-4a35-4287-892f-593817336235" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500403.75 697420.89 500407.48 697416.65 500391.84 697402.64 500388.67 697406.18 500403.75 697420.89</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.0d039743-1a21-4a00-9410-2577e030e7df">
+      <ot:lokalnyId>6956208d-4ab0-439d-a84c-4b3f39cd065a</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5e7806fd-57b2-40ff-8911-86c238a70389" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500402.33 697399.79 500422.57 697377.66 500417.78 697373.28 500397.53 697395.41 500402.33 697399.79</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.6595e1a4-e07c-4e84-be48-09a7c4065270">
+      <ot:lokalnyId>498b3cc8-5afd-4c93-8344-536f4b1f40b7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1c0e1c8b-b6d0-4280-b917-b6776e310bb7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500457.43 697346.38 500479.26 697325.34 500474.52 697320.43 500452.70 697341.47 500457.43 697346.38</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.00466238-c3f7-4756-bfa5-b179dcb4a675">
+      <ot:lokalnyId>8959e24a-f40d-447e-a842-a7a30214fe5b</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6cc4e8f7-99e6-4509-be3e-b748466b69e1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500433.67 697379.12 500453.92 697356.99 500449.12 697352.60 500428.87 697374.73 500433.67 697379.12</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a8ccc7cb-fdca-4457-b435-746d7d8dccca">
+      <ot:lokalnyId>64221b65-cccb-46f6-8d96-5c14b8022b35</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zniszczona</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.559d2333-3379-445b-a6ef-a7e0e504f5f6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500428.09 697373.00 500448.34 697350.87 500443.55 697346.48 500423.30 697368.61 500428.09 697373.00</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.bc5dbc2c-49aa-4c85-8ba1-20f9697e1c3e">
+      <ot:lokalnyId>0365a566-fd25-45ac-865e-2fa3020063c0</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7d43f443-b94c-4bd6-8cf7-082029c3a1f7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500372.98 697411.55 500480.53 697292.67 500474.29 697287.01 500366.30 697405.51 500372.98 697411.55</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.f82445f2-7651-41e8-9983-afb1c1da8480">
+      <ot:lokalnyId>007578f8-9f40-41c2-a06f-95a697a0335b</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b90bbe2b-031f-458a-b1ab-47f98ad3a434" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500357.84 697397.85 500470.31 697273.02 500464.54 697267.80 500351.82 697392.41 500357.84 697397.85</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a9351f61-c94b-408c-b357-7f1bffea2e69">
+      <ot:lokalnyId>2569a5bf-289a-4a2e-b728-6b6796015e57</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.904b5609-066c-486f-8350-767f35459851" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500494.78 697280.66 500527.40 697247.26 500523.35 697243.31 500490.74 697276.72 500494.78 697280.66</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.2f916003-d566-4066-872a-81015beef82e">
+      <ot:lokalnyId>a513327a-64c4-4f9c-b8eb-9aca7314dc5f</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b3bce381-b3ab-40be-8aab-2aa3550205e7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500471.26 697273.88 500358.79 697398.71 500365.29 697404.60 500473.28 697286.10 500477.68 697281.24 500478.45 697280.39 500476.43 697278.56 500471.26 697273.88</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.3e5c31e3-5526-46d5-aadb-7663f1e387c6">
+      <ot:lokalnyId>b519b8fc-1f82-44cc-bdf1-11b31d765ae9</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.56f9c045-6a92-4aea-a6e1-4cf22e1b7972" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500325.33 697364.99 500346.97 697385.18 500350.95 697380.91 500329.31 697360.73 500325.33 697364.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.6a4d8b4f-851c-4bb1-8d5d-f613f72680e7">
+      <ot:lokalnyId>5f211917-a325-4888-b2c0-b2b3657e5b2a</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d548d011-0b3f-4970-b990-4beab531ccb6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500330.67 697358.57 500352.31 697378.76 500356.29 697374.49 500334.65 697354.30 500330.67 697358.57</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.dfdf5481-61cb-4209-9bab-2595bd4641fe">
+      <ot:lokalnyId>7a359e3f-9cf3-4774-a33d-db313a2a3580</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.86e3cb8c-e72f-4e4f-aa0b-8b74bd9818d5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500335.88 697353.17 500357.52 697373.36 500361.50 697369.09 500339.86 697348.90 500335.88 697353.17</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.ba4fc4b2-a4cc-4e8e-95aa-47b68c416197">
+      <ot:lokalnyId>c762efda-a856-4ec0-9dbe-fd353daf9844</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.563ab5c5-6b07-46ec-8181-399695ab3390" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500341.34 697347.72 500362.98 697367.90 500366.96 697363.64 500345.32 697343.45 500341.34 697347.72</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.b9454a66-a4ad-45f4-926c-59e230787959">
+      <ot:lokalnyId>bf2296d1-8e31-40c4-b55a-6e8b2236aed6</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6c39e7ca-3745-409a-b4e8-fad03a931d07" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499383.06 696426.47 499407.61 696399.16 499402.84 696394.87 499378.29 696422.18 499383.06 696426.47</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a532c713-1a9f-45b9-a3b4-45f9085dc2a8">
+      <ot:lokalnyId>1bb66242-e81e-4325-b1ac-ec288c0805dc</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1c543995-9521-47b0-b2ae-82d02f5b9e86" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499377.29 696421.12 499401.85 696393.81 499397.08 696389.52 499372.52 696416.84 499377.29 696421.12</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.7b91be5a-d6f5-4906-a62a-a51e15e8b509">
+      <ot:lokalnyId>9e9c9924-33c6-4695-a674-e6f76b614631</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.96035949-2174-452e-a9a2-ef4e52fff7a4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499372.11 696416.11 499396.67 696388.80 499391.90 696384.51 499367.34 696411.83 499372.11 696416.11</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.22886b64-0370-4d45-8c25-1ae1d2423f45">
+      <ot:lokalnyId>aba58c48-9bd3-4e78-b1ed-d5b1b49f24c8</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5eec0255-b3d9-4434-b54d-382ed56dd6d4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500462.07 697215.01 500457.60 697218.75 500476.06 697240.81 500480.53 697237.07 500462.07 697215.01</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.64fac5b8-927f-49eb-b904-296385029684">
+      <ot:lokalnyId>0ccdead4-c349-4769-8344-a597a7e9b2e0</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.964def9e-7123-40cb-b6c4-bc33959a3613" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500462.89 697213.31 500481.99 697236.04 500486.97 697231.86 500467.87 697209.12 500462.89 697213.31</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.005d9b88-1184-4102-8075-b19c18fc396a">
+      <ot:lokalnyId>abaf254f-0bac-4d7d-a7ae-68bd87b15746</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4b0e9285-3e59-43fb-b033-1f1a82daaf77" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500349.69 697338.60 500371.84 697358.24 500375.71 697353.87 500353.56 697334.24 500349.69 697338.60</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.bf369f6d-512a-448d-9df0-b1cd945495e1">
+      <ot:lokalnyId>5d3e3a2f-b544-47cc-8ea5-6713f51229e9</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bb268993-5639-43e0-a81f-fa035a5173e3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500355.21 697332.18 500377.35 697351.81 500381.22 697347.45 500359.08 697327.81 500355.21 697332.18</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.3bfcc2b0-7213-4a2f-b8e2-5478f01a6bb0">
+      <ot:lokalnyId>853d499e-24c0-4695-bd1f-70020957d580</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.32c4a486-b7ba-490c-9be3-666606ad616c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500360.84 697325.93 500382.99 697345.57 500386.86 697341.20 500364.72 697321.57 500360.84 697325.93</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.2dda6ff5-1ff8-4239-bf6d-52ba5730527d">
+      <ot:lokalnyId>b957740f-66b7-4e63-8fcd-36aece4f52c4</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3956f685-4915-4316-a4d0-8abd9a036911" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500370.73 697314.41 500392.87 697334.05 500396.74 697329.68 500374.60 697310.05 500370.73 697314.41</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.39714cbc-0619-429c-a72d-8791d7643ae9">
+      <ot:lokalnyId>179214b3-7feb-4ce8-b3f4-ec0c14d23800</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bc0045b3-54c4-4afc-a9c9-ed77fe7fb156" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500366.12 697320.05 500388.27 697339.69 500392.14 697335.32 500369.99 697315.69 500366.12 697320.05</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.ea4f6dd6-3dfa-49c9-8b8c-f41d5b1db7d7">
+      <ot:lokalnyId>e32fed86-0412-4e36-8fee-c54ccf88b7b5</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ae20e7e2-2646-4a48-a6e3-e2dd8fbe144b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500375.58 697308.72 500397.72 697328.35 500401.84 697323.65 500379.69 697304.01 500375.58 697308.72</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.d5610b5b-beb6-487e-91fc-81a4907c12fe">
+      <ot:lokalnyId>b2ca7e57-bd4c-437b-9b2e-62a568a6502a</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9fdba5df-5598-4851-8a8c-89f72aee9039" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500383.88 697299.68 500406.03 697319.32 500410.15 697314.61 500388.00 697294.98 500383.88 697299.68</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1891951f-b23c-407d-a645-4c5d78184082">
+      <ot:lokalnyId>7719b8b7-c7b2-4a23-b88b-34b498728010</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ce7b808c-1f35-4e04-acec-6c4054dae906" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500391.39 697291.32 500413.99 697310.44 500417.99 697305.64 500395.40 697286.53 500391.39 697291.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.15ca5e40-8f90-425a-bb2d-5d866f10f8b1">
+      <ot:lokalnyId>23d61533-5b7c-4043-bdc0-910493a07799</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8efa98eb-e8b1-4ad6-be66-8ad025d0677b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500397.45 697284.11 500420.05 697303.22 500424.06 697298.43 500401.46 697279.31 500397.45 697284.11</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.049886f6-3f80-4606-9ea3-a87077da9bd6">
+      <ot:lokalnyId>5284797c-aefd-46d6-8e32-137ee9468dcf</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.341fed01-2c56-40dd-8ec1-9ff139a12f43" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500403.27 697277.38 500425.87 697296.49 500429.88 697291.70 500407.28 697272.58 500403.27 697277.38</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.df2fa4cd-aba7-4c03-8eba-43e887b37eda">
+      <ot:lokalnyId>2dbc6942-5777-4b0c-8f55-e5098c72458a</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c029973a-ec27-4fc2-afac-eaabda51421a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500410.25 697270.83 500431.80 697289.07 500435.81 697284.27 500414.25 697266.03 500410.25 697270.83</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.2bab65da-5847-4f9e-a143-5dbf8989eab3">
+      <ot:lokalnyId>3c09cf82-d1ff-4a71-a120-6d4d1ac97720</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3379d03e-c3be-4045-ac3b-b5e348f860e2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500415.58 697263.19 500437.79 697282.07 500441.79 697277.27 500419.59 697258.40 500415.58 697263.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4e7bfd39-2fd6-445a-89e2-ae0d9b85f670">
+      <ot:lokalnyId>da736f04-8f05-42f5-b2b4-a9e7f2e6c6e1</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.382862f7-6fd4-460c-b763-e1ffd3e6468b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500421.76 697255.98 500443.97 697274.85 500447.98 697270.05 500425.77 697251.18 500421.76 697255.98</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.bda54167-44d8-4767-97eb-b523abca431c">
+      <ot:lokalnyId>2183b2f3-4061-419f-9748-8b298d741fd8</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7cfe7986-21d1-442e-8d1a-ae56e8778d41" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500427.10 697249.07 500448.69 697267.62 500452.72 697262.85 500431.13 697244.29 500427.10 697249.07</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a2f81045-0401-4329-b514-62b1712580b8">
+      <ot:lokalnyId>28BEDAB6-B236-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>myjnia samochodowa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.cc790443-28e1-474e-8cef-e9029832c2f5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500920.61 684215.97 500935.01 684239.23 500947.88 684231.26 500933.47 684208.01 500920.61 684215.97</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.0aee0f5a-a65c-4dcb-8a17-06e43dfe066a">
+      <ot:lokalnyId>28BEDAB6-B237-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0ec70f97-37fd-4537-98f6-9ad59a384cc8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502790.60 685860.31 502764.11 685875.40 502748.78 685884.71 502754.07 685893.42 502769.41 685884.11 502768.00 685881.80 502794.32 685866.83 502790.60 685860.31</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.c5e33f5d-aeb1-4e52-9808-60f2f6296421">
+      <ot:lokalnyId>28BEDAB6-B238-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5cec2cc5-c740-455a-99c2-13979943e87d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502928.65 685884.89 502930.12 685895.38 502957.29 685891.58 502956.68 685886.73 502955.78 685880.81 502928.65 685884.89</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.d077dc12-5334-4731-9c6c-cf4c6cfa5c53">
+      <ot:lokalnyId>28BEDAB6-B26B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4c7a496f-28a7-4fd9-a73a-16d55567f96c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499333.86 696402.02 499368.24 696363.68 499358.66 696355.10 499324.28 696393.44 499333.86 696402.02</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.20c1813d-9118-4e12-a354-1baa9716c082">
+      <ot:lokalnyId>28BEDAB6-B26C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8b56aaae-c8c8-48af-82f7-f9c4569abcf7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500776.75 686865.06 500786.24 686868.69 500804.27 686821.48 500794.78 686817.86 500776.75 686865.06</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1af4c75a-7e0f-4d80-b45f-67dbbb8833e6">
+      <ot:lokalnyId>28BEDAB6-B230-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>EGiB</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f310fc67-4e7c-4558-beb8-37b5bc776dcc" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500667.04 686931.01 500685.56 686885.44 500677.16 686882.03 500658.64 686927.60 500667.04 686931.01</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.e9bc1c4d-0bf4-4fb3-95ac-16f6d641023a">
+      <ot:lokalnyId>28BEDAB6-B23A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.432bb4c7-442e-4524-b040-21f534980cac" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499285.80 696449.90 499317.84 696414.62 499311.89 696409.31 499305.48 696416.37 499279.85 696444.59 499285.80 696449.90</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.0b0fea01-3417-41d9-ad08-5acb4623ad03">
+      <ot:lokalnyId>4e94a91f-bd45-11ea-a87f-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.49072da1-6717-4ab1-8625-7293bdaea0f6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499950.41 695985.79 499952.83 695991.73 499980.70 695980.37 499978.28 695974.43 499950.41 695985.79</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.cdc22ce0-49c0-44f1-8b92-83491b71ed55">
+      <ot:lokalnyId>28BEDAB6-B24D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7fa344e8-0c7f-44e2-99f5-bd27ad52e17b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499279.07 696443.88 499304.70 696415.66 499302.08 696413.27 499299.09 696410.54 499273.18 696439.00 499279.07 696443.88</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4e8362c0-ba37-440f-951c-560ba1164422">
+      <ot:lokalnyId>28BEDAB6-B250-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.98a9344e-c4f3-40d5-8918-fc635299a91e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499355.66 696401.40 499380.01 696374.24 499370.43 696365.66 499336.05 696404.00 499345.63 696412.58 499355.66 696401.40</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.7450d896-b2b3-4ad6-bfaf-9411817c9abe">
+      <ot:lokalnyId>28BEDAB6-B252-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>EGiB</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4d68f526-9900-4729-835f-bdd36fcb7465" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500655.24 686926.58 500673.76 686881.02 500665.36 686877.60 500646.84 686923.17 500655.24 686926.58</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a18906e9-bbc3-4663-9774-decba6762889">
+      <ot:lokalnyId>28BEDAB6-B254-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.05b6b47a-7ed1-4e4b-8a80-c01968c575b0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504186.20 686583.66 504193.24 686605.64 504204.81 686601.43 504197.77 686579.44 504186.20 686583.66</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.fefc5908-51f1-4fab-acc4-dacda9365e7d">
+      <ot:lokalnyId>28BEDAB6-B259-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.fb35d9c5-e495-4f34-9581-eee310367905" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499344.88 696416.16 499367.38 696436.86 499372.41 696431.39 499349.91 696410.69 499344.88 696416.16</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.44f2846f-89f8-44a3-88b0-b1de05bb75b0">
+      <ot:lokalnyId>28BEDAB6-B25B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.62644620-c90e-43cb-a63c-6dffb8342e9e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499350.16 696410.42 499372.66 696431.12 499377.83 696425.50 499355.33 696404.80 499350.16 696410.42</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.afc17c9b-6a97-42b9-8b72-beedc7150f26">
+      <ot:lokalnyId>28BEDAB6-B25D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7f3d0001-0543-4d18-84cb-7c077eae2280" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503505.00 685381.86 503515.63 685396.63 503578.93 685351.10 503568.30 685336.33 503505.00 685381.86</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.313e8067-035e-4235-9826-0e8b3a11486f">
+      <ot:lokalnyId>4e94a91e-bd45-11ea-ae08-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d31d8438-c6ad-46af-aa6b-9caebae2994e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499974.09 695964.89 499946.81 695976.43 499949.48 695982.75 499976.76 695971.21 499974.09 695964.89</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.a64ae9b5-684a-490a-a763-1d930a0476a1">
+      <ot:lokalnyId>4e962fc0-bd45-11ea-a46b-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.95426170-89b2-4f5e-89bb-ee26655c82e7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499959.01 696005.64 499961.87 696011.88 499988.77 695999.55 499985.91 695993.31 499959.01 696005.64</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.6fcb84f5-8905-4547-b039-ce2037f5ab62">
+      <ot:lokalnyId>4e962fc5-bd45-11ea-8013-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ea86caaa-78e2-4b12-8f57-f9c54b977bad" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500005.44 696011.59 500027.42 696058.73 500035.82 696054.82 500013.84 696007.67 500005.44 696011.59</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.f184bd82-d865-48cf-a5d7-b298e493cd84">
+      <ot:lokalnyId>521643e2-ce5e-11ea-a994-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e8c783b0-111b-41d5-8919-712fa887b12b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502785.87 685746.42 502823.57 685724.86 502873.85 685699.20 502871.07 685694.43 502820.93 685720.49 502783.49 685742.19 502785.87 685746.42</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.2a305f59-f400-4d56-8cf8-f47c76740c3d">
+      <ot:lokalnyId>28BEDAB6-B241-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0b77929f-2f37-4997-8dcc-24467dd3f5c5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498498.93 696394.12 498511.29 696405.42 498550.58 696361.71 498539.67 696350.99 498498.93 696394.12</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.c6a462d2-84d7-4e96-a035-b9ec64d0cc45">
+      <ot:lokalnyId>28BEDAB6-B244-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.44833ccd-3cc6-403a-8d25-5c9bc556aff9" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502727.11 686926.03 502738.26 686926.07 502738.44 686879.73 502727.29 686879.70 502727.11 686926.03</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.ce37956b-7299-4939-a029-1258a7678b51">
+      <ot:lokalnyId>4e962fc6-bd45-11ea-b525-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.67aae6d7-d287-4969-bddb-a3fea5bfd69d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500017.08 696006.43 500037.72 696051.54 500044.48 696048.45 500023.85 696003.34 500017.08 696006.43</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.54f0ad69-dcab-41cf-bd53-11b5a734dd67">
+      <ot:lokalnyId>28BEDAB6-B23C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.46472744-5dd4-4087-882e-ec13719dec17" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495159.97 689868.94 495249.66 689838.48 495246.20 689829.09 495157.10 689860.21 495159.97 689868.94</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.cccdda72-b698-4f96-a407-6ccbce581a2d">
+      <ot:lokalnyId>28BEDAB6-B23D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.59809c36-13c2-4d8f-bade-f94d4d993f35" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499291.56 696455.12 499323.60 696419.84 499318.37 696415.10 499286.33 696450.38 499291.56 696455.12</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.8d0fdfc4-73c4-463e-83bf-1346e107b6fd">
+      <ot:lokalnyId>28BEDAB6-B23E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.da1eeabb-a509-49b3-b355-bdda87121a86" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503983.68 685646.66 503995.67 685647.89 503999.36 685615.59 503988.29 685614.05 503983.68 685646.66</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.3a30f491-4376-4679-809e-d2b359d0f892">
+      <ot:lokalnyId>28BEDAB6-B23F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.481d8e49-f5bf-4233-949e-522c1beea2d9" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504271.02 683306.62 504286.76 683327.93 504293.19 683323.18 504277.45 683301.87 504271.02 683306.62</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1e09af1c-1792-4c2b-a2f6-b0e13592cfa6">
+      <ot:lokalnyId>4e962fc8-bd45-11ea-82ed-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.159a7105-310f-488f-b1d6-567f466fad5f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500071.85 696033.81 500114.42 696013.37 500069.21 695919.25 500026.64 695939.70 500071.85 696033.81</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.c3a5b17f-e99a-4eba-a741-0df9e8965008">
+      <ot:lokalnyId>ff0d675e-9c1b-11ea-97bd-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8f78a532-63e3-4fb5-a153-402cf1ecbb57" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499298.26 696409.78 499297.42 696409.02 499293.97 696405.78 499268.06 696434.23 499272.34 696438.24 499298.26 696409.78</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.ce807331-6caa-4709-8285-2773792ba792">
+      <ot:lokalnyId>4e932282-bd45-11ea-9224-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e44b1c60-3527-4ea3-98a6-8d68c96dbb15" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499981.37 695961.05 500002.96 696006.37 500010.60 696002.73 499989.01 695957.41 499981.37 695961.05</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.c1c8691b-e5b6-4896-a63d-f755ffe2257d">
+      <ot:lokalnyId>ff0d404f-9c1b-11ea-8267-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6a353ed8-5c05-45b0-8c2f-14888d58399a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499349.98 696350.40 499317.06 696387.14 499321.80 696391.38 499354.72 696354.65 499349.98 696350.40</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.ec97e8b5-1666-4ae7-82f8-15330277d2aa">
+      <ot:lokalnyId>521643e1-ce5e-11ea-81e6-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.441a0b72-a0f7-42f3-8fbb-f8cd92ab52f4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502876.23 685707.66 502785.10 685757.30 502737.28 685790.11 502743.82 685799.60 502793.16 685765.59 502879.88 685716.10 502876.23 685707.66</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.cd39780f-9197-4701-b816-62939902d352">
+      <ot:lokalnyId>4e932283-bd45-11ea-b377-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.092f30ba-cc66-4d27-889a-ad08d7873b31" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499993.40 695955.37 500014.03 696000.46 500022.38 695996.64 500001.75 695951.55 499993.40 695955.37</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.c18c06a5-82d6-4778-8dee-b65a72042cc9">
+      <ot:lokalnyId>4e962fc2-bd45-11ea-b882-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e8e32edf-ed68-4133-a0e1-9f2497f26a6b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499919.78 696005.81 499945.41 695994.68 499942.47 695987.91 499916.84 695999.05 499919.78 696005.81</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.aca55849-e004-4386-a5a2-cd7fbc30c885">
+      <ot:lokalnyId>4e932280-bd45-11ea-a33e-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a0f7e6e6-60e6-4031-950c-5b5425c7d4d1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504268.14 683315.39 504280.59 683333.68 504286.24 683329.83 504273.79 683311.54 504268.14 683315.39</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.35aef2b8-d3bb-42b8-b68d-ae2c4e936750">
+      <ot:lokalnyId>521643e3-ce5e-11ea-979b-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.57bddd7c-469e-46da-a534-c7d360b4fc08" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502866.17 685688.74 502862.20 685682.13 502775.87 685734.28 502779.39 685739.94 502866.17 685688.74</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.3c82aa09-457f-4a79-b3ed-ee4c8403dc9d">
+      <ot:lokalnyId>4e962fc7-bd45-11ea-bba2-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.866441db-8c76-4423-ba5e-7f71b7426ff6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500027.80 696002.33 500047.75 696043.01 500069.21 696032.49 500049.26 695991.81 500027.80 696002.33</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.672710e7-25e4-40e7-9754-89a2a292edb1">
+      <ot:lokalnyId>4e962fc1-bd45-11ea-8ce8-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a33e86ed-4833-42b0-a0df-61c8bfde6b1a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499943.93 695984.60 499941.38 695978.93 499914.56 695990.95 499917.10 695996.63 499943.93 695984.60</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.1eb7fb0e-84d7-4b21-bc2a-bb781720cf1f">
+      <ot:lokalnyId>4e962fcb-bd45-11ea-85c3-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f1b83ecf-d2d1-44da-8c7e-aafd9bd97abf" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500482.02 697272.53 500485.90 697276.02 500526.42 697230.98 500522.55 697227.50 500482.02 697272.53</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.77aac321-e4ca-4256-a87d-e6af7fcac314">
+      <ot:lokalnyId>4e962fc9-bd45-11ea-83d7-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.291ae934-0f78-4198-a120-110921eabda3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500502.80 697273.96 500496.03 697280.57 500490.53 697285.93 500497.14 697292.55 500509.58 697280.39 500502.87 697274.03 500502.80 697273.96</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.7bf41770-af82-4bb9-9900-d654eb860878">
+      <ot:lokalnyId>4e962fcd-bd45-11ea-826a-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9394d52a-ecc9-4301-9319-8e1c6ef21d6f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500328.52 697432.13 500333.98 697437.37 500339.89 697431.22 500361.90 697408.32 500356.88 697403.50 500328.52 697432.13</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.252f69bf-1ede-4614-89c9-85cee36fe71f">
+      <ot:lokalnyId>4e97b65f-bd45-11ea-acdc-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0a0fb109-7637-48a2-be76-2a4c4165610b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500311.12 697415.41 500316.57 697420.64 500344.83 697391.91 500339.18 697386.48 500311.12 697415.41</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.e2283c79-1503-4f78-8682-0002681af31e">
+      <ot:lokalnyId>4e97b65e-bd45-11ea-bb00-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3f3b7794-4a31-4c94-b4b0-a6745c2638b7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500317.14 697421.19 500322.16 697426.01 500350.65 697397.51 500345.40 697392.46 500317.14 697421.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.56909285-f366-45d1-876d-46c30b7ff12f">
+      <ot:lokalnyId>4e962fce-bd45-11ea-b987-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.de3ce432-1554-4e04-a5b0-251b5e406130" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500323.12 697426.94 500327.98 697431.61 500356.37 697403.01 500351.33 697398.16 500323.12 697426.94</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.af1c9218-020d-46e0-84f1-d1932db72841">
+      <ot:lokalnyId>4e97b660-bd45-11ea-be1f-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c5e58edd-d485-4381-8323-a1b684ff631f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500305.80 697410.29 500310.81 697415.11 500338.88 697386.19 500334.12 697381.61 500305.80 697410.29</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.d0ef32e8-0a4a-412d-9e4c-863dea785e3d">
+      <ot:lokalnyId>4e97b661-bd45-11ea-a6e1-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b4d54e30-99c4-4204-b952-18b3489fbfe3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500299.79 697404.51 500304.67 697409.20 500333.19 697380.72 500328.03 697375.76 500299.79 697404.51</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.8507d27d-4fc7-42ed-93dd-5c2ccbb4ab02">
+      <ot:lokalnyId>4e97b662-bd45-11ea-be9f-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5ba52079-3556-41e3-b5b1-5fefec6d8bf8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500340.45 697431.76 500345.52 697436.62 500367.53 697413.73 500362.58 697408.97 500340.45 697431.76</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.d27cbf3a-b0e3-42f5-aaad-e5f5c81d3899">
+      <ot:lokalnyId>4e962fc3-bd45-11ea-9e92-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6d1b29ef-23be-4c7d-bae6-bf81b7c1a8d0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499925.41 696014.90 499952.11 696003.07 499949.62 695997.43 499922.91 696009.26 499925.41 696014.90</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.2991f398-e8fc-4fa8-9bfe-00b4c811dfb0">
+      <ot:lokalnyId>4e962fc4-bd45-11ea-8a75-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a34ac907-3f70-4212-a5eb-935afa0a9b67" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499953.58 696007.89 499927.66 696018.64 499930.17 696024.69 499956.09 696013.93 499953.58 696007.89</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4b045155-0abe-40aa-b12f-5ac16732b19b">
+      <ot:lokalnyId>28BEDAB6-B246-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a15708ff-bc2c-4f1c-95fa-eaa9a0795ae7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500764.51 687017.32 500793.19 687027.64 500803.75 686998.32 500775.06 686988.00 500764.51 687017.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.851c98be-f2fb-494f-b0fd-0d0a3cdc5832">
+      <ot:lokalnyId>28BEDAB6-B24B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_336</ot:kodKarto10k>
+      <ot:rodzaj>wiata lub altana</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2af267e5-e871-4da5-b490-13a61052ba37" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>489353.51 692824.52 489365.95 692855.69 489369.62 692864.90 489387.10 692857.92 489370.96 692817.50 489353.51 692824.52</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_A gml:id="OT_OIOR_A.4cfbe1cf-f242-4cf4-a51b-69ed4fe1a8de">
+      <ot:lokalnyId>4e962fcc-bd45-11ea-8268-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_337</ot:kodKarto10k>
+      <ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.180704f2-b9cf-43f0-863f-b54e501837ad" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500327.31 697375.06 500321.28 697369.27 500293.35 697398.32 500299.24 697403.98 500327.31 697375.06</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_OIOR_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

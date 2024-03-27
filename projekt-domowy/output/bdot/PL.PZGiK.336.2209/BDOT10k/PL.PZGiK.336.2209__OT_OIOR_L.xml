@@ -1,0 +1,1432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_OIOR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.12874dbd-dff7-44f2-8ab0-0e8a6628232e">
+      <ot:lokalnyId>28BEDAB6-B278-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.33ad19b9-7f9c-4f80-8831-4028ef0dc205" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501721.41 686078.72 501709.69 686103.13 501721.03 686117.83 501757.09 686164.67</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.376ae680-ab9b-4a7d-9977-d2ab42a92c0d">
+      <ot:lokalnyId>28BEDAB6-B279-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.ba77c340-c12f-4c96-89b5-0a08472b203f" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501743.98 686113.48 501764.60 686146.00 501771.73 686154.87 501798.02 686187.50 501802.17 686184.18</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.1d6cbfe4-4eae-43d2-a304-7f684c63c31b">
+      <ot:lokalnyId>28BEDAB6-B293-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.2963e364-f7d2-45a0-b7d2-c664d21c10db" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502018.29 686221.05 502025.53 686230.89 502038.79 686248.91</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.56cea5bf-74ef-4468-99af-4ba1a9e05b4a">
+      <ot:lokalnyId>28BEDAB6-B294-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.8a3357fc-e33f-45e7-abfa-5d5be59b4b58" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501976.34 686163.84 501981.40 686170.73 501999.84 686195.89 502005.14 686203.12</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.9117b366-7882-4afa-b3b0-02dd4a7657c3">
+      <ot:lokalnyId>28BEDAB6-B295-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.04d2edaa-451a-4a4a-9fb3-dc02fb7ede6e" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502078.11 686303.01 502065.47 686285.50</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.4bea3621-4962-4559-a36e-6bf5d716bb53">
+      <ot:lokalnyId>28BEDAB6-B291-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.78eb022f-5421-4a5d-a0d4-7fa74a817e1b" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501966.57 686110.02 501970.26 686115.38 501977.82 686126.36</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.db5782c6-477c-484f-b3f1-4c4c5bab926b">
+      <ot:lokalnyId>28BEDAB6-B26D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.92fdd552-e4a9-4429-aa61-4cdd39cc09dc" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501828.96 696272.68 501835.70 696285.90 501842.04 696298.35 501848.67 696295.04</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.1f1283ee-460d-4a36-a629-9e8e496d50bb">
+      <ot:lokalnyId>28BEDAB6-B26E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.a924d805-ea74-4b42-b4f1-c8c94d032192" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501434.72 685406.14 501393.91 685422.88 501398.18 685432.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.ede719f7-806c-44ed-9754-76ff7c7a72ab">
+      <ot:lokalnyId>28BEDAB6-B26F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.221d5af6-54e3-46e5-9e06-14aa6e14945d" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501424.47 685492.53 501405.52 685449.81</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.6c6b486b-52a0-4fad-a21d-feb1d005993e">
+      <ot:lokalnyId>28BEDAB6-B271-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.7d359afc-b301-48fb-a235-d302464be0f4" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501424.47 685492.53 501436.17 685487.66</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.82b91194-1388-47ae-ba02-dc1301ed62bc">
+      <ot:lokalnyId>28BEDAB6-B272-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3c583466-898d-4e34-912f-aa1b6b469148" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501480.46 685546.45 501477.69 685547.48 501470.58 685530.39 501445.17 685540.61 501424.47 685492.53</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.a6c6015c-d016-4b92-8748-99d863d019bd">
+      <ot:lokalnyId>28BEDAB6-B277-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.c750d2e9-89ae-465e-8994-b449d8c4d437" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501757.09 686164.67 501741.20 686175.97 501725.46 686187.17 501695.37 686143.16 501689.86 686132.03 501685.83 686117.45 501685.04 686109.58 501685.83 686099.35 501693.83 686089.25 501711.34 686072.94 501717.79 686076.21 501721.41 686078.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.db4ae4bb-4a4b-42d1-8497-8b3e59341b80">
+      <ot:lokalnyId>28BEDAB6-B285-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.01233e74-d21b-4933-9818-5851947e4736" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501721.41 686078.72 501726.41 686085.89</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.b6bc67a6-0e92-4c84-adaa-dea9714f9a88">
+      <ot:lokalnyId>28BEDAB6-B286-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.6616a021-9c5b-4fb6-8688-459d3a7d39cc" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501806.75 686177.25 501870.34 686135.51</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.43f118ab-490b-4cca-9211-65461594c2bc">
+      <ot:lokalnyId>28BEDAB6-B296-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e1db3585-c8e5-4f06-b90e-40578165d20c" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502162.15 686416.48 502127.49 686371.23 502120.48 686361.30 502082.21 686308.69</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.e1b40968-cb1c-47f9-8924-dcef56e0639f">
+      <ot:lokalnyId>28BEDAB6-B297-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.6e9b45d2-8280-4f3d-b9a3-7e8584521dfb" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502068.11 686565.82 502062.09 686559.68 502057.30 686555.19 502052.56 686550.68 502031.75 686530.49 502019.78 686518.20 502015.44 686522.44 502002.86 686509.49 501995.65 686502.06 501999.09 686498.45 501965.91 686465.68 501956.37 686456.26 501947.71 686447.70 501931.05 686437.33 501915.78 686422.19 501894.61 686402.05 501877.17 686380.81 501857.05 686361.19 501835.77 686340.65 501826.36 686324.58 501842.14 686311.28</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.da40d428-5380-40c0-b540-f2b1f867d641">
+      <ot:lokalnyId>28BEDAB6-B287-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.bae09d91-0b81-4fd3-85e7-0b8c21e156c0" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501808.14 686191.78 501802.17 686184.18</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.e177efc7-2fde-443a-9838-6ab156cd65f6">
+      <ot:lokalnyId>28BEDAB6-B288-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.7083e2d4-5fe9-4dc1-9c73-76d7b3f7c5a9" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501802.17 686184.18 501806.75 686177.25</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.b86f5bbc-7b23-4e26-83c8-183552a41f23">
+      <ot:lokalnyId>28BEDAB6-B289-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.27218787-e636-4d34-bbf2-99df5b36b811" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501874.97 686159.41 501829.65 686187.10</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.0a0309fc-e21d-4705-bbfd-19830c716c16">
+      <ot:lokalnyId>28BEDAB6-B28A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3cf01d0c-e5e3-464e-93c4-b0f137695749" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501808.14 686191.78 501813.07 686198.20</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.680e7a48-18a4-439f-a017-3648ee120ef4">
+      <ot:lokalnyId>28BEDAB6-B28B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.99a34b54-0131-4fce-895a-0fe5d5d4121c" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502000.90 686089.75 501996.96 686091.97 501978.74 686102.22 501966.57 686110.02</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.f3dd3a5d-05a8-4ea6-b2bf-6068abdbb7eb">
+      <ot:lokalnyId>28BEDAB6-B273-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.479e5c52-bb99-4855-814e-4b74e90b7c75" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501637.44 687039.65 501650.34 687021.47</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.3191ea04-e567-4661-89c0-7f982affb479">
+      <ot:lokalnyId>28BEDAB6-B276-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.b96e4021-e473-4679-9a94-f6ada0f40a0c" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501574.50 685690.58 501573.15 685686.24 501567.43 685667.40 501554.82 685671.11 501550.91 685670.74 501548.31 685668.38 501547.52 685665.22 501548.78 685661.60 501551.35 685659.60 501564.91 685656.13</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.37cddff4-23fb-4ad1-a84d-291d57d195e2">
+      <ot:lokalnyId>e217a954-a522-4b4b-8981-3a7e02524237</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.f8265e11-edab-464f-a5ea-afc5c61f2f25" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495987.60 679852.28 495995.90 679859.50</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.5838be34-ff7b-4dea-b02f-dcb5dd2e88dc">
+      <ot:lokalnyId>bd15d56e-487a-406c-80f8-63c23da8ee45</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.a1d1b19d-a3a8-40b9-8a86-4ed0da7ec943" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496102.41 679814.28 496094.60 679822.09</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.49cc60bb-75f4-4a44-8922-f18f8db102b2">
+      <ot:lokalnyId>df86ea00-2356-41c2-9fbe-288976705aeb</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e870e475-0226-49df-b2e9-1194dbb12810" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>497698.89 681498.83 497703.46 681510.14</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.a73a2c6c-463a-4974-a1e3-73c3982cea75">
+      <ot:lokalnyId>4eef0abe-6a76-4879-9de2-66e3b2174b0f</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.da6f2376-167e-487b-abbf-fe8499381ba3" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495942.90 679892.22 495956.57 679903.28</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.461f2a90-9ded-4b76-85a9-eed998d5a092">
+      <ot:lokalnyId>de6536bb-b1dc-4543-a5df-02996efd100c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.eee8ba0e-325a-44ff-a01e-684c255f1c0d" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495962.21 679877.15 495969.93 679884.85</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.6de0372b-5303-4802-ae10-cbe82a5e9f18">
+      <ot:lokalnyId>cb920346-eb17-4197-be16-db3f96ed3e42</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.949093d4-a417-412a-8f02-bf6e06c4d33b" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496008.82 679824.97 496019.02 679837.41</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.6fc77e36-5802-419d-8672-641f1feb56ad">
+      <ot:lokalnyId>7038c44e-ebb7-44e5-a21c-e4d26f2693b6</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.0333b0d2-3a82-40cd-94dc-046ed685559a" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495996.80 679839.94 496005.76 679847.13</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.c0e2c829-3226-4e82-ae5e-938620f60f3e">
+      <ot:lokalnyId>8a171b3e-aeac-4b25-9d35-7295d1621ad5</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.19f35841-80fa-4f08-b49b-5fe2de049484" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496062.13 679930.19 496069.53 679935.64</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.217a0347-6151-402f-a362-d3e356d8727a">
+      <ot:lokalnyId>07a78e61-855e-4005-93b0-25dbdc0b933b</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.81482af7-89ee-4fa3-8682-00c37540ff8f" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496049.78 679956.01 496056.65 679960.21</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.c90ce466-3c58-44f1-9002-83c797b9359e">
+      <ot:lokalnyId>33aff25a-ccb6-4554-af14-b7710bf63609</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.304616e2-d147-472c-9acd-d0a1300e8031" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496039.12 679972.00 496045.50 679976.25</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.c9289ecf-e437-4fba-bb4e-de323e85ec50">
+      <ot:lokalnyId>2b1888f0-fdf3-4d2e-a54b-c694664be7be</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.a22b42a2-521b-4731-ab68-aa8a70866d08" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496027.33 679982.87 496036.84 679988.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.5836d934-748b-4fcd-8c9e-48cb01eff6c4">
+      <ot:lokalnyId>be8aae23-0f5f-45b4-948b-c3e971b2f543</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.f2a5baf4-d360-47a5-a94a-b14d91741140" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496015.44 680013.01 496020.32 680015.37</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.eb0d03ce-0395-4050-9faa-36a043d6f9ca">
+      <ot:lokalnyId>02a5a723-0920-4cfe-9168-6308e16d9e94</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.da414dee-25be-479d-91a8-f10f9ebfa085" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496000.13 680034.64 496006.41 680038.09</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.a0343bee-14b2-4d3b-bb7b-a6d4d8b18441">
+      <ot:lokalnyId>cbc712a5-2934-49cd-83b3-e24fe0a22b5e</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.2dab7cb2-d92e-4cdd-9952-49c44673ca76" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495984.18 680054.21 495989.40 680058.01</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.2bc09ae0-3fa3-4c20-b6a3-654bd7cc6068">
+      <ot:lokalnyId>88e8dc62-ed9e-4cd1-92d6-6990f4822033</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.88fd6135-4e6a-4d13-bde4-a636d4decab3" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495939.82 680088.63 495943.29 680085.16 495948.33 680090.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.40d33ae6-e727-4dce-b13e-5da4c4a21cac">
+      <ot:lokalnyId>56929eb5-2e60-46b7-8d7c-5bc7e11a67fa</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.504bde7b-b59f-468e-bed8-f0d54f4a3bee" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495967.29 680069.05 495971.08 680064.95 495977.02 680070.11</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.fa661648-ead3-4a17-b028-a5406a958fbe">
+      <ot:lokalnyId>551ec8c7-8c31-4ac0-bd06-ffb03665b478</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.ac52abd4-9f91-46b1-89cf-91ee48b70c2b" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495921.33 679956.29 495927.22 679963.31 495923.40 679967.75</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.1183d265-a6b4-442c-a523-bc6d94e9cb9d">
+      <ot:lokalnyId>0a5895f7-1e2b-4502-934d-2594cb139868</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.31f4517f-be6b-4da7-a381-14718bf7bfd0" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495930.15 679932.62 495944.61 679936.05</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.8568f0ea-00c0-4118-b485-548091b3a897">
+      <ot:lokalnyId>9158d653-646d-48d9-bda2-ef770daf6840</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.01dd31fa-2e50-4efc-a2f5-8da9f5a49fe5" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501768.51 686063.02 501789.90 686051.95 501786.91 686046.72 501791.55 686044.17</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.258a69a2-e4b9-4634-9493-3d66212101de">
+      <ot:lokalnyId>8bf0c731-b27d-4b9e-bbc4-dd05c1d3cf14</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.35b60b83-0574-4d75-980b-382171d1a6c7" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501726.41 686085.89 501736.32 686103.38 501737.70 686105.19 501740.45 686105.68 501822.14 686059.44 501827.80 686061.52 501858.94 686103.13 501864.74 686099.19 501897.59 686142.89 501914.29 686167.48 501951.37 686221.66 501949.71 686223.03 501921.29 686246.26 501920.97 686246.54 501917.68 686249.51 501914.83 686252.14 501881.09 686281.99 501857.82 686295.67 501853.30 686298.32</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.bf165200-69f8-423b-90cc-eb1eeb0ba6cd">
+      <ot:lokalnyId>2e53abfe-151f-4860-af76-20f596029742</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e7b58a90-b285-45cd-aa4f-01366ff73a90" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501839.59 686294.70 501824.47 686296.01 501806.37 686282.41 501750.92 686217.30</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.067faac7-0ca4-49e4-8255-6ade1e764f9c">
+      <ot:lokalnyId>e8bd944f-6a7c-42fe-a9c8-4c4e8254cb19</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.9102ab88-fe03-49d9-8667-7c551074a2ec" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495335.39 687183.74 495339.19 687176.13 495344.31 687179.05</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.7d14a39f-81e1-4b05-95fd-d99ad473f627">
+      <ot:lokalnyId>8e6b3997-6f21-419b-af3c-94c580ebd478</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e53cd0ce-e1d2-4b02-9514-2a7dab16495a" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495303.69 687096.66 495312.92 687093.61</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.d0942622-4838-4a8d-bbc1-0aa19dc4f4a8">
+      <ot:lokalnyId>867e4d4c-3764-4a64-84ab-083eb7d50f70</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.d6269f41-1820-4442-87f8-6322089a8306" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495319.18 687150.28 495332.78 687145.72 495341.28 687142.69</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.0df6310d-b0be-4088-84df-11ea82531fd3">
+      <ot:lokalnyId>992e77a2-396b-4803-af07-965155c5a951</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.0f3c8c0d-1911-470a-b96f-ba3e66725219" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>512449.50 691791.30 512440.55 691787.38 512442.72 691782.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.e61a67a6-1f1f-44d1-aaa7-b194854fbcf5">
+      <ot:lokalnyId>b02b3f8d-8e9f-433b-b91e-61934215c308</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.2b3968b3-d6a0-47c1-866c-50e6a1a208f8" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501658.46 686729.90 501663.94 686736.07</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.5cd42664-b365-4dbf-af2e-193318019a75">
+      <ot:lokalnyId>602af11f-3afb-460b-b73a-46e8c1a19b2e</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.c523f779-bece-4930-9351-9b2e11f9a229" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501658.46 686729.90 501655.84 686732.84</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.8d16b5dd-dfdc-4a51-8b49-c50def28e5f3">
+      <ot:lokalnyId>910ab6aa-d162-47b6-807f-9c20cc5b29bb</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.8c5f0ad9-19a3-46e8-9b21-cdb811eeecce" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501661.07 686726.96 501658.46 686729.90</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.037de2f6-f2bf-4172-912c-fca740c05541">
+      <ot:lokalnyId>8bb29379-5211-462f-b3eb-2828b17beca5</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.109a791e-30a9-40b8-ad57-163bcb85d96b" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>503283.48 687518.38 503287.59 687522.32 503293.79 687515.78</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.cf54a780-1250-4e13-845f-5f3b97b9c4d6">
+      <ot:lokalnyId>28BEDAB6-B290-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.b8e8a76d-6908-4a14-91bb-3c87d99e963a" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501977.82 686126.36 501990.10 686118.24 501997.52 686129.37</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.14260162-777d-41cc-a9bb-bf62e036e47d">
+      <ot:lokalnyId>28BEDAB6-B284-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, mury obronne, miejskie, nr rej.: 227/N z 1962-09-06</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3024a929-fddb-4d22-a1a8-bc6bc71f7044" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501806.11 686020.65 501734.60 686059.26 501721.41 686078.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.4f234a81-49f0-4bfa-9110-e7fb383fb913">
+      <ot:lokalnyId>28BEDAB6-B27C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3691e8d0-b660-4a82-8709-389574be9ed1" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501763.51 686109.81 501764.67 686095.80 501798.70 686075.88 501811.12 686069.05 501820.51 686063.22 501854.19 686111.10 501856.37 686111.90</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.2ebe1d51-3f8c-4e43-b144-93cba9ba6bcb">
+      <ot:lokalnyId>28BEDAB6-B27D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3edede78-3dd3-42a1-9490-81d0a9945393" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501901.01 686058.20 501916.98 686081.29 501919.27 686080.22 501921.82 686080.75 501924.11 686082.27 501923.71 686085.12 501922.72 686088.48 501943.84 686119.29 501956.60 686137.12</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.9bc32228-364a-4766-84fe-47a23fa85759">
+      <ot:lokalnyId>28BEDAB6-B28C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.14e06d91-65fc-4667-a4e6-d683381fca36" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501977.82 686126.36 501985.93 686137.49</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.e5e0020f-19c7-44b1-99d0-655b510efe17">
+      <ot:lokalnyId>28BEDAB6-B28D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.2d698540-09d2-4c4d-bbad-77db079f3c85" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501962.82 686136.92 501977.82 686126.36</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.cca2d710-aa48-41d2-9ca9-a768118a535f">
+      <ot:lokalnyId>28BEDAB6-B27E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.0c3ae39f-c937-43bd-9b8c-81ed41ffdbe7" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502188.75 686373.98 502189.28 686372.06 502189.38 686370.15 502189.06 686368.03 502187.68 686366.22 502185.24 686365.05 502182.69 686364.84 502180.70 686365.45 502176.71 686368.40 502126.91 686295.39 502131.25 686292.70 502132.42 686289.30 502131.86 686286.76 502129.84 686284.61 502126.79 686283.79 502121.76 686285.75 502070.39 686204.52</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.17ab9400-782a-47b5-80be-e106ced97f1b">
+      <ot:lokalnyId>28BEDAB6-B281-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.93142bdc-3bf7-411d-9716-8308c0124cf9" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501930.47 686059.85 501942.08 686075.98 501966.57 686110.02</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.03847009-9b7f-42d4-aee0-b89aa03339af">
+      <ot:lokalnyId>28BEDAB6-B282-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.5fe9bf7c-0aaf-43df-a088-6604452e8dcc" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501985.93 686137.49 502045.93 686218.68</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.fb6457fe-f7a2-487e-836b-d881c17f4871">
+      <ot:lokalnyId>28BEDAB6-B27A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.9d17b8f2-972a-4f01-8d4c-29aa69dfba49" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501757.09 686164.67 501789.83 686206.45 501803.62 686206.50</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.b99f4c04-60bd-4a06-849c-daa06ecac24f">
+      <ot:lokalnyId>28BEDAB6-B27B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.9d0a4e67-4821-43a7-978b-d4faf79789d5" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501762.72 686114.88 501762.57 686120.95 501775.66 686137.86 501782.50 686147.10 501806.75 686177.25</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.f46bdd9d-45bd-4b4d-84f4-1a977621e87f">
+      <ot:lokalnyId>28BEDAB6-B28E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.c6956412-10fc-4a09-b4a0-6c20ae5160eb" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501997.52 686129.37 502013.97 686118.94</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.12799408-898d-4e6b-befe-35c65cdd6f8c">
+      <ot:lokalnyId>28BEDAB6-B28F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.d61c7815-6611-4544-9c85-38771af5b1ce" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501985.93 686137.49 501997.52 686129.37</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.379cf124-95f4-44d7-89de-d57f3982dd3c">
+      <ot:lokalnyId>28BEDAB6-B292-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_629_2</ot:kodKarto10k>
+      <ot:rodzaj>pomost lub molo</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.9389dca5-9871-42fa-a5db-e63a1bbfe2c1" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502471.02 687033.33 502495.59 687052.57 502505.96 687040.59 502538.63 687064.57 502533.41 687072.00 502572.15 687101.88</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.57a51a59-058a-46b8-939a-fb42d70df4f9">
+      <ot:lokalnyId>28BEDAB6-B283-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.44c6f9e7-ea59-4584-a4ff-13353839298e" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501726.41 686085.89 501752.41 686071.47</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_L gml:id="OT_OIOR_L.ef900edd-98db-4670-8f4b-2028d29f11e9">
+      <ot:lokalnyId>28BEDAB6-B280-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_348</ot:kodKarto10k>
+      <ot:rodzaj>mur historyczny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.45bff8f5-daac-405f-8141-e8c5e56a8ec2" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>501581.02 685705.81 501587.78 685726.73 501590.50 685742.44 501600.09 685782.45 501601.15 685789.23 501598.61 685791.34 501599.73 685795.35 501604.35 685811.54 501610.02 685831.45 501622.74 685865.30 501624.72 685870.57 501626.76 685876.01 501635.28 685897.64 501632.19 685909.84 501631.90 685915.51 501637.22 685935.82 501654.14 685948.05 501666.47 685971.34 501671.64 685986.47 501676.90 685995.63</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_OIOR_L>
+  </gml:featureMember>
+</gml:FeatureCollection>

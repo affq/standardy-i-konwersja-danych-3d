@@ -1,0 +1,2007 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_ADMS_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.fbb3e102-1e08-400b-9b56-87479a92eb8c">
+      <ot:lokalnyId>28BEDAB6-498B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Szlagnowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0156720</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>107</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>135703</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f5d282f8-3b7c-47d4-b63d-9f15f4456297" srsDimension="2">
+          <gml:pos>514978.94 688186.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.85546d66-7870-46b1-9757-63ee35e2c66d">
+      <ot:lokalnyId>28BEDAB6-498F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Świerki</ot:nazwa>
+      <ot:identyfikatorSIMC>0153643</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>11</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>169469</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.818fa84c-31cb-460d-beae-73b109f7bd73" srsDimension="2">
+          <gml:pos>506102.53 697241.34</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.3e8e3d68-49d4-445e-aed4-87363da4b847">
+      <ot:lokalnyId>28BEDAB6-4991-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kałdowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0932821</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>część miasta</ot:rodzaj>
+      <ot:liczbaMieszkancow>1221</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>48759</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8d440628-8636-4516-ba75-ee7f213ddb2e" srsDimension="2">
+          <gml:pos>501247.90 686528.02</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.673a695c-37bd-4c0b-9b58-4a5404701f60">
+      <ot:lokalnyId>28BEDAB6-4998-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lasowice Wielkie</ot:nazwa>
+      <ot:identyfikatorSIMC>0151986</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>16</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>169463</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7ec5906a-6990-4207-8842-a2d3dcba1a45" srsDimension="2">
+          <gml:pos>506200.96 692360.10</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.48900dcf-dd1f-466e-9191-a090094f5782">
+      <ot:lokalnyId>28BEDAB6-49B4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Parkany</ot:informacjaDodatkowa>
+      <ot:nazwa>Parwark</ot:nazwa>
+      <ot:identyfikatorSIMC>0156699</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>58</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>97586</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d021ee1c-ea36-48b2-9552-7b91445b7c37" srsDimension="2">
+          <gml:pos>512470.72 685462.10</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5b66375e-fbd5-45e7-830a-dd59da328dd0">
+      <ot:lokalnyId>28BEDAB6-49C5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Wielbark</ot:nazwa>
+      <ot:identyfikatorSIMC>0932867</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>część miasta</ot:rodzaj>
+      <ot:liczbaMieszkancow>2181</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>145877</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8ba42549-c274-42db-a402-9cd509a06802" srsDimension="2">
+          <gml:pos>500709.69 683398.44</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b82245e0-970e-4043-b9e8-fb8485ecc625">
+      <ot:lokalnyId>28BEDAB6-49C7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kamienice</ot:nazwa>
+      <ot:identyfikatorSIMC>0152069</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>27</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>48974</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2fd4a488-fa18-485f-bf43-d84de8e6080b" srsDimension="2">
+          <gml:pos>506308.74 688257.95</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.af064970-a191-45ec-8ce1-07e58a45f13a">
+      <ot:lokalnyId>28BEDAB6-49CE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Pordenowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151822</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>105</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>108525</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d98d1d81-f4a6-43aa-bc9f-12811e6056a9" srsDimension="2">
+          <gml:pos>493686.49 698678.91</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.681576a8-4869-4d2f-92f2-2f8279853066">
+      <ot:lokalnyId>28BEDAB6-49D0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Mątowy Wielkie</ot:nazwa>
+      <ot:identyfikatorSIMC>0152738</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>27</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>169467</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.768c7b92-9ce6-454c-919b-b2a175af9c95" srsDimension="2">
+          <gml:pos>492246.09 682877.04</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.d4e6ccd1-1580-411e-aec1-48d1f60e1e07">
+      <ot:lokalnyId>28BEDAB6-49D2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lichnówki</ot:nazwa>
+      <ot:identyfikatorSIMC>0151756</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>193</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>68099</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0b9a5c77-7eb6-4e2b-bea2-bffb2925e626" srsDimension="2">
+          <gml:pos>493225.74 693608.81</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5d3be7ff-e8e8-46da-8a25-83b4ed23d640">
+      <ot:lokalnyId>28BEDAB6-49BB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Sadki</ot:nazwa>
+      <ot:identyfikatorSIMC>0932850</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>część miasta</ot:rodzaj>
+      <ot:liczbaMieszkancow>378</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>188950</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.3689416a-5dac-4500-a91d-a217e314998f" srsDimension="2">
+          <gml:pos>502782.40 685625.17</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b795d6ed-aca8-4192-8880-eac45126ca04">
+      <ot:lokalnyId>28BEDAB6-4995-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Cyganki</ot:informacjaDodatkowa>
+      <ot:nazwa>Cygany</ot:nazwa>
+      <ot:identyfikatorSIMC>0152709</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>część wsi</ot:rodzaj>
+      <ot:liczbaMieszkancow>27</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>18282</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.556ba7a9-004b-4261-ac89-b09041793b84" srsDimension="2">
+          <gml:pos>490821.11 680051.66</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5489b859-5cb1-4574-b9a4-49f45cc53ca8">
+      <ot:lokalnyId>f3e3e3ee-9c1b-11ea-8105-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Miłoradz</ot:nazwa>
+      <ot:identyfikatorSIMC>1014754</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>3</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>248404</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.fa9384b6-84db-45c4-b056-8005b97e8761" srsDimension="2">
+          <gml:pos>493573.14 684085.44</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b3c7064a-4f44-4867-ac8d-0782ceb47bb6">
+      <ot:lokalnyId>28BEDAB6-49D6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lubiszewo Drugie</ot:nazwa>
+      <ot:identyfikatorSIMC>1014760</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>21</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>70283</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d637721a-197b-4041-8a01-6ada135eb4db" srsDimension="2">
+          <gml:pos>500825.77 698913.64</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.db42a186-0ff5-4a36-9a67-85ada1ae2d16">
+      <ot:lokalnyId>28BEDAB6-49AD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kłosowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0152715</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>część wsi</ot:rodzaj>
+      <ot:liczbaMieszkancow>18</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>54628</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8270e41a-1c3e-4f22-a867-6145064ef566" srsDimension="2">
+          <gml:pos>491725.01 678727.06</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7fd9e47e-27ad-4f4f-a35a-87ce2ee2b5ce">
+      <ot:lokalnyId>28BEDAB6-49A8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Piaski</ot:nazwa>
+      <ot:identyfikatorSIMC>0932838</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>część miasta</ot:rodzaj>
+      <ot:liczbaMieszkancow>2784</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>99653</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.02df2968-a3b6-4bcd-8fdd-49bde54fd438" srsDimension="2">
+          <gml:pos>503706.49 686290.30</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7241ffe1-d7af-4c88-b2fa-2fccd63bdfb7">
+      <ot:lokalnyId>28BEDAB6-49C1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lasowice Wielkie</ot:nazwa>
+      <ot:identyfikatorSIMC>0151970</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>69</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>66741</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a259ccb8-d278-4a6a-b291-bb066fc1f340" srsDimension="2">
+          <gml:pos>504888.75 691684.42</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.f4cf1823-facd-4d9b-8722-ec822b86bf31">
+      <ot:lokalnyId>28BEDAB6-49C2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Krzyżanowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0156682</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>299</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>63961</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.656a2d0c-f5d5-464b-81b5-2fc4a29a3ff4" srsDimension="2">
+          <gml:pos>513386.84 686736.45</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.01b97a61-61ec-4412-be28-362b2f3e3b0d">
+      <ot:lokalnyId>28BEDAB6-49C3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Myszewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0153577</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>187</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>84515</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.334194cd-3d7f-41b8-95bc-11f5fe615530" srsDimension="2">
+          <gml:pos>510660.85 696035.13</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.abf9727b-f222-4ff5-8530-6695eb66d745">
+      <ot:lokalnyId>28BEDAB6-4993-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Tragamin</ot:nazwa>
+      <ot:identyfikatorSIMC>0152075</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>394</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>140272</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.385d446c-2f35-48b0-9b26-561f3a8b738e" srsDimension="2">
+          <gml:pos>503140.73 690368.48</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.ea304f00-6ec6-4d83-b5ab-335c338ee7ab">
+      <ot:lokalnyId>28BEDAB6-4994-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Brzózki</ot:nazwa>
+      <ot:identyfikatorSIMC>0153471</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>124</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>11876</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a26c26b2-ba46-4839-a21d-d89d4aa1ab21" srsDimension="2">
+          <gml:pos>501163.11 700790.73</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5456e43f-095c-4e7e-b089-1183e7aecb2e">
+      <ot:lokalnyId>28BEDAB6-49C4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Boręty Pierwsze</ot:nazwa>
+      <ot:identyfikatorSIMC>0151710</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>153</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>8530</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.96cc3efa-a29f-41ef-9b36-697cdf3a613b" srsDimension="2">
+          <gml:pos>490030.05 694615.31</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.9f4b5130-4bea-4644-b0d8-f6f07087bc27">
+      <ot:lokalnyId>28BEDAB6-49BE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Zarzecze</ot:nazwa>
+      <ot:identyfikatorSIMC>0156660</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>część wsi</ot:rodzaj>
+      <ot:liczbaMieszkancow>21</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>159141</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.10ea549c-3541-4bae-8bf4-a82f6bb42a97" srsDimension="2">
+          <gml:pos>506927.43 685926.56</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.c812c9ac-e71d-4c74-bd02-2388c6c0fbad">
+      <ot:lokalnyId>28BEDAB6-49B0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Tropiszewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151851</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>189</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>140504</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.52b73473-07aa-45f3-8664-207b6e3104d7" srsDimension="2">
+          <gml:pos>497154.08 692760.09</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.e9f7a95a-bad0-4425-8380-1ae6063bec5e">
+      <ot:lokalnyId>28BEDAB6-49B1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Martąg</ot:nazwa>
+      <ot:identyfikatorSIMC>0153554</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>172</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>77994</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b47b6978-f960-498a-b7c6-7d72da65b526" srsDimension="2">
+          <gml:pos>503521.59 692730.50</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.64dba61e-9bae-4778-8e14-ea68b715dc66">
+      <ot:lokalnyId>28BEDAB6-49B3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Rakowiec</ot:nazwa>
+      <ot:identyfikatorSIMC>0932844</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>część miasta</ot:rodzaj>
+      <ot:liczbaMieszkancow>252</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>114552</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6453fbb3-00d6-4380-93d2-eb225b6676a9" srsDimension="2">
+          <gml:pos>504716.85 685663.63</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.dc94480f-596e-425e-a256-7446724f959a">
+      <ot:lokalnyId>28BEDAB6-49AF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Laski</ot:nazwa>
+      <ot:identyfikatorSIMC>0153525</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>113</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>66520</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.96ce0f0e-b54e-4021-ae6c-3dc0884bfb0e" srsDimension="2">
+          <gml:pos>500074.36 695038.18</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.83bf76c2-5320-4ef8-ae4e-df7368c4eb0d">
+      <ot:lokalnyId>28BEDAB6-49B2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Szawałd</ot:nazwa>
+      <ot:identyfikatorSIMC>0152052</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>239</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>134519</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.53df8790-09cd-4e41-b83c-31bae75be4a2" srsDimension="2">
+          <gml:pos>507720.04 688771.16</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.3005d78d-a1cc-4815-8155-231e165fac46">
+      <ot:lokalnyId>28BEDAB6-49BD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lasowice Małe</ot:nazwa>
+      <ot:identyfikatorSIMC>0151963</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>49</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>66739</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.ad4f642f-5ae0-4a26-89c4-2d929e098d03" srsDimension="2">
+          <gml:pos>507233.54 692912.18</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.82da076f-a0ac-49e2-9726-7669c487b579">
+      <ot:lokalnyId>28BEDAB6-49BF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Janówka</ot:nazwa>
+      <ot:identyfikatorSIMC>0156570</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>67</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>44347</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e75bc8ce-077e-4943-82dd-732a00d1ad2f" srsDimension="2">
+          <gml:pos>508614.92 689054.94</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.703a8267-8568-47be-91be-d5de2b57481b">
+      <ot:lokalnyId>28BEDAB6-49C0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Grobelno</ot:nazwa>
+      <ot:identyfikatorSIMC>0151880</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>306</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>38549</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f423cb3f-b8ba-4fef-9b41-5fde0a87a6a7" srsDimension="2">
+          <gml:pos>500661.72 685106.45</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.a466a3e1-207c-4ae0-8bc3-e8f53d1aa734">
+      <ot:lokalnyId>28BEDAB6-49C9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Stare Pole</ot:nazwa>
+      <ot:identyfikatorSIMC>0156707</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>1803</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>129278</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.78092052-ce0d-43be-a80a-faf1335d2439" srsDimension="2">
+          <gml:pos>513094.09 687802.22</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.98d19822-80a6-4e73-8ce0-3f010a2812f5">
+      <ot:lokalnyId>28BEDAB6-49CA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Lisewo</ot:informacjaDodatkowa>
+      <ot:nazwa>Lisewo Malborskie</ot:nazwa>
+      <ot:identyfikatorSIMC>0151785</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>1203</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>69246</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d3a23082-beba-48ab-8a55-af4b93fee62c" srsDimension="2">
+          <gml:pos>488882.33 692430.21</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.a2601106-7c20-45fe-9de5-fe3243582992">
+      <ot:lokalnyId>28BEDAB6-49CB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Złotowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0156742</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>244</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>162077</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.63a34c1e-8f2d-4ca8-a204-eb455ccad96e" srsDimension="2">
+          <gml:pos>514689.91 684820.26</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.4668a5a3-e7cd-4869-b63b-ea5e4fccd74b">
+      <ot:lokalnyId>28BEDAB6-49CC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Stara Wisła</ot:nazwa>
+      <ot:identyfikatorSIMC>0152773</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>29</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>128771</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a7a2abb1-56e5-4231-86ed-0e6b209f5ca1" srsDimension="2">
+          <gml:pos>490486.62 690019.28</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.0b22bb98-5ed4-4e17-ae9a-c0676022a4a2">
+      <ot:lokalnyId>28BEDAB6-49CD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Świerki</ot:nazwa>
+      <ot:identyfikatorSIMC>0153637</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>34</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>137960</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.26b87931-ae81-45e1-bbd6-08012bb8f6e1" srsDimension="2">
+          <gml:pos>505469.84 695308.42</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.07885909-9172-40f0-8907-ff0e36f44bb8">
+      <ot:lokalnyId>28BEDAB6-49CF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa historyczna: Kamienice</ot:informacjaDodatkowa>
+      <ot:nazwa>Kamienica</ot:nazwa>
+      <ot:identyfikatorSIMC>0151905</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>126</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>48933</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a25cbc1a-a7f4-49c6-a0a5-f3b28e6e3373" srsDimension="2">
+          <gml:pos>504288.76 687593.60</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.f4d6d6ce-539d-4eac-90fc-12b15ac671d3">
+      <ot:lokalnyId>28BEDAB6-49D1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Lipowo</ot:informacjaDodatkowa>
+      <ot:nazwa>Lipinka</ot:nazwa>
+      <ot:identyfikatorSIMC>0153531</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>714</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>68609</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.58b78526-9f5b-4e75-9529-8757f0879ad1" srsDimension="2">
+          <gml:pos>508077.30 695353.38</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.cb0e23e9-7206-4a89-82bf-5dca28670078">
+      <ot:lokalnyId>28BEDAB6-49B7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Mątowy Wielkie</ot:nazwa>
+      <ot:identyfikatorSIMC>0152721</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>53</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>78780</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6be2f89a-1cd4-479e-aea4-c51931414234" srsDimension="2">
+          <gml:pos>490405.47 682917.04</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.9e43fb31-d387-4b5c-b12e-301e1024fd0e">
+      <ot:lokalnyId>28BEDAB6-49B8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kraśniewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151957</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>281</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>61535</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1e4815b3-11f9-4ccf-ba4b-a7d45df9f4a6" srsDimension="2">
+          <gml:pos>497800.59 682868.59</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b099f558-7f94-4168-a50b-18f42c6f4305">
+      <ot:lokalnyId>28BEDAB6-49B9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Mątowy Małe</ot:nazwa>
+      <ot:identyfikatorSIMC>0152690</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>163</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>78779</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.133f4096-6461-456f-9e02-5b99d31c4e77" srsDimension="2">
+          <gml:pos>492948.02 680355.16</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.250d0f85-2adb-434f-8618-13d9ca91e4fe">
+      <ot:lokalnyId>28BEDAB6-49BA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Kąty</ot:informacjaDodatkowa>
+      <ot:nazwa>Kikojty</ot:nazwa>
+      <ot:identyfikatorSIMC>0156601</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>51</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>53307</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.46229aa7-5377-483e-9407-eecad0859118" srsDimension="2">
+          <gml:pos>516030.34 688147.56</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.76111d06-7bca-4657-8811-83d7c822c97d">
+      <ot:lokalnyId>28BEDAB6-49BC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kamionka</ot:nazwa>
+      <ot:identyfikatorSIMC>0151911</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>87</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>49657</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.788788c4-6499-4a0e-bd0c-9c9bdbe2b0ee" srsDimension="2">
+          <gml:pos>503416.03 688122.71</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.9739f51f-76fe-4084-b70b-3b6d90bed613">
+      <ot:lokalnyId>28BEDAB6-49AC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kławki</ot:nazwa>
+      <ot:identyfikatorSIMC>0156624</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>119</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>54428</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.67dabbc1-814f-4bff-8e11-4ea204c306ef" srsDimension="2">
+          <gml:pos>514934.85 686468.39</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.32e20c9e-ff68-4b36-90ad-068a46d1f729">
+      <ot:lokalnyId>28BEDAB6-49AE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Szymankowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151845</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>722</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>136476</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c32fab2a-a89b-4873-9544-424c4a0592ca" srsDimension="2">
+          <gml:pos>494983.73 689870.50</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.75d6dc9e-c586-403d-b5df-c9defe4b7fc4">
+      <ot:lokalnyId>28BEDAB6-4982-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Chlebówka</ot:nazwa>
+      <ot:identyfikatorSIMC>0153488</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>95</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>15427</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5afc08bf-764d-4351-8e7f-cecbd77d1e9b" srsDimension="2">
+          <gml:pos>503710.40 696630.67</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.6da725bc-32b5-4e80-aaf7-5ad75dc83926">
+      <ot:lokalnyId>28BEDAB6-4983-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Malbork</ot:nazwa>
+      <ot:identyfikatorSIMC>0932815</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>miasto</ot:rodzaj>
+      <ot:liczbaMieszkancow>35044</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>75955</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6b8b4e35-dab8-40eb-86b2-6c73cdb0b4a9" srsDimension="2">
+          <gml:pos>501812.19 685476.10</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.e6022498-9e77-46d1-ac58-a4ff76bb9c03">
+      <ot:lokalnyId>28BEDAB6-4984-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kałdowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151897</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>117</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>48760</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.dfbef965-136b-4462-ae91-5e36f651d19c" srsDimension="2">
+          <gml:pos>499212.95 686597.71</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.15c17bcd-99d3-4ff1-a0fe-465785a6cec9">
+      <ot:lokalnyId>28BEDAB6-4985-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Stawiec</ot:nazwa>
+      <ot:identyfikatorSIMC>0153614</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>69</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>130442</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5785b3db-2471-470e-9812-cdef448fa865" srsDimension="2">
+          <gml:pos>500832.47 697947.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.31c669ca-70e1-4246-b035-8765835f44a5">
+      <ot:lokalnyId>28BEDAB6-49A0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Krasnołęka</ot:nazwa>
+      <ot:identyfikatorSIMC>0156653</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>część wsi</ot:rodzaj>
+      <ot:liczbaMieszkancow>159</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>61427</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c547a709-821b-4f26-a05a-a0332aff9f24" srsDimension="2">
+          <gml:pos>508102.61 685285.65</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.67bc3754-4cc3-4df7-8649-db4091a1b8c6">
+      <ot:lokalnyId>28BEDAB6-49A1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Nowy Staw</ot:nazwa>
+      <ot:identyfikatorSIMC>0932904</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209074</ot:identyfikatorTERC>
+      <ot:rodzaj>miasto</ot:rodzaj>
+      <ot:liczbaMieszkancow>3817</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>90313</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.20515cc0-2ccc-44da-b894-8b0aa23c2587" srsDimension="2">
+          <gml:pos>500688.34 696813.47</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.9e01b71a-c6c8-461a-ba5a-b687fb2f81cb">
+      <ot:lokalnyId>28BEDAB6-49A2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Klecie</ot:nazwa>
+      <ot:identyfikatorSIMC>0156618</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>64</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>53612</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9e77ce5d-0dbb-4176-8ba0-ff502b22694f" srsDimension="2">
+          <gml:pos>511364.96 684913.00</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7e72c614-0672-4a5d-b55c-d6650b1cb275">
+      <ot:lokalnyId>28BEDAB6-49A3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kościeleczki</ot:nazwa>
+      <ot:identyfikatorSIMC>0151934</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>473</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>59402</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.188f9ccf-b333-4c2e-a370-cd99acadeaa7" srsDimension="2">
+          <gml:pos>500655.99 689613.51</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7ffb249c-b151-4b77-a0e2-3525325a88f5">
+      <ot:lokalnyId>28BEDAB6-4986-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Tralewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0153650</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>247</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>140284</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7ea482ff-2e02-4e5c-a92d-d45c8cb20482" srsDimension="2">
+          <gml:pos>500031.50 692908.77</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.037d10db-9955-4448-b3f1-cea24870f664">
+      <ot:lokalnyId>28BEDAB6-49A5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kończewice</ot:nazwa>
+      <ot:identyfikatorSIMC>0152678</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>671</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>57411</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2fbc0b62-f5f0-4533-933d-eac47469b9e1" srsDimension="2">
+          <gml:pos>490632.05 688318.55</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5e46b4f6-2a9a-49af-9755-27bb66934f78">
+      <ot:lokalnyId>28BEDAB6-49D7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Nidowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0153583</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>45</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>86313</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.53e67b1b-d9c1-4400-a2b6-746a272863d0" srsDimension="2">
+          <gml:pos>508412.89 697456.89</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.081c7911-90f4-4bce-b164-14be4eb43b4f">
+      <ot:lokalnyId>28BEDAB6-49D8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Gnojewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0152661</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>201</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>34094</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0e936d61-8794-4d62-bbb6-8a098b42c29a" srsDimension="2">
+          <gml:pos>494052.47 687681.97</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7b715808-5a8f-4154-8624-c1e2bacdb1a4">
+      <ot:lokalnyId>28BEDAB6-49DA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Boręty Drugie</ot:nazwa>
+      <ot:identyfikatorSIMC>0151704</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>176</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>8529</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.ae418327-f9ab-4c06-ad0a-1cd69d718ffa" srsDimension="2">
+          <gml:pos>491975.12 696865.93</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.dc67c875-9e06-49f1-a3b7-061d4cf291e8">
+      <ot:lokalnyId>28BEDAB6-4987-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Dębina</ot:nazwa>
+      <ot:identyfikatorSIMC>0153494</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>60</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>23045</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f935515e-370b-4338-ac46-a26358514452" srsDimension="2">
+          <gml:pos>502553.80 694228.65</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.ce816776-a23d-472d-bdaf-c51d28915592">
+      <ot:lokalnyId>28BEDAB6-4988-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kaczynos-Kolonia</ot:nazwa>
+      <ot:identyfikatorSIMC>0156593</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>145</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>48152</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a3df6d72-8eb2-402d-a133-947cbfb45e7d" srsDimension="2">
+          <gml:pos>512277.29 689012.85</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.e1856bae-14a8-4589-8238-2f7c4f191efe">
+      <ot:lokalnyId>28BEDAB6-49A4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lichnówki Drugie</ot:nazwa>
+      <ot:identyfikatorSIMC>0151779</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>118</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>200099</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a2f23a7e-e4a0-4d38-857b-0314203cc19c" srsDimension="2">
+          <gml:pos>493487.45 691597.04</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.cb1ad79f-799a-4b78-a3e8-a8776f4bc407">
+      <ot:lokalnyId>28BEDAB6-49D3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kapustowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151928</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>43</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>50259</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6e45a977-78f0-4039-ac83-df93823ae1bd" srsDimension="2">
+          <gml:pos>497935.23 687756.20</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.94bc5ad2-c9b1-4ef9-9334-0b3d282fe053">
+      <ot:lokalnyId>28BEDAB6-49D4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Starynia</ot:nazwa>
+      <ot:identyfikatorSIMC>0151839</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>66</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>130167</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f55337bc-5abe-4c7d-abc2-0ddd873a689b" srsDimension="2">
+          <gml:pos>496245.79 691014.97</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b1fedd0f-a06f-4185-892d-23891aad3912">
+      <ot:lokalnyId>28BEDAB6-49B6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lichnówki Pierwsze</ot:nazwa>
+      <ot:identyfikatorSIMC>0151762</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>56</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>68100</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4b7e8b24-ee44-47ff-9dd3-6cb7994f2d21" srsDimension="2">
+          <gml:pos>492375.78 692082.96</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.2f8d7c37-6a32-440c-9694-588e2f4f77bc">
+      <ot:lokalnyId>28BEDAB6-4980-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kącik</ot:nazwa>
+      <ot:identyfikatorSIMC>0153519</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>41</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>51699</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.15c235bc-9c41-4c83-b1af-005fc91d5e6e" srsDimension="2">
+          <gml:pos>497050.61 700410.17</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5bc23c11-6df1-4969-b33d-c9638777d235">
+      <ot:lokalnyId>28BEDAB6-49D5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Miłoradz</ot:nazwa>
+      <ot:identyfikatorSIMC>0152744</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>906</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>80796</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.45fbd41a-d40e-447b-8743-04c95f4f60eb" srsDimension="2">
+          <gml:pos>494647.55 683272.80</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.2ec2ed20-2e30-439f-a06c-86f56995536c">
+      <ot:lokalnyId>28BEDAB6-49AB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Stogi</ot:nazwa>
+      <ot:identyfikatorSIMC>0152030</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>381</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>131314</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.76d462cd-d9f2-48e9-8380-bfdf1faafb53" srsDimension="2">
+          <gml:pos>498344.01 689855.13</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.995ba7f4-2989-4da3-b682-a3b5395cfade">
+      <ot:lokalnyId>28BEDAB6-4996-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kraszewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0156630</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>139</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>61500</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.39cbea2b-1c7b-4867-bc2e-1c74057e28af" srsDimension="2">
+          <gml:pos>511754.56 686267.17</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b54ab164-4a5f-4937-8603-3437f4e5ae6f">
+      <ot:lokalnyId>28BEDAB6-497D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Bystrze</ot:nazwa>
+      <ot:identyfikatorSIMC>0152655</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>202</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>14125</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e28ed092-95d2-4a53-841f-143106aaa7a8" srsDimension="2">
+          <gml:pos>490672.08 686361.64</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.359a7f73-bdd7-4547-930f-c84806cea8c5">
+      <ot:lokalnyId>28BEDAB6-497E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lichnowy</ot:nazwa>
+      <ot:identyfikatorSIMC>0151733</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>752</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>68096</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5b5340ac-c18a-4906-b75f-ce569b346ff0" srsDimension="2">
+          <gml:pos>494338.68 694475.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.8be92cbf-ac42-4af2-a05c-0c6998d99a9c">
+      <ot:lokalnyId>28BEDAB6-497F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Dąbrowa</ot:nazwa>
+      <ot:identyfikatorSIMC>0151727</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>238</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>21808</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e414309e-6c3c-4737-9953-a148ef7b96f4" srsDimension="2">
+          <gml:pos>491494.15 694581.18</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.804f9906-30bb-46d5-bb4d-ac3811d9f11a">
+      <ot:lokalnyId>28BEDAB6-499A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Parchowo</ot:informacjaDodatkowa>
+      <ot:nazwa>Parszewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0151800</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>273</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>97513</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.ad1eacb7-2bc1-4032-954b-8de9969d671c" srsDimension="2">
+          <gml:pos>495982.42 697368.96</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.26acd8b4-644d-4ab3-8e50-0ac6ed9bd349">
+      <ot:lokalnyId>28BEDAB6-499B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Wielbark</ot:nazwa>
+      <ot:identyfikatorSIMC>0152017</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>85</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>145878</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.daa5b386-87e5-431d-ad08-8d2848cfb9c8" srsDimension="2">
+          <gml:pos>500281.22 681354.79</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.fdae078a-3180-41bc-8a8d-5b0e0b8e988d">
+      <ot:lokalnyId>28BEDAB6-49A6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Cisy</ot:nazwa>
+      <ot:identyfikatorSIMC>0151874</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>12</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>169461</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.621f1c36-944c-456f-a443-fc631f6cee49" srsDimension="2">
+          <gml:pos>498165.18 685101.63</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.35a86388-0053-4e50-b8a3-a413bacfdc33">
+      <ot:lokalnyId>28BEDAB6-49A7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Dębina</ot:nazwa>
+      <ot:identyfikatorSIMC>0153502</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>39</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>169468</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.07516e64-21d4-446f-96a2-dd87f27edb75" srsDimension="2">
+          <gml:pos>502389.02 696069.50</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.eab3145e-29a1-4075-ad5d-6df561513f3c">
+      <ot:lokalnyId>28BEDAB6-49D9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Królewo Malborskie</ot:nazwa>
+      <ot:identyfikatorSIMC>0156676</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>kolonia</ot:rodzaj>
+      <ot:liczbaMieszkancow>2</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>166245</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4fb2742f-296e-4469-82ce-31a83f1fd91c" srsDimension="2">
+          <gml:pos>507990.43 684981.25</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.8f27736d-a3fd-4f7f-98e2-7cebcfebab55">
+      <ot:lokalnyId>28BEDAB6-499E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa oboczna: Trampowo</ot:informacjaDodatkowa>
+      <ot:nazwa>Trępnowy</ot:nazwa>
+      <ot:identyfikatorSIMC>0153672</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>17</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>140289</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.ebc8b270-3a80-4cb3-b0fb-42c64592d9dc" srsDimension="2">
+          <gml:pos>498344.92 696316.78</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.e58f2fb4-3916-48c5-b632-1e2b2d31fe26">
+      <ot:lokalnyId>28BEDAB6-499F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nazwa historyczna: Lipki</ot:informacjaDodatkowa>
+      <ot:nazwa>Lipowiec</ot:nazwa>
+      <ot:identyfikatorSIMC>0152000</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>część wsi</ot:rodzaj>
+      <ot:liczbaMieszkancow>102</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>69039</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6cef7e22-3d9e-4148-bf8e-513ee06c07c2" srsDimension="2">
+          <gml:pos>504497.50 682254.06</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.3403d78f-1cd3-4780-a029-1a382b9f5856">
+      <ot:lokalnyId>28BEDAB6-49B5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Stara Wisła</ot:nazwa>
+      <ot:identyfikatorSIMC>0152684</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>24</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>169466</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a2e8f5dc-45e0-4291-a4e9-dcc37b8dab6d" srsDimension="2">
+          <gml:pos>492190.00 688864.25</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.a000da25-3b2e-4c75-9958-e9561507e1b7">
+      <ot:lokalnyId>28BEDAB6-4989-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Nowa Wieś Malborska</ot:nazwa>
+      <ot:identyfikatorSIMC>0151992</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>1373</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>88482</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4b2b030d-a74f-4944-8e89-56949a78e6da" srsDimension="2">
+          <gml:pos>504253.10 683239.58</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b292c8c5-9ca0-4174-aaa4-93f91e41d92b">
+      <ot:lokalnyId>28BEDAB6-498A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kaczynos</ot:nazwa>
+      <ot:identyfikatorSIMC>0156587</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>osada</ot:rodzaj>
+      <ot:liczbaMieszkancow>382</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>48151</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b357365d-a948-43ec-bab6-697a8994c45b" srsDimension="2">
+          <gml:pos>510840.65 689167.30</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.c6024226-3c93-4c1d-b4dc-947230aa2975">
+      <ot:lokalnyId>28BEDAB6-498C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Boręty</ot:nazwa>
+      <ot:identyfikatorSIMC>0151696</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209032</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>162</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>8528</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.3f2702cb-a14c-46ae-b7bc-b4fe69377dca" srsDimension="2">
+          <gml:pos>490252.24 697264.09</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.b1215222-ff79-4090-b59a-b0c4985271ae">
+      <ot:lokalnyId>28BEDAB6-498D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Stara Kościelnica</ot:nazwa>
+      <ot:identyfikatorSIMC>0152767</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>255</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>128209</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.51130fda-59fa-47cc-b943-41b936de7909" srsDimension="2">
+          <gml:pos>495516.00 685539.94</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7e017587-e044-4616-9eed-3777e883969a">
+      <ot:lokalnyId>28BEDAB6-498E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Pręgowo Żuławskie</ot:nazwa>
+      <ot:identyfikatorSIMC>0153608</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>68</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>110084</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a254631f-7bda-40e6-a11e-dbd83a383211" srsDimension="2">
+          <gml:pos>495554.63 699253.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.bca09240-ed83-47da-a0fa-96abe5629a66">
+      <ot:lokalnyId>28BEDAB6-4990-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Trępnowy</ot:nazwa>
+      <ot:identyfikatorSIMC>0153666</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>21</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>140428</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9ee95d1a-064a-4f03-8795-32b45d4d19ce" srsDimension="2">
+          <gml:pos>497472.62 697285.08</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.5ce29439-10d4-4425-9020-ba7a504cd177">
+      <ot:lokalnyId>28BEDAB6-4992-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Lubstowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0153548</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>197</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>70500</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b0b37581-9433-4505-8352-9ed74902123d" srsDimension="2">
+          <gml:pos>512918.23 696474.18</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.ae594611-bb02-4b2f-9a70-0f9b5b823a10">
+      <ot:lokalnyId>28BEDAB6-49A9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Mirowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0153560</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>109</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>81053</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d7228d32-b8c6-4319-b879-4a3f0002adef" srsDimension="2">
+          <gml:pos>502745.60 699253.43</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7e7578dd-4205-4ccd-923b-c463a324b62d">
+      <ot:lokalnyId>28BEDAB6-49AA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Półmieście</ot:nazwa>
+      <ot:identyfikatorSIMC>0153590</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209075</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>26</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>109779</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e4e8a26a-0ae6-4cf1-9ac1-a2cd784ae53a" srsDimension="2">
+          <gml:pos>509824.27 693076.41</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.004e1c42-1133-44ca-ac22-dd4ed7ed507e">
+      <ot:lokalnyId>28BEDAB6-499C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Królewo</ot:nazwa>
+      <ot:identyfikatorSIMC>0156647</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>418</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>62285</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b86a6aaa-2078-46b4-b605-71065de2dffa" srsDimension="2">
+          <gml:pos>509429.25 686971.98</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.2e1d53ce-5a24-4288-8fc6-6fcc38d3d8b6">
+      <ot:lokalnyId>28BEDAB6-499D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Szaleniec</ot:nazwa>
+      <ot:identyfikatorSIMC>0156713</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>72</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>134289</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1ccf7663-a61d-4459-8686-523fc631b371" srsDimension="2">
+          <gml:pos>516799.17 685761.84</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.c6f3af59-493b-48ae-a7dc-9b96879458f7">
+      <ot:lokalnyId>28BEDAB6-49C6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Pielica</ot:nazwa>
+      <ot:identyfikatorSIMC>0152023</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>3</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>100418</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2df819ef-cea3-4f2a-a136-402c66cfb67d" srsDimension="2">
+          <gml:pos>505876.84 689675.42</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.7a40925a-bcbe-4d4a-816d-aca7919edc45">
+      <ot:lokalnyId>28BEDAB6-49C8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Pogorzała Wieś</ot:nazwa>
+      <ot:identyfikatorSIMC>0152750</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209062</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>366</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>106693</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.032a2f41-0f5d-4ef7-aaca-28f050dbb42a" srsDimension="2">
+          <gml:pos>495642.12 678882.99</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.35e9a38e-5266-4dd6-a00b-d116fe806762">
+      <ot:lokalnyId>28BEDAB6-4997-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Ząbrowo</ot:nazwa>
+      <ot:identyfikatorSIMC>0156736</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209082</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>378</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>160244</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.99992dff-96a3-45b0-bd14-1e32e8b7b952" srsDimension="2">
+          <gml:pos>514203.14 691959.21</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.c6b998ee-303c-45e2-a29e-2bbbc1fa428e">
+      <ot:lokalnyId>28BEDAB6-4999-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Cisy</ot:nazwa>
+      <ot:identyfikatorSIMC>0151868</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209042</ot:identyfikatorTERC>
+      <ot:rodzaj>wieś</ot:rodzaj>
+      <ot:liczbaMieszkancow>72</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>18007</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a9e332e3-490d-4df0-9a9f-d268cbc86af6" srsDimension="2">
+          <gml:pos>498972.40 686590.16</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_ADMS_P gml:id="OT_ADMS_P.588e13e0-65e3-43a1-a148-f57ea1cd5578">
+      <ot:lokalnyId>28BEDAB6-4981-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Nowa Wieś</ot:nazwa>
+      <ot:identyfikatorSIMC>1064982</ot:identyfikatorSIMC>
+      <ot:identyfikatorTERC>2209011</ot:identyfikatorTERC>
+      <ot:rodzaj>część miasta</ot:rodzaj>
+      <ot:liczbaMieszkancow>888</ot:liczbaMieszkancow>
+      <ot:identyfikatorPRNG>88226</ot:identyfikatorPRNG>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.54ce7208-7460-43da-93b1-9cd8321f8402" srsDimension="2">
+          <gml:pos>503478.86 684142.48</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_ADMS_P>
+  </gml:featureMember>
+</gml:FeatureCollection>

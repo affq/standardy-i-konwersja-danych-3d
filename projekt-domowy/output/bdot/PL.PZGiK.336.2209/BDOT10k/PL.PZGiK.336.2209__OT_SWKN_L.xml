@@ -1,0 +1,992 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_SWKN_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.fd06696c-b525-4d79-a414-66332ec476ec">
+      <ot:lokalnyId>28BEDAB7-58C9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>142786</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Kanał Ulga</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.bc889a91-c010-4aab-9442-da341d894825" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502519.11 683461.75 502526.28 683478.72 502534.58 683498.41 502548.43 683522.35 502556.96 683535.77 502562.08 683541.58 502565.38 683543.97 502569.47 683545.33 502574.59 683546.81 502577.66 683548.86 502581.06 683555.55 502583.80 683561.98 502585.62 683568.52 502585.71 683573.00 502584.21 683577.97 502581.23 683582.91 502578.49 683591.39 502576.75 683597.41 502577.09 683605.59 502577.25 683609.28 502578.66 683618.16 502582.20 683624.28 502584.93 683627.70 502594.24 683639.51 502597.78 683644.88 502604.66 683660.06 502608.36 683665.88 502616.03 683669.06 502627.94 683672.50 502638.52 683679.64 502646.77 683686.43 502662.06 683694.05 502668.32 683698.37 502671.73 683700.88 502675.03 683701.45 502676.96 683699.85 502684.92 683690.30 502687.08 683687.68 502689.24 683686.09 502693.00 683684.15 502703.69 683681.31 502709.60 683679.26 502713.93 683676.85 502717.56 683674.82 502719.95 683674.02 502723.25 683673.91 502727.00 683674.36 502729.62 683675.39 502739.26 683680.22 502747.08 683684.14 502753.79 683686.30 502756.36 683687.11 502767.90 683690.74 502820.94 683708.24 502827.99 683709.83 502842.21 683713.36 502849.14 683715.52 502869.77 683724.74 502870.48 683725.06 502885.83 683731.09 502912.87 683741.44 502921.36 683743.91 502932.40 683748.24 502940.92 683752.90 502947.07 683756.66 502952.53 683761.55 502961.06 683770.09 502965.30 683774.34 502972.97 683782.02 502976.50 683784.75 502979.23 683785.77 502981.84 683786.11 502985.48 683785.88 502988.67 683784.97 502992.19 683782.70 503000.12 683778.15 503010.24 683773.25 503027.18 683765.29 503047.09 683756.87 503056.00 683753.27 503059.07 683752.82 503062.14 683752.48 503065.66 683752.48 503067.15 683752.62 503069.30 683752.82 503078.72 683754.61 503085.09 683755.07 503092.03 683754.84 503097.26 683754.04 503108.97 683750.97 503130.13 683744.60 503139.11 683741.98 503143.32 683741.07 503148.10 683740.39 503186.21 683738.80 503190.54 683739.37 503194.06 683740.17 503198.78 683742.35 503201.45 683744.38 503207.37 683749.72 503209.64 683752.34 503212.77 683758.90 503214.48 683770.81 503214.71 683789.25 503213.23 683814.43 503213.69 683837.02 503213.91 683847.64 503212.65 683856.57 503208.87 683866.53 503201.78 683877.98 503192.62 683900.87 503187.69 683910.03 503187.41 683914.86 503187.09 683920.26 503186.78 683925.60 503185.06 683938.20 503180.60 683947.93 503167.14 683969.13 503165.32 683975.50 503164.19 683981.44 503164.07 683984.15 503162.15 683996.94 503161.44 684000.05 503158.06 684014.80 503152.26 684029.48 503146.57 684047.74 503146.36 684048.42 503143.17 684058.43 503140.56 684064.80 503137.72 684069.58 503128.35 684080.75 503127.72 684081.49 503124.70 684086.11 503124.09 684090.81 503110.59 684115.82 503108.02 684120.17 503101.36 684131.44 503092.15 684145.57 503091.58 684148.76 503091.92 684152.63 503092.49 684156.84 503092.04 684159.51 503091.25 684163.38 503091.41 684169.66 503080.90 684186.56 503077.27 684202.16 503071.53 684226.77 503068.68 684231.17 503068.87 684233.59 503070.25 684242.53 503073.66 684256.31 503073.72 684261.46 503073.80 684267.68 503073.51 684281.32 503079.05 684302.48 503085.24 684324.44 503086.87 684330.24 503091.13 684341.46 503100.57 684365.32 503104.98 684378.67 503110.56 684390.05 503117.72 684403.25 503121.93 684408.71 503126.25 684412.12 503131.03 684414.17 503137.28 684414.97 503144.79 684416.56 503147.48 684417.53 503149.68 684418.38 503157.13 684422.43 503163.05 684427.33 503168.85 684432.33 503174.19 684438.14 503177.05 684443.22 503179.88 684446.22 503180.11 684448.61 503181.70 684452.02 503183.06 684453.93 503183.86 684456.57 503184.53 684459.90 503185.33 684461.95 503186.46 684464.23 503189.65 684468.32 503194.20 684475.95 503200.00 684483.69 503202.95 684487.21 503203.75 684489.26 503204.32 684492.11 503205.23 684494.72 503206.71 684497.57 503208.07 684500.53 503209.45 684503.22 503211.81 684508.17 503216.93 684517.78 503218.99 684521.79 503221.24 684526.26 503225.21 684534.15 503228.60 684544.95 503233.04 684558.50 503237.06 684568.87 503237.06 684577.55 503236.01 684585.17 503231.56 684596.38 503231.35 684608.24 503229.44 684615.01 503224.79 684622.21 503219.71 684628.13 503215.90 684633.64 503212.80 684644.64 503211.66 684648.67 503205.95 684670.26 503205.53 684683.80 503205.53 684703.91 503205.53 684718.94 503206.02 684733.91 503205.91 684740.78 503204.88 684752.84 503198.17 684793.09 503197.32 684798.24 503195.10 684804.38 503194.84 684808.56 503194.18 684811.70 503193.14 684816.54 503192.61 684824.51 503192.74 684830.91 503196.53 684846.73 503196.67 684846.73 503197.32 684852.74 503199.02 684876.53 503196.93 684901.24 503196.93 684906.46 503195.36 684911.04 503193.01 684919.01 503191.96 684925.55 503191.96 684925.94 503192.48 684930.25 503196.27 684944.76 503197.71 684950.25 503199.54 684954.83 503202.02 684957.96 503209.34 684963.19 503213.40 684965.94 503217.39 684982.54 503241.24 685039.13 503245.94 685050.24 503253.79 685068.02 503258.23 685078.22 503262.15 685089.33 503262.67 685096.51 503262.54 685100.30 503260.06 685102.66 503253.39 685103.96 503234.44 685109.85 503225.94 685113.64 503216.66 685117.95 503211.04 685121.35 503209.87 685123.57 503211.04 685125.66 503215.89 685134.22 503221.89 685142.06 503227.45 685148.10 503230.89 685154.60 503232.50 685159.29 503232.82 685161.99 503233.50 685165.40 503234.64 685173.82 503235.55 685177.58 503236.92 685181.79 503239.64 685187.47 503245.89 685202.66 503252.03 685215.17 503255.56 685220.75 503257.72 685223.94 503260.45 685227.58 503263.96 685231.30 503268.51 685234.03 503274.31 685236.31 503281.02 685237.33 503285.00 685237.33 503287.04 685237.79 503289.55 685239.49 503293.30 685242.22 503295.46 685243.93 503297.45 685247.77 503298.93 685256.39 503299.33 685258.20 503299.89 685260.77 503300.50 685263.58 503301.24 685266.99 503302.49 685273.77 503303.06 685278.33 503302.83 685283.33 503302.72 685287.88 503302.61 685293.12 503302.94 685296.14 503306.24 685307.41 503308.06 685319.47 503309.08 685334.95 503311.35 685354.77 503312.60 685364.89 503316.49 685374.03 503317.30 685377.30 503318.46 685380.92 503320.62 685390.05 503321.03 685392.69 503321.79 685397.18 503326.60 685425.32</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.16d81ebc-8d9e-40f5-8b8d-ab25ac97dc8a">
+      <ot:lokalnyId>28BEDAB7-58CA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:identyfikatorPRNG>142786</ot:identyfikatorPRNG>
+      <ot:polozenie>pod powierzchnią</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Kanał Ulga</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e9630844-96e1-4b00-96cd-f046cf715c68" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>503326.60 685425.32 503326.80 685432.96 503326.93 685437.83 503326.98 685439.64 503327.17 685446.66 503327.34 685453.35 503327.53 685460.47 503327.72 685467.78 503327.78 685470.05 503327.94 685476.24 503328.03 685479.28 503327.18 685494.51 503329.39 685531.65 503329.50 685536.51 503329.52 685537.23 503329.64 685542.11 503329.66 685543.11 503329.73 685546.39 503329.88 685552.60 503329.97 685556.59 503330.10 685562.08 503330.14 685563.96 503330.19 685566.33 503330.31 685571.40 503330.43 685576.49 503330.73 685589.61 503330.85 685594.64 503331.00 685601.33 503331.16 685608.19 503331.31 685614.86 503331.47 685621.52 503331.58 685626.43 503331.69 685631.36 503331.86 685638.61 503332.00 685644.61 503332.19 685652.75 503332.34 685659.29 503332.47 685665.13 503332.90 685683.85 503333.49 685709.35 503333.61 685714.66 503333.82 685723.63 503333.88 685726.13 503334.07 685726.38</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.b3ad55bb-2e3d-4158-bbf2-cdce31ec41f1">
+      <ot:lokalnyId>28BEDAB7-58CB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>142786</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Kanał Ulga</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.c3915737-4985-417b-9a6e-ee768fdaebf7" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>503334.07 685726.38 503340.98 685735.27 503347.98 685743.87 503357.10 685753.32 503359.70 685756.66 503361.67 685760.37 503363.78 685765.94 503366.50 685772.50 503368.35 685775.84 503371.94 685781.53 503384.55 685800.59 503394.80 685814.00 503396.78 685817.21 503399.50 685823.52 503404.08 685831.57 503406.67 685835.03 503414.83 685845.67 503428.64 685860.11 503437.05 685869.39 503442.74 685876.44 503449.76 685885.53 503451.87 685888.75 503454.34 685892.83 503457.93 685899.39 503467.69 685919.06 503475.71 685935.81 503478.18 685941.13 503480.41 685947.07 503483.75 685957.96 503484.49 685961.42 503484.86 685964.64 503486.71 685981.66 503489.06 686001.08 503490.42 686025.88 503490.91 686032.06 503492.27 686041.47 503493.01 686048.64 503493.51 686055.33 503492.14 686073.22 503492.14 686080.15 503492.39 686088.19 503492.88 686100.25 503494.63 686120.30 503495.04 686125.02 503496.71 686142.12 503496.71 686147.19 503497.08 686155.48 503496.09 686170.45 503493.63 686196.63 503492.64 686211.48 503491.90 686228.43 503490.91 686248.91 503489.79 686259.06 503488.68 686266.48 503488.19 686270.69 503485.84 686278.54 503485.35 686282.13 503485.97 686288.69 503486.58 686299.08 503487.06 686305.95 503487.33 686312.91 503488.81 686345.87 503488.13 686358.82 503487.31 686372.12 503487.06 686383.56 503487.31 686393.73 503487.82 686403.91 503488.58 686416.37 503490.36 686428.58 503493.16 686450.20 503499.76 686494.77 503500.77 686505.45 503500.77 686516.64 503499.76 686533.68 503498.23 686566.49 503496.98 686577.26 503493.17 686592.78 503484.02 686636.02 503476.63 686669.99 503469.15 686693.24 503444.64 686766.60 503424.61 686821.84 503409.36 686870.68 503404.28 686891.53 503397.72 686926.19 503395.43 686939.92 503395.43 686946.02 503396.44 686952.89 503399.24 686962.05 503405.60 686977.31 503415.76 686997.15 503418.08 687003.59 503420.29 687009.74 503422.57 687018.38 503423.34 687026.78 503426.39 687035.17 503429.18 687041.78 503434.40 687049.72 503441.89 687060.86 503449.77 687069.50 503459.18 687078.66 503469.60 687085.78 503481.80 687093.16 503488.33 687096.89 503492.40 687101.21 503495.70 687107.82 503497.48 687115.20 503501.55 687125.63 503509.68 687143.68 503519.83 687160.40 503525.43 687169.30 503527.46 687173.63 503528.22 687179.99 503529.75 687185.07 503532.29 687190.16 503544.72 687211.96 503551.21 687221.96 503553.98 687228.93 503553.59 687231.54 503548.36 687240.09 503545.43 687245.79 503544.01 687251.81 503543.98 687256.56 503543.76 687265.90 503543.18 687275.53 503542.37 687283.63 503539.60 687293.33 503538.87 687299.55 503538.22 687304.49 503540.33 687311.28 503544.75 687330.77 503545.43 687343.47 503544.75 687356.29 503543.29 687367.41 503535.07 687378.84 503532.10 687382.00</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.ff335dee-c48e-4c20-8c2a-192d648ebaa7">
+      <ot:lokalnyId>28BEDAB7-58CD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.7540b7fb-6d1a-45f7-b2ef-099cdac38f15" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494509.94 699520.48 494511.84 699521.29 494521.35 699524.79 494530.57 699529.91 494534.86 699533.14 494538.63 699539.17 494559.19 699571.54 494562.44 699584.14 494563.21 699605.03</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.b84e3ddf-223b-41f0-be56-9c3582018256">
+      <ot:lokalnyId>28BEDAB7-58CE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.ab32ddb2-7491-4b05-a8a4-5507cbe05d31" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>495394.55 700551.07 495537.29 700643.81 495646.56 700715.12 495741.73 700778.51</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.7e1ed084-96b1-4c53-a95b-acc7bc2d5c02">
+      <ot:lokalnyId>45b27c27-cbac-4aa4-a2fa-90ed3de78e06</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Panieński/Panieńska Łacha</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>96688</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">4</ot:szerokosc>
+      <ot:nazwa>Lipinecki Kanał</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.38fe9a74-2202-475c-9317-6301841dddea" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>510921.67 698489.83 510926.30 698501.94 510927.25 698510.92</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5148</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.a442c1ac-34c6-4185-93c3-3b1265778353">
+      <ot:lokalnyId>855a1ee5-8216-4c25-9cb5-1cf6c68d8db3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3769e7cf-3eba-4a8c-87b1-1245568a21ac" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496686.06 701387.33 496717.83 701408.62</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.96fc4f00-6cfc-4322-96e5-3ff16c66c11b">
+      <ot:lokalnyId>98f80af9-161c-4592-866a-4c083cba68bc</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.47b5bb18-41ad-4f13-8858-fe2d36d22c4b" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494775.02 700147.18 494806.87 700167.26 494833.14 700183.47 494887.60 700220.61</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.6207de1e-10fa-49c5-922b-31c8b4f2d533">
+      <ot:lokalnyId>a8fcbb01-ef3b-44dd-bfab-d95ca63a25ee</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.5301b7d3-de6c-4cdd-b2b4-985fe8c6c940" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494418.86 699373.83 494427.95 699391.04 494465.74 699445.44 494473.64 699467.37 494475.70 699472.41 494478.91 699477.68 494492.19 699498.07 494496.90 699506.57</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.8bc0e057-8781-4483-94e0-2aeba2c1b4fe">
+      <ot:lokalnyId>c6fad67f-12fe-4963-ac9d-92792f1448d1</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.709d2348-39f6-4a81-87cb-80202f82518f" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494616.16 699867.66 494617.16 699870.67</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.8b58138f-f30d-4dfa-9dff-35c43a7986b6">
+      <ot:lokalnyId>c905c636-20ae-4a02-a8e4-0c8bed576fa8</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.fec3b25a-41bc-40c7-819a-bef1ec3b1cfc" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496721.85 701411.14 496780.64 701446.48 496781.35 701446.91</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.77df4a8b-8b1a-4b3a-8cf4-64218d6d3bc3">
+      <ot:lokalnyId>28BEDAB7-58CC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:identyfikatorPRNG>38119</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:nazwa>Kanał Granicznik</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.fd031228-00f9-4c40-8ba8-bfb55ff9fb7a" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>489411.37 680890.19 489447.46 680894.80</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+      <ot:identyfikatorMPHP>2994</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.76e3a0e8-3f15-4e95-a4d1-6e18e83875db">
+      <ot:lokalnyId>d08e13ca-f6fe-47cf-b751-468d67d50764</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.80015094-ad3b-4dbe-b5e2-b9efd1e4e8e1" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494620.41 699876.79 494646.84 699908.31 494676.44 699977.05 494679.63 699988.14</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.8de95217-388b-4c5d-b061-3111015ab01c">
+      <ot:lokalnyId>e11c413c-12d5-44f1-9523-12efa46bd2a2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.5a3458d9-d39f-47e8-8b2f-733601ab6ab6" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494901.16 700229.46 494959.82 700267.07 495019.22 700306.61 495121.01 700373.03 495233.14 700446.08 495256.24 700461.69 495272.53 700472.69 495394.55 700551.07</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.f26449a2-f531-42e5-bd04-6786884bdd36">
+      <ot:lokalnyId>e841d806-b6ac-4ef2-9977-448796520458</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.dec3fea3-0c2e-4746-a51b-6c410f7c62f4" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494567.41 699626.89 494574.49 699643.03 494576.68 699650.16</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.7e783d05-5efd-43b8-bd1e-3038e4487d13">
+      <ot:lokalnyId>ee1e17a9-aac5-408d-b20f-803e79a105ec</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.ae435868-5aeb-4b5c-adfa-f9604f236faa" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494766.62 700138.97 494768.42 700140.90 494772.93 700145.41</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.525eb83c-52e6-4cdb-97f2-160007d0272a">
+      <ot:lokalnyId>19fe87ac-a820-4275-a3e5-dac850fcc1ca</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>nazwa oboczna Kanał Tyna</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>139535</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">1</ot:szerokosc>
+      <ot:nazwa>Kanał Tiny</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.bd576059-d365-47b8-ac26-72465a709adb" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>511249.79 684935.95 511256.28 684933.16 511259.63 684931.14 511263.90 684928.44 511273.30 684937.84 511277.55 684943.39 511281.15 684953.19 511282.78 684978.01 511286.05 685007.73 511288.33 685025.04 511288.33 685033.85 511284.74 685056.39 511284.06 685075.90 511283.74 685093.86 511284.97 685108.86 511287.15 685123.95 511289.88 685134.31 511290.97 685138.49 511296.42 685151.94 511301.98 685159.82 511312.77 685176.15 511324.17 685192.57 511327.80 685198.57 511340.12 685217.58 511358.09 685240.76 511369.10 685252.07 511375.99 685257.02 511384.21 685262.93 511395.99 685269.53 511413.46 685272.26 511440.86 685277.07 511448.17 685277.19 511475.17 685274.22 511522.51 685268.92 511531.80 685265.08 511548.03 685256.04 511571.73 685244.06 511580.40 685239.97 511591.75 685235.90 511603.77 685233.30 511614.67 685232.18</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5486</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.58c5ae3a-5543-4169-8809-d324e0e63ba2">
+      <ot:lokalnyId>63d403f6-4e74-491b-9eda-57bea567dfa1</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>nazwa oboczna Kanał Tyna</ot:informacjaDodatkowa>
+      <ot:identyfikatorPRNG>139535</ot:identyfikatorPRNG>
+      <ot:nazwa>Kanał Tiny</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.d15869bf-aa93-4b7e-ae26-039268c542e2" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>511216.62 684962.11 511228.79 684946.65 511237.88 684939.66 511249.79 684935.95</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+      <ot:identyfikatorMPHP>5486</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.daa7550a-52df-4d0c-9d80-486a017ac221">
+      <ot:lokalnyId>bd61eaf1-57ed-48f8-ba57-9ce52d095e53</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>nazwa oboczna Kanał Tyna</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>139535</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">1</ot:szerokosc>
+      <ot:nazwa>Kanał Tiny</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.a857128a-7315-4824-8e87-441dacbf696d" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>510501.16 684835.42 510505.82 684839.08 510517.07 684845.75 510532.71 684855.02 510544.69 684864.67 510553.34 684871.99 510562.66 684881.63 510575.31 684895.61 510583.96 684901.26 510594.55 684906.24 510613.86 684909.56 510641.15 684911.23 510653.46 684912.56 510661.12 684910.23 510670.31 684903.61 510684.62 684890.63 510693.94 684880.65 510703.42 684864.13 510711.40 684833.52 510721.39 684807.24 510728.71 684793.94 510741.36 684777.97 510756.00 684766.33 510778.30 684755.68 510791.28 684747.36 510806.34 684733.58 510823.84 684713.35 510836.47 684694.83 510851.83 684679.47 510860.88 684672.74 510875.83 684668.53 510889.24 684667.49 510909.45 684667.91 510933.12 684668.34 510943.86 684671.08 510949.12 684675.70 510952.07 684681.81 510952.91 684699.06 510956.70 684719.04 510959.01 684724.73 510971.31 684734.52 510983.93 684742.94 511001.61 684754.51 511007.93 684761.24 511012.14 684769.23 511013.40 684776.60 511012.77 684786.49 511012.35 684796.16 511009.19 684804.79 511007.30 684817.20 511007.09 684832.77 511005.23 684844.27 511002.49 684852.69 510994.50 684865.94 510988.60 684877.93 510985.87 684888.24 510987.76 684898.34 510990.67 684908.54 510996.15 684918.43 511001.62 684925.38 511006.21 684930.11 511010.46 684936.53 511013.62 684941.58 511014.88 684949.15 511015.51 684959.04 511018.25 684968.93 511023.51 684983.23 511032.49 684996.41 511041.33 685004.82 511051.64 685009.87 511061.75 685014.08 511076.41 685017.22 511088.20 685018.48 511099.58 685014.71 511114.56 685006.72 511126.98 685000.16 511135.26 684996.45 511142.68 684994.59 511154.67 684994.16 511166.80 684994.59 511174.65 684993.16 511180.83 684988.62 511201.23 684971.70 511212.60 684964.56 511216.62 684962.11</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5486</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.cdd7eb87-114e-4743-8e6e-a17ae6019322">
+      <ot:lokalnyId>f6245990-733d-4e14-ab99-b7f0367861cf</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>nazwa oboczna Kanał Tyna</ot:informacjaDodatkowa>
+      <ot:identyfikatorPRNG>139535</ot:identyfikatorPRNG>
+      <ot:nazwa>Kanał Tiny</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.074a4c7d-6074-4fd0-8887-3abaecc08dd8" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>513769.28 686152.06 513772.35 686152.10 513781.45 686153.64 513791.01 686156.60 513798.46 686159.69 513807.17 686164.33 513816.17 686170.24 513824.46 686176.00 513833.32 686182.89 513842.96 686192.27 513851.81 686199.86 513857.30 686203.94 513865.03 686208.16 513873.74 686210.97 513881.47 686211.82 513890.33 686211.53 513901.38 686210.57 513912.63 686208.46 513925.28 686204.80 513936.52 686201.43 513946.50 686196.08 513952.41 686192.15 513957.04 686187.37 513968.82 686169.97 513973.74 686164.34 513978.38 686161.67 513984.42 686159.98 513990.47 686159.00 514001.51 686157.90 514013.88 686157.20 514018.52 686157.48 514023.30 686158.18 514028.36 686159.73 514033.98 686162.12 514040.45 686165.49 514049.87 686172.10 514065.84 686183.88 514079.20 686192.45 514091.57 686198.64 514103.09 686203.42 514110.79 686205.65 514120.77 686207.90 514127.79 686210.29 514136.51 686214.37 514145.36 686217.60 514149.72 686218.73 514151.83 686218.45 514153.94 686217.32 514166.59 686201.71 514171.51 686193.98 514172.77 686189.48 514175.96 686175.62 514182.99 686160.15 514187.20 686150.59 514191.84 686143.28 514199.01 686135.96 514206.04 686130.06 514211.94 686126.26 514219.62 686123.77 514236.07 686117.30 514242.68 686114.35 514249.56 686109.71 514266.29 686095.36 514278.36 686086.52 514286.65 686082.16 514294.24 686080.76 514300.42 686081.74 514306.47 686083.85 514320.53 686089.94 514336.19 686094.90 514348.46 686096.99 514361.25 686098.03 514368.82 686097.25 514374.83 686094.12 514415.02 686062.26 514422.47 686056.34 514427.69 686052.69 514446.75 686045.90 514466.58 686038.32 514481.46 686032.58 514490.60 686028.14 514499.99 686021.87 514507.04 686019.26 514511.48 686018.22 514515.66 686018.48 514521.14 686020.83 514524.67 686023.94 514531.46 686030.47 514537.98 686035.95 514543.20 686039.09 514547.12 686040.13 514555.47 686040.65 514561.48 686040.91 514571.39 686042.74 514580.79 686044.83 514590.45 686046.14 514598.02 686045.35 514606.63 686043.79 514618.90 686040.39 514626.47 686038.30 514633.26 686036.74 514637.96 686037.00 514641.87 686038.04 514645.53 686039.87 514652.59 686043.29 514667.64 686045.27 514678.55 686044.08 514682.46 686044.08 514687.95 686045.65 514697.60 686048.78 514708.31 686051.40 514720.05 686054.27 514731.28 686054.79 514739.85 686054.73 514759.47 686050.35 514776.43 686049.31 514789.48 686048.52 514799.14 686045.65 514808.54 686039.91 514832.81 686025.02 514842.47 686017.19 514854.48 686006.48 514885.02 685974.36 514897.81 685961.83 514905.64 685955.82 514915.30 685950.60 514928.09 685944.86 514938.33 685939.13</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+      <ot:identyfikatorMPHP>5486</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.994cff88-2a7a-441b-ad6b-49e03b12adb5">
+      <ot:lokalnyId>7f3ff6b4-a2e7-4efb-890c-f7eb58207e87</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>nazwa oboczna Kanał Tyna</ot:informacjaDodatkowa>
+      <ot:identyfikatorPRNG>139535</ot:identyfikatorPRNG>
+      <ot:nazwa>Kanał Tiny</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e684e935-1d25-4b76-93f0-97b9c46d5839" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>514938.33 685939.13 514945.89 685934.02 514951.98 685926.68 514984.30 685884.47 515037.77 685814.48 515075.00 685765.15 515106.76 685723.06 515156.51 685660.69 515163.38 685651.12 515180.17 685628.66 515187.73 685618.37 515192.98 685613.12 515200.53 685608.08 515209.14 685603.46 515217.75 685599.26 515228.03 685595.48 515243.70 685591.32 515301.85 685577.04 515396.62 685553.97 515450.93 685542.01 515471.39 685537.24</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+      <ot:identyfikatorMPHP>5486</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.594cb8fc-21bb-4607-b3f5-ef305d19e8ab">
+      <ot:lokalnyId>0bd9c61b-7740-4768-9671-030b13a53da3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Panieński/Panieńska Łacha</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>96688</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">4</ot:szerokosc>
+      <ot:nazwa>Lipinecki Kanał</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.0d7b61a2-4487-4bcc-b362-8a200c70593b" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>510927.25 698510.92 510927.66 698517.04</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5148</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.a30ff116-585a-4f2e-8f97-42e9c7a7ee7a">
+      <ot:lokalnyId>242829be-097c-4986-a349-19ea1dbff5e5</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3fbc548b-8fec-4124-add1-1d956f0c11da" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494687.37 700002.20 494715.61 700025.17 494743.61 700052.27 494754.69 700066.20 494757.78 700076.76 494761.13 700112.05 494761.14 700119.32</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.bea8c41b-33c3-41dc-920c-c6b1bb7d1be9">
+      <ot:lokalnyId>f5d784bc-e8b6-490f-b0c0-2c2b6c309e46</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.36fae2f8-ffe8-4c05-8bff-c97bdf127da1" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494595.65 699751.69 494595.59 699750.83 494593.85 699736.30 494593.38 699732.36</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.c4f1ab08-0379-40dd-a9ee-eb52d8079d5a">
+      <ot:lokalnyId>28BEDAB7-58BB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>nazwa oboczna Kanał Tyna</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>139535</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Kanał Tiny</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.b2556e1b-a44e-4ab4-b1b0-451a658cb1f6" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>511614.67 685232.18 511617.64 685229.21 511622.10 685226.73 511640.98 685219.69 511653.12 685218.58 511663.53 685220.43 511668.92 685222.27 511677.10 685227.10 511690.60 685237.13 511701.54 685242.56 511709.72 685243.30 511722.11 685242.31 511739.33 685237.36 511757.21 685233.67 511762.54 685233.67 511766.13 685234.66 511771.21 685238.25 511777.59 685243.66 511796.30 685260.99 511816.74 685276.23 511832.27 685287.82 511836.11 685292.40 511838.34 685298.22 511839.33 685309.12 511839.32 685321.68 511842.54 685338.89 511846.75 685362.66 511852.68 685387.45 511857.50 685410.41 511859.73 685423.41 511858.86 685436.74 511856.88 685453.95 511856.38 685470.12 511859.10 685486.96 511861.58 685499.72 511870.48 685520.35 511874.07 685528.03 511876.05 685530.29 511879.03 685533.71 511882.87 685538.18 511897.06 685553.86 511906.97 685560.67 511918.12 685565.99 511934.72 685570.45 511957.33 685575.15 511996.30 685583.32 512012.96 685584.80 512026.53 685584.10 512044.05 685582.01 512061.22 685578.06 512085.69 685565.49 512098.45 685555.09 512105.51 685546.05 512108.16 685538.92 512107.66 685529.64 512107.66 685517.87 512108.90 685508.83 512114.85 685487.53 512132.13 685444.78 512139.44 685431.04 512148.97 685416.80 512161.61 685398.10 512179.39 685373.16 512187.20 685363.87 512200.20 685352.10 512209.50 685343.07 512228.14 685331.22 512241.02 685327.13 512249.70 685325.77 512261.80 685325.16 512272.66 685327.09 512276.02 685324.48 512279.69 685321.87 512283.25 685319.84 512290.40 685323.63 512311.12 685346.84 512342.41 685385.15 512354.80 685400.99 512373.21 685420.49 512388.54 685435.84 512401.74 685446.41 512409.53 685452.94 512425.31 685472.52 512433.83 685483.06 512435.32 685486.38 512437.30 685490.58 512439.38 685494.98 512445.62 685508.93 512452.75 685523.79 512458.40 685533.89 512467.28 685555.53 512473.51 685585.68 512473.99 685588.00 512474.38 685590.16 512477.67 685608.44 512480.52 685616.15 512486.29 685625.20 512492.66 685632.72 512508.39 685646.18 512522.46 685657.52 512536.47 685668.52 512543.88 685674.56 512552.81 685683.94 512570.87 685701.87 512580.40 685710.18 512592.50 685719.86 512604.45 685726.66 512624.19 685734.64 512638.26 685742.35 512657.47 685753.99 512681.86 685767.10 512699.41 685775.87 512709.54 685778.74 512720.43 685781.01 512735.94 685782.81 512751.07 685784.17 512765.44 685784.17 512775.65 685785.97 512790.77 685788.54 512807.11 685792.93 512829.42 685799.25 512841.37 685804.09 512850.29 685810.89 512858.91 685818.00 512865.96 685821.15 512873.53 685824.03 512880.94 685830.07 512888.50 685841.26 512894.40 685850.03 512910.97 685872.80 512923.83 685892.76 512938.44 685921.72 512944.94 685932.61 512948.57 685938.05 512952.96 685942.28 512960.01 685946.03 512966.37 685952.23 512972.12 685961.45 512974.28 685968.89 512979.95 685978.48 512990.20 685989.16 513006.12 686000.28 513021.12 686008.11 513028.53 686010.29 513039.22 686014.21 513050.99 686019.45 513071.42 686030.10 513086.46 686035.55 513100.86 686039.91 513114.26 686041.85 513126.04 686041.42 513143.27 686036.84 513154.31 686035.10 513175.68 686034.45 513190.73 686034.23 513205.99 686034.67 513245.99 686033.58 513265.84 686034.24 513298.21 686037.07 513318.90 686041.96 513340.39 686047.13 513349.96 686050.12 513352.47 686051.69 513354.35 686053.41 513367.85 686078.37 513385.22 686111.74 513387.91 686115.78 513389.82 686120.30 513391.66 686130.57 513392.60 686139.05 513393.38 686142.97 513396.05 686150.93 513400.76 686164.59 513405.46 686183.58 513409.22 686202.19 513410.63 686207.99 513415.03 686220.86 513417.85 686230.12 513418.48 686235.93 513418.64 686241.58 513417.54 686248.02 513416.28 686253.51 513414.09 686257.90 513412.05 686262.61 513409.23 686268.20 513405.94 686274.32 513400.76 686281.22 513398.09 686284.83 513392.13 686295.66 513386.95 686307.12 513384.47 686312.87 513381.65 686318.05 513376.94 686325.11 513367.84 686336.88 513361.88 686345.20 513357.49 686352.26 513353.41 686360.74 513351.06 686367.17 513348.86 686375.96 513347.85 686379.94 513347.14 686382.71 513347.22 686391.70 513349.94 686407.03 513354.64 686426.31 513357.11 686434.22 513361.81 686440.40 513375.26 686451.29 513377.84 686453.18 513380.10 686454.84 513403.36 686467.10 513430.45 686479.19 513439.60 686481.17 513450.97 686482.90 513461.86 686486.11 513475.21 686492.29 513513.19 686505.87 513515.28 686505.15 513518.39 686502.62 513530.25 686486.10 513552.23 686457.33 513557.61 686460.65 513570.51 686468.22 513674.73 686303.14 513727.09 686220.20 513769.28 686152.06</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5486</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.9a9a5493-a54a-4d90-ad53-985c1099ddb3">
+      <ot:lokalnyId>28BEDAB7-58BC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:identyfikatorPRNG>142786</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:nazwa>Kanał Ulga</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.b890a10d-4bef-4e11-a722-055d37e7e06f" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>503532.10 687382.00 503524.83 687390.40 503483.96 687437.42</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.edaa8ef6-9672-46e1-b2d6-4d686fe02f80">
+      <ot:lokalnyId>28BEDAB7-58BE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.04a59db5-4cc1-456f-bf31-81ca1bd64e8d" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>494316.02 699171.10 494316.32 699176.42 494316.70 699184.15 494316.70 699190.57 494318.08 699196.29 494320.83 699201.56 494324.26 699208.89 494328.61 699215.54 494333.88 699224.47 494343.03 699236.84 494356.97 699257.37 494366.13 699271.34 494371.77 699280.83 494374.56 699284.62 494383.64 699297.74 494396.92 699319.66 494412.85 699361.13</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.1378a263-b07e-4d04-ba61-2161a2635f70">
+      <ot:lokalnyId>28BEDAB7-58BF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Juranda, Malborski Rów, Młynówka Malborska</ot:informacjaDodatkowa>
+      <ot:identyfikatorPRNG>81830</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:nazwa>Malborska Młynówka</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.31ac1df5-af83-4547-b500-79a87c5aff75" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502078.39 686604.75 502061.19 686607.29 502054.15 686615.05 502021.11 686652.42 502017.50 686667.04 501989.34 686704.72</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:cechaGeometrii>sztuczny łącznik</ot:cechaGeometrii>
+      <ot:identyfikatorMPHP>524</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.5caca0cf-9aad-4ed4-8bba-57882c95dcb2">
+      <ot:lokalnyId>28BEDAB7-58C0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Juranda, Malborski Rów, Młynówka Malborska</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>81830</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">4</ot:szerokosc>
+      <ot:nazwa>Malborska Młynówka</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.9d3f67bb-5a9f-427e-abc8-595aa31b3df3" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502519.11 683461.75 502510.20 683466.42 502495.77 683472.90 502475.20 683480.25 502433.97 683494.58 502397.91 683506.14 502366.36 683515.76 502346.98 683523.96 502337.20 683529.26 502329.25 683533.82 502323.28 683537.38 502318.65 683540.28 502314.34 683545.33 502307.79 683552.62 502303.74 683559.33 502298.60 683569.02 502296.94 683574.49 502296.03 683580.04 502295.53 683583.77 502295.29 683588.74 502296.12 683593.35 502296.82 683598.42 502298.69 683610.92 502299.57 683617.04 502300.32 683622.82 502300.87 683628.33 502301.34 683635.95 502302.06 683645.12 502301.27 683656.67 502299.09 683679.12 502297.69 683693.47 502295.34 683709.24 502293.76 683717.21 502291.58 683725.61 502288.29 683735.31 502282.63 683750.87 502272.79 683772.88 502269.20 683781.90 502267.89 683786.98 502267.63 683791.71 502267.98 683796.35 502269.61 683808.18 502274.57 683825.87 502289.28 683877.09 502299.61 683919.54 502315.88 683975.86 502321.50 683998.79 502322.57 684003.82 502323.09 684006.12 502323.80 684009.77 502324.71 684014.02 502328.99 684029.76 502330.74 684037.20 502335.72 684060.01 502344.81 684094.01 502353.04 684127.49 502360.30 684160.19 502369.56 684199.09 502376.82 684228.27 502382.59 684246.92 502385.04 684254.81 502385.74 684258.48 502386.09 684263.12 502385.74 684268.11 502384.08 684273.98 502382.33 684277.66 502379.27 684282.03 502376.29 684285.80 502370.08 684292.10 502361.70 684299.93 502357.76 684303.52 502353.30 684306.68 502347.79 684310.35 502336.24 684315.69 502323.92 684320.99 502314.13 684325.92 502299.72 684332.32 502298.52 684332.85 502279.98 684341.43 502271.61 684346.11 502268.90 684348.20 502267.30 684350.30 502266.68 684352.52 502265.94 684356.71 502266.06 684365.33 502266.31 684368.04 502266.93 684370.39 502268.53 684374.70 502271.97 684382.41 502273.81 684387.59 502274.80 684390.67 502275.05 684393.26 502275.05 684395.47 502274.80 684397.94 502273.44 684403.73 502270.49 684416.16 502270.13 684419.44 502269.88 684422.15 502269.88 684428.56 502270.74 684444.70 502270.50 684450.00 502268.78 684474.60 502266.56 684514.46 502264.72 684561.23 502263.54 684596.87 502262.06 684639.02 502259.61 684685.49 502258.87 684704.22 502257.64 684729.85 502255.43 684775.55 502254.94 684797.49 502253.95 684818.19 502253.73 684822.61 502253.30 684831.31 502252.05 684856.80 502250.95 684877.38 502250.57 684889.76 502249.46 684915.70 502247.38 684964.51 502247.23 684968.14 502247.12 684971.57 502246.91 684981.32 502246.58 684987.59 502245.77 685002.93 502244.17 685018.83 502243.92 685040.14 502243.30 685054.02 502243.07 685059.25 502242.82 685064.74 502241.47 685094.40 502240.60 685118.19 502240.04 685126.82 502238.27 685154.07 502237.16 685171.81 502236.30 685176.00 502234.95 685179.82 502233.22 685183.40 502231.25 685186.11 502222.67 685194.66 502215.40 685199.71 502200.75 685206.26 502185.83 685211.55 502171.52 685213.99 502159.52 685214.60 502151.52 685215.48 502144.13 685217.99 502140.34 685222.33 502138.23 685225.24 502137.76 685229.09 502137.01 685232.63 502141.67 685251.06 502143.42 685260.19 502144.36 685265.65 502145.36 685272.92 502144.62 685284.26 502142.03 685302.50 502137.97 685328.27 502135.75 685344.46 502133.54 685355.94 502132.31 685373.44 502129.85 685410.04 502129.31 685420.46 502128.49 685433.12 502127.63 685449.76 502125.30 685483.30 502123.20 685518.06 502120.37 685547.57 502118.04 685572.05 502115.94 685590.91 502114.59 685607.34 502113.32 685621.55 502111.36 685643.34 502111.02 685647.14 502110.51 685651.10 502110.19 685656.07 502108.32 685676.27 502107.32 685688.15 502105.92 685702.11 502104.74 685715.61 502101.84 685739.11 502100.12 685748.18 502095.78 685778.45 502091.97 685811.98 502092.82 685815.16 502097.42 685821.27 502100.17 685826.77 502101.71 685830.75 502102.05 685835.86 502100.86 685839.95 502097.62 685844.03 502091.02 685847.79 502087.43 685848.76 502084.61 685849.42 502078.59 685851.16 502058.60 685857.05 502045.14 685860.91 502040.28 685863.06 502023.89 685871.28 502017.90 685874.88 502017.04 685877.84 502016.67 685881.41 502016.67 685887.70 502017.41 685892.01 502018.51 685896.32 502019.50 685899.53 502021.35 685903.47 502026.63 685913.79 502028.97 685920.19 502029.70 685924.88 502029.58 685928.70 502028.97 685931.41 502026.38 685935.35 502020.59 685942.99 502001.89 685968.82 501997.74 685974.99 501996.22 685978.31 501995.36 685980.90 501994.64 685984.89 501994.02 685988.83 501994.02 685992.90 501995.01 686006.33 501997.18 686017.18 502000.43 686028.70 502004.37 686043.12 502008.80 686056.43 502015.69 686076.49 502022.08 686092.45 502023.44 686094.43 502025.41 686096.15 502027.75 686097.88 502031.32 686099.72 502036.86 686103.05 502041.66 686106.26 502047.33 686110.45 502058.13 686119.04 502063.42 686125.30 502070.61 686133.67 502096.75 686166.08 502129.30 686214.96 502195.83 686318.87 502203.41 686331.16 502212.30 686347.04 502219.34 686355.05 502222.22 686358.79 502223.56 686361.09 502232.57 686383.37 502236.30 686388.44 502243.76 686398.04 502262.41 686423.81 502268.80 686433.42 502271.74 686441.96 502273.34 686455.30 502273.87 686466.50 502272.54 686484.38 502271.74 686494.52 502269.91 686501.58 502267.78 686506.12 502264.84 686510.65 502262.18 686513.32 502259.24 686515.19 502250.71 686518.39 502234.02 686522.98 502218.71 686527.46 502147.40 686549.56 502120.74 686560.50 502116.35 686562.79 502112.75 686565.28 502108.41 686568.79 502105.01 686572.24 502100.21 686577.58 502091.67 686587.72 502082.40 686602.92 502078.39 686604.75</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>524</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.6481c59a-1ef3-4681-ab20-f351e0a0bcbb">
+      <ot:lokalnyId>28BEDAB7-58C1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Panieński/Panieńska Łacha</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>96688</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Lipinecki Kanał</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.2afdf50c-2d6b-4c15-bd0a-df7f4e4387ef" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>509882.60 696694.45 509903.80 696696.99 509916.52 696699.11 509927.12 696702.50 509936.88 696708.01 509959.26 696722.73 509981.78 696745.27 510000.65 696771.77 510021.05 696805.12 510032.77 696825.08 510040.98 696840.46 510056.64 696876.42 510065.47 696899.27 510072.77 696909.62 510080.68 696921.20 510090.42 696930.64 510095.72 696934.09 510103.13 696938.91 510103.99 696939.79 510109.31 696945.25 510144.38 696969.66 510158.23 696985.66 510166.87 697001.32 510208.01 697099.53 510230.00 697152.58 510229.81 697159.57 510357.30 697465.93 510480.15 697762.66 510675.65 698081.71 510841.37 698352.16 510874.45 698405.57 510897.41 698445.24 510903.89 698456.41</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5148</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.d333f4eb-cdd4-48d2-b0cc-1a6d87f0aea4">
+      <ot:lokalnyId>28BEDAB7-58BD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">1</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.13d215a0-2d5c-4bff-a90e-06736371b68d" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>493734.29 694164.70 493702.00 694178.66 493677.86 694186.81 493640.34 694192.92 493608.64 694199.62 493586.53 694204.85 493566.75 694210.09 493559.19 694213.58 493553.37 694224.93 493543.19 694268.58 493539.55 694297.35 493517.34 694292.15 493404.19 694267.12 493327.99 694250.25 493267.63 694236.96 493229.76 694231.46 493203.95 694231.00 493185.51 694232.38 493165.56 694235.12</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.d401ce53-7a24-43c2-8cc3-d9ba4febfc1a">
+      <ot:lokalnyId>28BEDAB7-58C2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Panieński/Panieńska Łacha</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>96688</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Lipinecki Kanał</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.ab3309d2-1dbb-4365-a867-5a3185538621" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>508820.01 694757.50 508817.57 694764.49 508807.55 694781.36 508803.88 694790.40 508802.42 694797.49 508802.17 694805.56 508803.03 694813.73 508807.44 694837.05 508809.02 694853.66 508809.49 694865.22 508808.23 694877.40 508803.80 694910.05 508802.38 694930.31 508800.95 694947.24 508800.79 694965.12 508799.21 695006.01 508798.08 695029.81 508795.26 695058.90 508792.71 695075.62 508787.33 695093.75 508782.16 695121.07 508776.46 695157.47 508771.72 695192.59 508770.22 695217.33 508768.06 695231.97 508762.40 695277.87 508760.43 695293.38 508755.90 695313.78 508748.54 695339.28 508741.46 695366.76 508739.20 695378.09 508738.63 695384.89 508737.43 695392.50 508737.90 695403.60 508739.73 695416.80 508747.10 695445.71 508753.95 695482.55 508753.28 695519.16 508752.34 695526.78 508751.15 695536.52 508751.40 695561.74 508751.87 695578.36 508754.58 695591.89 508758.12 695606.06 508762.48 695618.10 508768.86 695628.14 508776.77 695634.89 508778.65 695637.99 508787.59 695649.15 508799.79 695658.90 508814.41 695667.95 508834.62 695676.66 508846.11 695680.14 508859.70 695681.88 508876.76 695684.32 508886.00 695686.01 508897.49 695690.89 508908.29 695697.50 508922.57 695708.29 508970.53 695755.53 509083.95 695870.68 509099.28 695883.91 509110.98 695892.20 509122.83 695897.77 509141.29 695905.43 509159.05 695909.61 509191.79 695915.53 509210.08 695921.07 509222.97 695926.29 509235.51 695932.91 509247.70 695942.31 509263.72 695956.58 509281.14 695979.56 509291.24 695991.05 509300.64 695998.36 509315.25 696005.26 509330.51 696011.62 509363.17 696020.52 509391.15 696027.73 509403.88 696032.81 509414.90 696036.63 509428.90 696042.14 509440.77 696049.34 509453.49 696061.21 509469.18 696077.74 509510.51 696124.23 509629.89 696257.57 509637.95 696268.59 509645.16 696282.58 509651.52 696307.16 509654.06 696327.50 509653.64 696349.54 509648.46 696377.84 509647.28 696384.30 509630.79 696495.01 509630.37 696505.60 509632.91 696523.41 509637.58 696546.72 509646.48 696568.76 509659.21 696592.07 509676.59 696612.41 509690.16 696625.55 509703.48 696633.48 509716.63 696640.26 509736.56 696646.61 509759.03 696651.28 509770.48 696653.82 509784.90 696658.48 509813.90 696671.98 509832.13 696680.89 509850.79 696688.51 509864.78 696693.18 509876.66 696694.87 509882.60 696694.45</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5148</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.9be6696e-fde8-43e5-92f5-6b9e539eab03">
+      <ot:lokalnyId>28BEDAB7-58C3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Panieński/Panieńska Łacha</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>96688</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">1.5</ot:szerokosc>
+      <ot:nazwa>Lipinecki Kanał</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.c65af5a7-3d81-4868-bc90-f671c4294e01" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>510903.89 698456.41 510908.80 698464.90 510912.01 698471.11 510921.67 698489.83</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5148</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.4704ab80-8102-4cbc-baf6-788b80a0d85e">
+      <ot:lokalnyId>28BEDAB7-58C5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Juranda, Malborski Rów, Młynówka Malborska</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>81830</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">4</ot:szerokosc>
+      <ot:nazwa>Malborska Młynówka</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.d64f1caa-fb5e-43fe-8602-f3e5cd498429" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>503005.00 682322.04 503004.63 682323.16 503000.01 682331.86 502989.60 682354.45 502974.39 682386.62 502956.04 682426.82 502943.72 682453.88 502941.80 682456.68 502939.26 682459.40 502936.29 682461.58 502933.22 682463.69 502930.83 682464.64 502925.16 682466.75 502919.60 682469.56 502913.19 682474.10 502908.37 682479.27 502898.37 682488.85 502894.17 682494.10 502892.24 682497.26 502890.93 682500.76 502890.32 682503.65 502889.79 682506.45 502890.00 682512.36 502891.62 682517.27 502892.32 682521.73 502892.94 682529.35 502892.85 682538.89 502892.59 682541.54 502890.23 682558.70 502888.21 682572.62 502886.99 682578.02 502881.29 682597.07 502869.59 682626.46 502859.54 682649.25 502854.37 682659.41 502850.44 682666.94 502846.32 682673.86 502829.29 682701.46 502822.11 682711.71 502791.60 682750.59 502780.58 682765.30 502760.85 682790.77 502747.11 682808.19 502741.77 682815.37 502737.48 682822.81 502724.12 682845.08 502714.58 682861.28 502689.93 682901.20 502686.26 682908.46 502683.81 682914.07 502682.50 682918.18 502681.20 682923.10 502677.79 682940.79 502675.08 682952.26 502673.50 682956.63 502671.40 682961.45 502663.64 682974.01 502659.00 682981.63 502654.54 682988.19 502652.26 682991.08 502647.97 682995.90 502642.55 683002.55 502620.44 683023.51 502606.27 683038.39 502594.58 683050.86 502592.13 683053.92 502590.12 683056.63 502588.02 683060.14 502586.44 683063.46 502584.87 683067.58 502583.03 683072.74 502577.88 683086.34 502576.48 683089.23 502574.90 683091.94 502573.42 683094.13 502570.09 683097.11 502565.98 683100.52 502556.97 683106.83 502544.89 683115.84 502540.20 683120.16 502537.57 683122.79 502535.12 683126.29 502532.76 683129.79 502529.70 683135.22 502523.22 683147.56 502518.61 683154.42 502516.69 683156.96 502514.59 683159.14 502512.14 683161.16 502509.08 683163.17 502503.74 683165.89 502491.14 683172.10 502487.73 683174.38 502484.75 683177.27 502482.83 683179.54 502479.68 683185.92 502474.69 683197.57 502473.31 683202.77 502471.47 683210.82 502469.46 683219.84 502466.84 683227.02 502459.59 683244.47 502458.11 683248.50 502457.06 683252.53 502456.79 683255.77 502456.97 683258.83 502457.41 683262.16 502458.46 683265.49 502460.29 683269.43 502462.99 683274.82 502466.84 683280.24 502472.44 683286.64 502483.38 683295.92 502496.90 683306.11 502517.46 683320.03 502521.99 683323.50 502525.75 683326.92 502529.51 683330.24 502532.57 683333.57 502535.64 683337.68 502538.87 683342.50 502554.26 683372.04 502555.75 683375.19 502557.84 683379.70 502559.33 683383.91 502560.64 683388.46 502561.43 683393.54 502561.42 683398.12 502560.55 683410.55 502559.85 683416.41 502558.80 683420.00 502556.61 683424.47 502553.73 683429.98 502549.44 683436.64 502545.85 683440.49 502537.74 683447.28 502523.04 683459.10 502519.11 683461.75</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>524</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.d78a0a19-eff3-4f5c-a658-3e2d4b413385">
+      <ot:lokalnyId>28BEDAB7-58C7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">2</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.7b78180f-f673-4d13-ac9f-ba2239be2f60" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>493165.56 694235.12 493166.41 694241.13 493167.11 694246.31 493169.32 694259.24 493174.79 694275.65 493180.86 694298.14 493182.28 694315.16 493181.06 694329.75 493178.23 694347.18 493175.39 694360.95 493168.11 694381.71 493161.23 694396.10 493146.87 694420.95 493137.96 694440.20 493129.04 694464.51 493121.35 694481.33 493113.04 694499.56 493105.35 694508.68 493092.79 694516.18 493081.08 694526.07 493071.63 694534.99 493064.33 694550.40 493060.01 694563.11 493056.17 694584.74 493050.69 694636.91 493047.45 694658.39 493043.39 694677.23 493040.15 694691.62 493037.74 694708.32 493038.75 694722.30 493044.22 694740.94 493049.28 694755.52 493051.51 694766.47 493052.93 694791.59 493054.12 694806.45 493058.58 694820.03 493064.86 694840.09 493069.72 694855.89 493071.13 694865.82 493070.12 694877.57 493066.10 694887.23 493054.96 694900.20 493046.04 694906.88 493033.28 694910.94 493013.48 694915.35 493003.15 694919.81 492991.20 694930.35 492983.70 694942.50 492978.64 694956.69 492975.60 694967.63 492976.01 694981.20 492980.06 695001.67 492988.14 695037.38 492993.41 695062.70 492998.07 695088.23 493002.53 695100.39 493010.02 695113.16 493017.70 695122.81 493025.20 695133.14 493028.03 695141.04 493027.02 695152.39 493023.19 695166.08 493014.07 695191.20 493008.80 695210.25 493005.16 695235.17 493003.13 695255.13 493003.13 695270.32 493006.17 695283.90 493008.80 695293.62 493009.41 695306.91 493007.39 695319.06 493002.32 695336.08 492995.64 695348.85 492984.90 695364.45 492978.45 695376.68 492974.60 695398.77 492973.39 695416.80 492974.81 695431.79 492980.88 695445.16 492992.41 695464.72 493011.26 695498.65 493021.16 695518.39 493026.63 695530.14 493029.87 695545.34 493033.31 695561.95 493036.15 695585.46 493042.02 695617.67 493045.09 695635.03 493050.08 695660.80 493051.42 695667.47 493053.35 695675.25 493076.88 695792.33 493098.47 695901.00 493103.78 695933.64 493116.09 695994.93 493132.76 696087.69 493141.93 696143.17 493144.51 696163.83 493147.73 696184.75 493151.83 696211.06 493155.70 696237.66 493157.39 696250.96 493164.63 696282.78 493171.63 696317.72 493176.95 696345.04 493180.81 696363.90 493182.50 696376.92 493185.16 696389.25 493188.06 696398.92 493192.65 696417.54 493193.47 696420.76 493195.79 696429.87 493198.45 696448.24 493199.38 696453.86 493202.07 696466.95 493204.01 696475.41 493206.42 696483.63 493208.60 696490.64 493212.95 696499.83 493216.57 696511.19 493219.47 696521.83 493220.68 696529.81 493224.30 696598.59 493224.45 696602.65 493227.94 696697.28 493229.60 696734.01 493233.46 696816.32 493237.08 696870.89 493237.90 696881.23 493241.02 696891.24 493243.38 696897.96 493248.40 696906.33 493257.92 696928.32 493262.35 696940.62 493265.63 696949.98 493270.06 696965.56 493273.24 696979.13 493276.29 696988.27 493280.28 696996.08 493284.09 697003.12 493295.96 697021.59 493324.93 697080.99 493336.44 697104.83 493368.31 697184.69 493389.04 697232.61 493418.51 697300.87 493433.80 697337.03 493439.81 697351.26 493457.89 697396.96 493466.83 697422.18 493469.49 697433.23 493473.00 697446.35 493474.25 697455.62 493472.54 697473.51 493470.67 697488.05 493468.56 697499.33 493465.33 697514.56 493463.85 697528.21 493465.55 697548.72 493466.95 697558.16 493467.30 697571.09 493466.95 697580.18 493466.91 697586.32 493465.77 697596.03 493464.85 697606.61 493461.50 697632.77 493459.81 697642.34 493459.01 697652.46 493458.06 697657.98 493457.17 697663.75 493455.81 697678.13 493455.50 697682.27 493455.05 697688.42 493454.10 697695.84 493453.15 697703.46 493449.35 697719.55 493442.69 697753.82 493438.69 697778.57 493436.45 697796.35 493436.16 697799.70 493435.84 697803.33 493435.74 697807.47 493435.69 697811.77 493433.79 697834.80 493432.40 697851.25 493428.93 697868.16 493426.15 697880.21 493420.37 697896.79 493412.73 697915.79 493409.03 697927.14 493408.33 697936.64 493409.72 697944.29 493413.89 697953.32 493422.46 697968.85 493432.18 697991.55 493440.51 698020.18 493444.71 698037.88 493448.62 698049.84 493455.87 698067.23 493461.93 698079.34 493471.89 698092.63 493486.35 698109.05 493492.99 698117.65 493497.06 698125.42 493506.25 698142.44 493512.16 698160.82 493513.47 698163.92 493516.99 698168.61 493520.51 698171.54 493528.07 698175.02 493563.23 698185.58 493572.82 698187.77 493576.05 698188.56 493580.13 698189.57 493584.37 698190.63 493592.15 698192.22 493611.82 698197.20 493632.13 698202.67 493643.66 698205.41 493651.67 698208.73 493656.55 698214.98 493660.46 698226.32 493664.25 698239.09 493667.62 698250.65 493668.27 698252.90 493672.77 698268.14 493678.63 698281.24 493684.88 698290.23 493694.79 698306.14 493705.93 698322.17 493712.77 698332.33 493716.87 698339.18 493719.99 698348.17 493721.12 698351.92 493726.04 698368.23 493729.16 698383.47 493732.48 698395.78 493735.22 698403.41 493740.88 698416.11 493745.96 698427.06 493750.61 698436.89 493755.30 698444.32 493759.99 698454.68 493761.36 698462.11 493762.14 698468.75 493761.94 698475.20 493759.21 698484.19 493749.66 698509.31 493743.22 698528.27 493739.31 698542.54 493737.75 698549.19 493737.75 698564.16 493738.27 698568.84 493739.10 698574.08 493739.99 698579.70 493741.46 698586.64 493742.24 698599.93 493743.61 698617.52 493742.54 698630.71 493740.35 698640.44 493737.08 698650.83 493730.54 698685.19 493728.20 698696.44 493724.88 698712.36 493722.92 698721.35 493722.34 698728.19 493721.96 698735.48 493721.56 698743.05 493721.56 698749.17 493721.56 698759.27 493719.90 698779.90 493718.64 698795.65 493718.84 698811.09 493718.25 698821.05 493717.27 698832.00 493715.32 698840.99 493712.00 698848.53 493709.66 698853.85 493706.48 698860.48 493702.23 698874.61 493700.67 698885.62 493699.89 698897.35 493699.89 698902.62 493699.89 698909.66 493700.87 698926.86 493702.23 698938.78 493704.38 698948.75 493706.53 698956.57 493711.61 698970.45 493716.10 698983.74 493721.77 698992.92 493724.23 698994.61 493728.61 698997.61 493742.09 699004.45 493767.76 699020.36 493789.83 699034.82 493803.51 699044.59 493813.67 699049.67 493820.70 699051.82 493830.27 699053.39 493835.74 699055.73 493844.73 699058.86 493852.93 699061.01 493859.77 699061.60 493883.41 699068.63 493911.64 699075.62 493936.26 699081.29 493962.24 699088.71 493995.76 699098.47 494019.02 699107.43 494036.01 699115.45 494050.22 699122.45 494073.47 699131.05 494092.42 699141.02 494113.91 699151.57 494139.18 699165.20 494144.45 699167.16 494148.94 699167.35 494156.56 699167.16 494174.93 699165.59 494211.26 699163.05 494222.76 699162.49 494231.38 699162.07 494255.22 699161.68 494286.67 699162.07 494303.86 699162.47 494309.72 699163.83 494314.22 699166.96 494316.02 699171.10</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_SWKN_L gml:id="OT_SWKN_L.867c28f0-0605-496b-b62a-b4e37d967b34">
+      <ot:lokalnyId>28BEDAB7-58C8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Kanał Linawy/Kanał Linawka/Linawa</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_606</ot:kodKarto10k>
+      <ot:identyfikatorPRNG>68277</ot:identyfikatorPRNG>
+      <ot:polozenie>na powierzchni</ot:polozenie>
+      <ot:szerokosc uom="m">3</ot:szerokosc>
+      <ot:nazwa>Dąbrowski Rów</ot:nazwa>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e46049a6-b35d-40dd-aeb2-4d6a768bcf80" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>496211.74 701078.25 496244.40 701098.84 496401.97 701201.98 496522.42 701279.98 496555.59 701301.51</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+      <ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+      <ot:identyfikatorMPHP>5144</ot:identyfikatorMPHP>
+    </ot:OT_SWKN_L>
+  </gml:featureMember>
+</gml:FeatureCollection>

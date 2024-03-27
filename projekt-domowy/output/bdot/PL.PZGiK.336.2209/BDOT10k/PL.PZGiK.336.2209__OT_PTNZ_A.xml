@@ -1,0 +1,1692 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_PTNZ_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.35121a56-682e-4935-ba27-4829f49bd953">
+      <ot:lokalnyId>42e0e8f7-aba1-415c-a696-496529adc746</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a6da558d-0ad3-4e9b-a40e-55d4a5f9ac4b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502607.60 699105.43 502631.33 699113.27 502677.62 699128.55 502684.56 699108.47 502685.48 699105.82 502653.80 699095.21 502628.06 699087.70 502616.03 699081.03 502607.60 699105.43</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.6fc939a6-a3d8-4e02-99ae-2496ee038a3b">
+      <ot:lokalnyId>90549cf9-e738-4501-b5e8-447b0a3b8e8d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>w budowie</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.dd747775-a26f-4112-abc5-4e0a099a271d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502885.73 684421.27 502927.81 684449.50 502947.77 684450.73 502959.61 684419.34 502916.87 684406.08 502930.84 684367.13 502971.37 684380.72 502976.27 684364.62 502911.64 684348.59 502892.18 684403.19 502885.73 684421.27</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.a494e4a1-3532-4343-a471-8a28b1ddadc6">
+      <ot:lokalnyId>9835eb2e-e5f0-47d0-8255-6c405dbbe2c6</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b31214e7-a37c-41b1-8b5c-0c7c1c2f07c1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500417.41 695995.80 500424.89 695995.80 500436.43 695995.80 500434.06 695958.18 500418.23 695944.92 500418.05 695972.13 500417.41 695995.80</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.761b5d81-975e-4477-a875-a24a65a24c33">
+      <ot:lokalnyId>c6665dfa-c835-48ae-a701-1233b062c422</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.dc8080bd-4e59-48b0-86f1-3d18053d529f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495735.57 679170.68 495744.34 679183.00 495788.72 679164.39 495772.24 679125.04 495732.30 679145.23 495721.42 679153.30 495735.57 679170.68</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.bd595edd-36b7-40d6-a6f6-c3da31edc2be">
+      <ot:lokalnyId>ebeda3ad-5cce-4f78-bf2e-a4b38d2bf96d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>auto-komis</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f257187a-0b49-418e-be2e-bc42ae99ab95" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501033.88 685953.32 501023.73 685934.46 501033.54 685931.28 501031.32 685925.76 501023.66 685905.38 500988.66 685917.41 500991.01 685921.95 500991.32 685922.43 501016.23 685961.14 501033.88 685953.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.8859da7f-00a6-45a5-83c7-34227611c7f4">
+      <ot:lokalnyId>6352bd9f-4ac1-45bc-a372-967a1d693782</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a723a0dc-cadb-46f8-971e-780eab5eb697" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>508019.34 695530.45 508028.72 695509.83 508034.55 695488.31 508037.21 695467.05 508037.65 695436.03 508038.13 695419.83 508029.08 695401.54 507996.85 695371.08 507980.94 695400.79 508027.90 695425.63 508023.14 695434.75 508013.93 695451.82 508003.04 695446.05 507997.26 695456.94 507976.68 695446.03 507948.21 695433.03 507945.68 695437.89 507931.09 695467.83 507942.22 695473.69 507931.30 695497.34 507931.90 695497.56 507932.51 695497.78 507962.11 695508.84 507966.35 695510.42 507970.24 695512.35 508019.34 695530.45</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.56e585ab-841f-42b9-b195-9f029245a227">
+      <ot:lokalnyId>ab5b4601-bda1-4372-8286-342e738f051d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e8660eab-ed6c-41f0-9be5-2794a99ea96c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>510861.83 688867.38 510862.65 688894.09 510865.08 688899.12 510897.38 688922.93 510912.51 688930.95 510947.15 688929.63 510947.25 688864.25 510942.61 688855.16 510908.05 688857.03 510875.53 688860.27 510863.95 688865.72 510861.83 688867.38</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.9145dc6e-8e02-4577-a33b-11fe40aad22a">
+      <ot:lokalnyId>40ac4759-b2b0-4869-a024-0ff9f75621f6</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8a98302f-902e-4f64-9363-8cacdb624858" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490581.05 689364.32 490584.10 689384.63 490608.01 689384.45 490608.05 689384.72 490618.40 689384.67 490616.78 689372.94 490614.55 689362.07 490581.05 689364.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.d96fec8b-4c69-4085-ad06-cab04fdf4c23">
+      <ot:lokalnyId>7016b36c-c842-4a88-8444-497d6bcee622</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5fe30a15-afca-4934-b819-6e1d167f4cdb" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490808.07 686719.21 490800.37 686704.81 490741.70 686714.06 490740.97 686714.18 490732.80 686715.46 490734.61 686725.88 490738.19 686740.15 490746.78 686767.31 490752.44 686765.36 490807.26 686746.51 490808.07 686719.21</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.ad9d38e0-35ff-4b16-b2ec-5c2980a0e359">
+      <ot:lokalnyId>43a0a537-5055-4c86-b081-9f61dc6c04aa</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.201c763b-4d52-4096-b64e-86c11ae465ab" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>491721.20 680268.43 491753.82 680247.35 491799.78 680220.13 491775.50 680157.46 491719.51 680194.28 491730.15 680210.89 491731.95 680213.69 491699.52 680234.99 491705.22 680243.78 491721.20 680268.43</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.c112b100-e5e4-4683-a372-cc6263d41235">
+      <ot:lokalnyId>e1f5d762-9e4f-40e0-95c6-2c03d5c2aed0</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>auto-komis</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5f15a575-3b0a-496d-b924-c41d9e8046cb" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501129.36 684490.01 501148.68 684479.45 501157.51 684495.55 501170.99 684487.14 501162.31 684471.90 501159.03 684467.01 501152.03 684455.46 501126.19 684470.14 501119.54 684458.18 501113.27 684461.74 501129.36 684490.01</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.81155af4-d6e5-4709-9202-cd122beccd1e">
+      <ot:lokalnyId>78aef523-8a21-4f29-81ec-6d720936573c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>Cukrownia Nowy Staw nieczynna</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bae0dce3-5aa3-4f39-b83c-469260547613" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500313.78 696372.77 500267.92 696380.91 500259.35 696382.18 500258.80 696383.88 500263.25 696424.42 500212.45 696432.36 500213.79 696462.89 500274.41 696458.28 500317.41 696462.29 500313.62 696493.82 500360.29 696498.80 500363.37 696465.85 500369.80 696437.71 500382.18 696413.92 500371.57 696413.28 500321.79 696426.43 500313.78 696372.77</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.cf6c6e18-d30f-4e32-9472-eb8b96e85d65">
+      <ot:lokalnyId>6bd975be-f424-4e14-bd6a-dc71457911cb</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.70581e29-6922-40a2-ade7-793da1bc64f0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>491386.67 680557.20 491426.55 680532.34 491370.69 680446.95 491367.25 680449.18 491329.53 680392.59 491290.94 680416.43 491329.05 680474.02 491386.67 680557.20</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.51c6fc1c-6c0b-4c58-832d-c9f97c5eeddb">
+      <ot:lokalnyId>00f04459-0bcb-4ad9-b9c9-536d0e025ca5</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2d792a2e-5781-49de-8da7-c560800e68c5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500364.13 682858.36 500365.87 682861.51 500382.44 682891.47 500386.87 682889.20 500405.93 682879.57 500409.15 682877.95 500407.46 682873.99 500394.09 682844.29 500364.13 682858.36</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.8adc4923-4b82-483d-a4f1-a22f96007cca">
+      <ot:lokalnyId>c99f45cf-9c1b-11ea-b833-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9e4ebd23-fe40-43ad-8801-b435b7aad6e0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501230.86 688106.15 501220.38 688101.33 501197.43 688090.49 501175.80 688138.87 501209.05 688153.77 501230.86 688106.15</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.cb3ae1f1-a20f-4735-9a5b-20c668be4a2d">
+      <ot:lokalnyId>001617c0-4796-4986-866d-56c84164ab8f</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1129fe61-0998-449e-bc22-0fffd144d370" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500027.49 682648.19 500027.34 682660.95 500028.53 682666.25 500030.60 682669.82 500035.28 682676.57 500047.46 682695.18 500065.61 682721.38 500074.38 682732.71 500080.33 682729.97 500130.65 682746.77 500145.75 682699.88 500169.61 682690.06 500179.11 682711.33 500191.08 682739.86 500195.31 682749.06 500198.54 682758.08 500202.77 682771.27 500209.98 682790.52 500215.09 682796.39 500221.47 682798.69 500232.59 682794.83 500251.05 682788.34 500263.07 682784.11 500271.67 682800.83 500285.89 682795.23 500304.33 682788.01 500318.80 682824.27 500321.32 682830.10 500338.71 682820.74 500375.24 682802.41 500393.22 682793.52 500448.77 682764.73 500462.32 682758.07 500476.21 682751.25 500478.21 682750.26 500491.87 682743.61 500490.07 682739.34 500485.38 682728.19 500481.07 682718.05 500431.77 682737.30 500421.77 682703.21 500434.38 682664.36 500443.42 682668.10 500461.30 682675.62 500472.58 682691.62 500508.09 682673.24 500489.46 682612.78 500487.55 682607.22 500481.81 682591.21 500476.65 682575.60 500471.68 682567.67 500479.11 682564.65 500427.28 682422.35 500024.23 682644.92 500027.49 682648.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.97a62841-2bf2-476d-bd25-5305cc7bf158">
+      <ot:lokalnyId>ea57d360-847a-46c6-9ee8-ca02c2210cf1</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ff2e116c-3f35-429b-8e30-292af6943222" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497569.12 694208.49 497586.03 694230.42 497598.36 694220.56 497580.93 694198.89 497569.12 694208.49</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.18aad386-cf83-4f13-bccb-a7fcc5f5083f">
+      <ot:lokalnyId>f72dd8e3-cc25-436d-b8f7-b8fe4ab18469</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c0e0f8d0-3140-4687-9f34-67ae6a9d1772" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500812.93 689010.93 500848.02 689027.17 500864.48 689034.19 500886.30 688980.06 500898.45 688950.85 500874.79 688940.66 500871.72 688948.54 500840.51 688937.99 500835.43 688936.27 500834.23 688939.59 500832.39 688947.35 500795.92 688930.20 500768.00 688991.71 500778.08 688996.48 500794.57 689003.72 500812.93 689010.93</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.ce7d3f40-0d79-4c67-85c4-771be15d9fdd">
+      <ot:lokalnyId>e108c6ea-5899-48f9-9d67-0e113c1b3023</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.92f3136c-2cbc-440b-9fc4-f0c79e79dc8e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498114.63 699341.50 498154.41 699297.75 498145.53 699289.71 498119.04 699265.72 498079.40 699310.20 498097.01 699325.85 498114.63 699341.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.342c6fc0-16c9-4623-9fa2-def33d1cd736">
+      <ot:lokalnyId>527871a5-b91e-460e-9b75-1068d3b701ab</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1034750e-a4ff-4970-bb7d-3905da4a6f29" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497229.10 694027.40 497226.88 694010.54 497225.38 693999.19 497225.15 693997.48 497192.56 694002.61 497195.23 694023.02 497187.58 694024.19 497189.03 694033.81 497229.10 694027.40</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.b40dcc43-e21f-4dfd-a671-736ad7400b5c">
+      <ot:lokalnyId>3f0251ef-b541-4e85-b461-9f0a77cc8939</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>w budowie</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5e12cebc-23a7-4d46-8cb0-50a11c1bb8a4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505079.03 685597.85 505079.53 685611.85 505101.44 685610.37 505107.66 685723.21 505039.38 685728.16 505044.64 685807.19 505156.02 685809.06 505161.92 685809.21 505162.08 685791.53 505126.03 685793.10 505125.73 685780.66 505155.05 685779.18 505144.68 685584.30 505211.03 685580.16 505219.02 685742.16 505178.15 685745.12 505179.79 685781.22 505208.24 685779.73 505208.24 685782.42 505278.03 685783.40 505313.65 685781.94 505294.92 685599.31 505270.93 685598.43 505247.52 685591.56 505197.98 685571.22 505136.51 685516.11 505110.96 685509.22 505108.52 685502.57 505104.40 685502.41 505104.40 685528.03 505066.20 685529.51 505064.92 685501.77 505024.42 685502.81 504848.27 685509.56 504836.11 685513.37 504837.68 685534.46 504838.81 685557.57 504882.60 685555.12 504886.66 685632.17 504916.40 685630.55 504913.69 685542.41 504990.47 685538.90 504991.55 685595.94 504954.52 685597.57 504956.68 685658.47 504977.30 685657.22 504975.98 685632.82 504975.79 685608.89 505018.82 685605.93 505023.74 685602.26 505030.87 685601.55 505036.63 685601.16 505079.03 685597.85</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.476443fc-4c62-4940-a48b-4327e8500451">
+      <ot:lokalnyId>c4f6e5c0-7517-4173-aa1c-1e235bbba3f3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bbd0f2eb-5fa3-4968-b0e4-76f2ca907c66" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502231.61 687308.67 502245.96 687302.05 502250.63 687299.87 502252.84 687298.03 502254.06 687295.81 502255.60 687293.44 502256.55 687291.14 502257.28 687288.62 502257.49 687286.46 502257.49 687280.54 502256.79 687268.30 502221.59 687286.03 502231.61 687308.67</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.9064e490-1a04-445c-aee2-a3fd609ecb7a">
+      <ot:lokalnyId>40f18461-a035-410e-aef0-fefef2174a2c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6b6bf2dd-83ba-4344-9906-f15c60cbf847" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502194.66 687197.47 502219.22 687245.04 502239.41 687235.84 502227.57 687220.67 502225.39 687217.24 502224.14 687213.50 502222.89 687207.57 502221.16 687190.33 502219.58 687185.03 502215.36 687187.49 502194.66 687197.47</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.7eeb857f-1e4f-494e-95d9-bbfc7225f04b">
+      <ot:lokalnyId>48cb6e3c-5d42-4b9d-85c5-305d482e5bcb</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d5ea3315-b7c5-43f4-b65c-e2d57e62b595" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504012.97 686590.55 504026.72 686586.29 504018.74 686555.77 504003.24 686560.51 504012.97 686590.55</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.bfc34e48-b586-465f-82b7-fa1d7642350d">
+      <ot:lokalnyId>f6802781-1561-4db4-a70d-79b406db9e2c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3cad89c0-fe0b-4253-9315-5668f161f5b6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499367.87 696446.09 499386.05 696428.31 499412.63 696403.11 499409.68 696400.37 499386.48 696375.08 499385.09 696373.80 499349.09 696340.55 499307.82 696387.90 499312.84 696391.78 499319.10 696397.37 499327.22 696404.64 499332.16 696414.33 499361.11 696439.69 499363.30 696441.35 499367.87 696446.09</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.4ab156f9-6701-4f3d-9d28-5cfd321ac1aa">
+      <ot:lokalnyId>28BEDAB7-056C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5c3d1671-27d8-4531-ae46-692b5ee01e69" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494603.66 683186.88 494593.83 683162.58 494599.89 683160.30 494583.95 683123.19 494578.84 683125.07 494558.42 683131.54 494574.44 683169.31 494580.15 683167.33 494589.23 683190.02 494589.53 683190.85 494603.66 683186.88</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.4ba12ac8-01b8-4a8e-81cd-47714a490ea7">
+      <ot:lokalnyId>28BEDAB7-0557-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5aad873b-fe7f-4239-9740-98a431e1f035" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498679.44 689613.55 498686.60 689599.07 498673.42 689594.31 498673.42 689593.04 498655.12 689587.02 498653.46 689591.44 498646.60 689589.59 498642.11 689600.81 498652.01 689604.17 498679.24 689613.48 498679.44 689613.55</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.10ccedb0-2a42-4cb6-8fdd-58277817fdd1">
+      <ot:lokalnyId>c99ef7b0-9c1b-11ea-8260-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ce9a23f5-dfa3-49be-8a96-0944d84348c4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504562.50 694791.39 504558.43 694801.34 504540.01 694846.30 504570.75 694858.66 504595.26 694868.52 504613.77 694823.10 504617.43 694814.11 504592.74 694803.83 504562.50 694791.39</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.5cb56124-1ce4-475f-a4f8-0d8ecca79083">
+      <ot:lokalnyId>7813d461-bd45-11ea-b93d-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>budowa zaplecza magazynowego wraz z częścią socjalną dla firy wiatrowej</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.26f766fc-6239-4910-bda4-0c015915f0b5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499142.62 697088.22 499097.83 697139.22 499086.02 697152.31 499174.00 697239.05 499243.69 697161.58 499242.42 697153.32 499179.98 697093.40 499171.62 697085.38 499142.62 697088.22</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.e65412b7-397a-443c-adda-8d5453056d50">
+      <ot:lokalnyId>28BEDAB7-056F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5b0223d8-f9aa-4548-b3aa-99fdcb51dfa5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504915.04 691565.51 504876.14 691532.26 504863.43 691545.92 504834.84 691566.31 504827.36 691573.14 504829.22 691578.44 504834.48 691586.36 504836.49 691584.79 504846.94 691578.18 504851.19 691575.63 504851.45 691575.47 504849.49 691572.95 504879.34 691554.30 504896.15 691572.36 504895.82 691575.58 504885.47 691582.73 504862.68 691586.65 504863.28 691591.31 504865.46 691608.08 504889.79 691601.99 504900.65 691599.28 504915.04 691565.51</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.f468f13f-4c99-41a4-8b5b-fee9e71db88b">
+      <ot:lokalnyId>28BEDAB7-0576-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bb4155a0-a730-4419-b92b-41dde0738c53" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505174.75 685939.36 505211.92 685913.85 505204.87 685902.72 505190.22 685883.72 505194.83 685880.47 505191.03 685874.23 505186.55 685865.92 505133.85 685899.10 505141.11 685908.42 505154.95 685927.42 505163.34 685922.46 505167.97 685929.32 505174.75 685939.36</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.066681cc-608a-49bd-8cec-ed88df7b8953">
+      <ot:lokalnyId>28BEDAB7-0577-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0ff3d87c-239d-4379-b3ba-aff850ec308f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499938.68 696690.99 499971.08 696715.70 499999.29 696737.29 500001.96 696739.53 500038.87 696693.63 500077.66 696645.28 500086.23 696634.60 500051.34 696614.07 500016.40 696587.98 500013.83 696591.24 499999.99 696608.87 499988.43 696623.60 499984.91 696628.08 499985.12 696628.23 499984.56 696628.94 499984.35 696628.79 499982.86 696630.70 499985.69 696632.66 499938.68 696690.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.b04cee3f-beb7-4271-93af-1ef7aa9a54f0">
+      <ot:lokalnyId>28BEDAB7-0579-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.eedd82f5-fa19-4255-b899-8fa5b38db8ab" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507883.47 688699.84 507861.39 688682.91 507854.75 688688.17 507864.38 688702.72 507878.04 688716.21 507891.25 688706.33 507883.47 688699.84</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.73879f4e-7a97-4c84-bb4f-08e110404771">
+      <ot:lokalnyId>28BEDAB7-057A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.86175cd7-cc3c-49ef-ad21-c5d0d75232ca" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495683.28 685647.11 495695.34 685636.05 495706.74 685626.06 495698.90 685616.98 495677.96 685592.74 495668.98 685582.35 495662.88 685586.77 495653.60 685598.70 495652.26 685599.95 495630.87 685584.59 495623.09 685591.66 495642.93 685608.53 495629.72 685620.70 495626.29 685616.55 495624.05 685613.84 495614.05 685602.10 495609.92 685596.83 495596.86 685580.62 495593.64 685576.62 495565.78 685597.59 495572.49 685599.25 495583.75 685602.03 495588.28 685603.26 495613.11 685617.76 495632.45 685636.10 495641.55 685645.08 495652.56 685645.98 495666.11 685645.61 495683.28 685647.11</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.dd5fb1f3-bbb4-426e-85cc-c5d8c88cd83b">
+      <ot:lokalnyId>28BEDAB7-057B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.36d41624-6581-45e2-834e-142891799324" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513516.85 687846.77 513527.78 687807.23 513534.58 687780.39 513497.62 687768.40 513472.23 687760.31 513462.52 687757.71 513432.27 687870.10 513454.22 687877.38 513484.11 687887.43 513502.17 687893.50 513516.85 687846.77</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.09245e7c-5dca-4569-8aee-52772a292244">
+      <ot:lokalnyId>28BEDAB7-057F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6bf7d6b8-ec6b-48f9-b680-515326ef17a6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507504.46 694999.63 507557.01 694995.33 507562.10 694939.46 507506.15 694940.70 507504.46 694999.63</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.a92fa61c-3c56-410a-bd3e-9e78134ae91a">
+      <ot:lokalnyId>28BEDAB7-0580-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.85f04aa5-bc56-4c06-90a1-5c8abe940a98" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501097.44 686641.07 501159.11 686676.06 501190.20 686664.57 501210.34 686621.74 501185.31 686607.29 501181.92 686613.98 501165.56 686605.13 501168.77 686598.35 501141.13 686583.66 501107.90 686603.12 501106.25 686623.24 501097.44 686641.07</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.1bbca412-24ea-47b3-9d8c-97f076583299">
+      <ot:lokalnyId>28BEDAB7-0584-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6924708c-dcc3-4bf9-951b-e6ea959bd6ad" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502173.08 687163.58 502166.77 687166.80 502158.45 687170.23 502143.99 687177.46 502141.83 687181.08 502157.37 687213.61 502176.93 687204.29 502179.24 687199.69 502179.06 687195.54 502176.53 687190.65 502184.39 687186.86 502207.04 687175.36 502192.25 687143.85 502168.70 687154.56 502173.08 687163.58</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.a6955cea-9cdb-4e6f-b7d9-b5e966b851f6">
+      <ot:lokalnyId>28BEDAB7-0585-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1396d538-8474-47b5-9a88-df44000a5fd4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501664.47 686944.00 501659.41 686934.47 501649.84 686942.54 501636.50 686951.81 501624.45 686961.11 501598.03 686981.95 501601.96 686988.07 501610.28 686989.49 501619.36 686990.03 501619.47 686989.89 501626.81 686982.12 501638.16 686971.83 501654.57 686961.10 501664.63 686958.98 501666.95 686949.71 501667.19 686948.14 501664.47 686944.00</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.ba7eed78-5f5c-4bcd-946c-ab2038c7f5c1">
+      <ot:lokalnyId>28BEDAB7-057C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1c2c4c0e-b0a4-49b7-8597-353d72d43587" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>493408.19 699705.04 493361.97 699691.82 493345.49 699744.78 493390.44 699762.30 493397.06 699745.22 493403.27 699727.59 493408.19 699705.04</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.4149d787-4bf5-47cf-929d-a5cf45dcf935">
+      <ot:lokalnyId>28BEDAB7-057D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.16dda7c3-938f-4cf6-a721-bad233b9e500" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503428.22 697291.05 503487.30 697355.76 503541.26 697412.37 503577.69 697378.55 503463.94 697258.42 503429.46 697289.91 503428.22 697291.05</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.5e2d03b3-5da9-45d1-a8f4-c79532319c68">
+      <ot:lokalnyId>28BEDAB7-0570-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.02c6ab2a-18f0-403d-91db-2e027973fe39" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494414.82 693856.86 494418.93 693838.16 494436.03 693841.40 494439.64 693824.45 494390.06 693815.43 494389.77 693816.83 494376.64 693875.96 494408.17 693887.92 494409.61 693880.57 494414.82 693856.86</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.ba3d12f4-45e0-49d9-b2e9-65cffeb4e554">
+      <ot:lokalnyId>c99f6ce1-9c1b-11ea-8448-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7dd954ee-b56a-40ee-87c0-59879be35ea9" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504577.96 691487.99 504538.33 691486.87 504521.30 691519.80 504554.51 691535.99 504577.96 691487.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.d1b44816-64bf-4887-9abf-7bf6c4ae21cb">
+      <ot:lokalnyId>28BEDAB7-0571-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.65774881-d489-46cf-a544-85dc71e916c8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494463.90 683274.84 494472.72 683303.38 494473.91 683309.05 494489.42 683305.72 494507.09 683301.93 494515.17 683300.20 494512.75 683291.55 494486.84 683291.92 494483.88 683269.33 494510.72 683267.47 494519.82 683264.29 494516.39 683254.71 494481.84 683262.84 494478.00 683245.70 494457.65 683254.75 494463.90 683274.84</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.06e6f387-6d6e-429e-a502-0edab5b54b2c">
+      <ot:lokalnyId>28BEDAB7-0572-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.995e5cfc-1c7d-47d0-b018-eb2bceb3a6e4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502499.82 685607.09 502522.90 685607.34 502520.25 685594.51 502525.61 685592.97 502587.88 685576.41 502585.88 685560.29 502585.74 685557.86 502583.56 685538.78 502578.87 685539.36 502549.10 685542.11 502549.41 685547.13 502544.44 685547.49 502549.69 685572.17 502532.61 685578.05 502505.01 685583.56 502499.82 685607.09</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.59b879bd-2723-43ea-84a9-783ddb6cf0c4">
+      <ot:lokalnyId>28BEDAB7-0587-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0a8aa040-5ba3-446e-acc6-7145df0ded79" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503956.15 686706.08 503991.75 686829.07 504027.35 686818.95 503993.25 686706.83 503980.75 686699.52 503956.15 686706.08</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.0d85d40b-4075-48b2-969b-6b0f15629089">
+      <ot:lokalnyId>28BEDAB7-0588-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ea2d9f08-6065-40a4-a055-dae0319476fb" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504119.58 686852.14 504090.09 686888.15 504125.53 686916.82 504155.06 686882.85 504119.58 686852.14</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.a85ea551-4219-48e2-800c-e059ee8e4d86">
+      <ot:lokalnyId>28BEDAB7-0589-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9afb2e08-255d-4ee0-b4c5-bbaa909f155b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500627.19 686512.48 500617.18 686525.10 500611.26 686531.38 500607.77 686535.08 500605.88 686537.09 500567.01 686576.59 500571.47 686578.31 500581.91 686582.34 500589.81 686565.49 500655.32 686587.58 500654.98 686593.92 500720.16 686645.95 500752.79 686612.35 500714.36 686572.96 500702.55 686567.71 500680.89 686588.58 500670.32 686577.64 500658.34 686572.61 500649.55 686563.28 500682.44 686531.17 500685.92 686527.32 500683.43 686525.18 500678.26 686528.53 500670.31 686527.29 500659.49 686526.15 500648.60 686535.65 500629.20 686514.64 500627.19 686512.48</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.18a411ca-5799-4934-affa-e592058d1b74">
+      <ot:lokalnyId>28BEDAB7-058B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.84aea16f-919a-4c57-bd30-20d4f2bafdc2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500847.51 683769.54 500864.34 683824.02 500895.54 683813.92 500891.26 683798.00 500878.41 683802.29 500866.17 683763.41 500847.51 683769.54</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.b17cf794-5e9c-4810-a849-511768aab3a2">
+      <ot:lokalnyId>28BEDAB7-058D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4c6b57c8-6c7a-4a04-8d4f-6cf162f25c96" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504071.90 686923.43 504078.42 686931.71 504088.21 686940.62 504093.10 686941.37 504098.00 686939.62 504111.30 686926.69 504112.43 686923.30 504111.43 686919.04 504093.86 686902.97 504089.59 686902.60 504086.45 686904.73 504085.90 686905.30 504072.27 686919.16 504071.90 686923.43</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.9f6ea366-ec1d-4d5e-a7d8-397acc8cc3bf">
+      <ot:lokalnyId>28BEDAB7-058F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a50233f4-4176-4b6d-a445-bbe6c60d9ce0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504806.25 685765.08 504808.83 685797.05 504853.83 685797.66 504853.45 685762.06 504838.15 685763.23 504806.25 685765.08</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.f5507d06-96c4-4813-960e-d458ea6dfb40">
+      <ot:lokalnyId>28BEDAB7-0581-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.390344c6-9c29-4b83-95c0-34412985406d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499276.82 682401.16 499265.99 682411.57 499261.81 682408.58 499259.48 682412.10 499254.76 682419.25 499263.31 682424.19 499270.46 682416.89 499274.43 682421.37 499281.94 682428.62 499292.45 682417.81 499297.62 682422.60 499303.59 682428.14 499305.66 682425.79 499308.63 682422.16 499308.72 682419.94 499307.95 682416.69 499307.08 682412.11 499306.75 682410.37 499308.41 682401.70 499304.38 682397.54 499300.59 682393.63 499295.89 682388.49 499288.98 682389.69 499278.90 682385.33 499273.17 682382.34 499269.84 682383.54 499267.62 682384.40 499266.44 682388.35 499267.68 682391.38 499276.82 682401.16</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.d16285fd-a82d-4daf-bb54-641a7e00cd9c">
+      <ot:lokalnyId>28BEDAB7-055A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.72af131e-9d4d-40a2-91bc-06bd556d2c44" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500499.03 697166.77 500450.80 697219.04 500437.82 697231.24 500383.80 697294.00 500289.68 697397.05 500334.13 697439.27 500343.71 697446.29 500364.56 697466.78 500491.51 697326.69 500473.52 697308.39 500480.97 697299.38 500488.75 697291.56 500468.46 697259.98 500467.86 697255.51 500467.34 697251.97 500479.81 697240.95 500515.37 697211.50 500523.54 697204.67 500530.47 697198.35 500528.48 697196.35 500499.03 697166.77</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.10b4e4c7-8bb0-4bcc-bf08-a288ab787f16">
+      <ot:lokalnyId>28BEDAB7-0551-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.343ff108-e0ed-4a32-8185-074d45e1ad3a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490928.83 688339.81 490929.45 688360.31 490948.01 688358.55 490944.40 688325.05 490942.82 688310.73 490904.94 688315.29 490903.33 688290.24 490940.30 688287.76 490939.20 688277.78 490902.73 688280.97 490864.20 688285.14 490874.83 688327.55 490903.53 688326.05 490917.45 688325.71 490918.06 688340.37 490928.83 688339.81</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.b8ec124d-0226-4fa4-8ea0-7a63cd1393de">
+      <ot:lokalnyId>28BEDAB7-054F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d17693c3-abeb-4148-862a-436400fd857a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>489085.34 692871.19 489101.07 692896.43 489106.52 692905.17 489143.88 692882.95 489150.98 692878.69 489151.81 692874.58 489161.19 692827.84 489129.14 692841.16 489126.58 692835.69 489118.16 692817.69 489089.69 692834.27 489096.23 692851.35 489104.34 692847.53 489105.41 692847.48 489105.44 692847.99 489107.74 692847.87 489107.68 692846.78 489108.84 692846.72 489108.90 692847.77 489111.24 692847.66 489111.19 692846.51 489111.90 692846.48 489111.85 692845.31 489113.11 692845.26 489113.14 692846.16 489122.77 692845.78 489122.72 692844.64 489123.90 692844.59 489123.95 692845.84 489126.74 692845.73 489128.03 692844.41 489129.19 692845.49 489128.06 692846.47 489128.40 692854.33 489129.53 692855.12 489128.47 692856.35 489127.65 692855.77 489126.83 692855.82 489127.05 692859.32 489121.95 692859.64 489121.88 692858.53 489119.81 692858.67 489119.66 692856.28 489118.64 692856.34 489118.71 692857.34 489117.06 692857.45 489117.00 692856.56 489113.33 692856.79 489113.38 692857.65 489111.83 692857.75 489111.75 692856.38 489111.31 692856.40 489111.27 692855.64 489108.72 692855.78 489108.75 692856.21 489107.46 692856.27 489107.43 692855.62 489105.86 692855.69 489105.89 692856.38 489104.65 692856.43 489087.46 692861.83 489081.00 692864.22 489085.34 692871.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.ed8dd62e-e2fa-4937-b2b0-0b43cd042318">
+      <ot:lokalnyId>28BEDAB7-0573-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c521bf69-50b5-4b1f-9b4a-53a6b034dbd5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504163.53 686692.04 504169.88 686709.71 504179.80 686734.95 504253.41 686711.81 504245.60 686687.16 504239.48 686667.71 504201.44 686679.77 504181.14 686686.62 504163.53 686692.04</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.edf6aee1-13d7-4ae6-b308-da54283fe7c3">
+      <ot:lokalnyId>28BEDAB7-055C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.525f6898-abad-4ef5-bd7f-c1c79e51fccc" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500750.61 686933.19 500748.44 686932.60 500728.00 686991.26 500723.51 687003.96 500702.62 687056.33 500683.77 687103.56 500759.79 687132.33 500774.20 687098.65 500794.16 687043.76 500797.80 687035.11 500809.39 686999.16 500807.50 686997.49 500804.42 686996.53 500785.82 686990.72 500784.76 686990.69 500779.58 686988.52 500777.88 686988.22 500771.68 686985.95 500785.38 686949.96 500786.47 686947.10 500769.44 686940.13 500762.43 686937.26 500750.61 686933.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.a0ad6d1d-4063-4054-8e53-e29b1bacb087">
+      <ot:lokalnyId>c2d32253-caef-45eb-b6a9-7cbfcb1ba9ce</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>w budowie</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d353e8f5-cfb3-44aa-ab95-caa0d153e544" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505402.38 685771.16 505341.77 685770.32 505340.46 685812.51 505396.71 685814.19 505399.90 685811.38 505402.65 685778.62 505402.38 685771.16</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.5f2cad31-21cd-4988-bd86-eb46b74bf824">
+      <ot:lokalnyId>3a434659-6ba4-4b5d-8a09-2f78ef2d0d9d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9c5e8d09-ebbf-410b-8aae-aa8ef9aaeda3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500778.59 696452.93 500783.42 696470.06 500791.41 696494.24 500800.95 696525.25 500845.09 696511.15 500825.05 696439.39 500813.39 696401.80 500811.54 696387.92 500798.74 696389.94 500805.23 696413.52 500771.19 696422.52 500778.59 696452.93</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.5b9f0b60-ab62-45be-99ba-ba972e8b8601">
+      <ot:lokalnyId>28BEDAB7-0558-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7d81dfd1-2c39-4aa0-a7b0-761ea13e2fa2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500093.92 696024.63 500116.50 696013.50 500070.27 695916.20 500000.00 695949.43 499912.37 695991.30 499930.54 696026.89 499990.60 696000.13 499996.91 696013.01 500000.01 696011.39 500025.55 696060.27 500035.82 696054.82 500068.41 696037.52 500093.92 696024.63</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.26f1b388-eec3-4105-b325-43a91c786d99">
+      <ot:lokalnyId>28BEDAB7-0559-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.34b86005-c380-4482-a778-f17e8c3d4a29" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500362.65 686502.26 500336.57 686465.57 500323.83 686446.37 500326.55 686444.78 500306.66 686414.90 500284.71 686429.71 500272.14 686438.42 500266.74 686442.50 500266.13 686442.97 500248.94 686455.88 500266.97 686481.53 500282.31 686471.38 500302.89 686501.26 500317.61 686489.98 500338.05 686519.09 500362.65 686502.26</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.283cc2fe-9d5c-4607-98f8-ba21ae9f8ca6">
+      <ot:lokalnyId>28BEDAB7-056A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>plac budowy</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.df45f9e6-d760-42cf-888f-14cae3de0cb3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504696.77 685598.96 504733.15 685653.76 504738.79 685661.48 504751.52 685660.81 504781.66 685659.33 504843.66 685656.40 504843.28 685648.77 504842.83 685639.58 504838.81 685557.57 504837.68 685534.46 504763.30 685539.35 504762.83 685574.01 504730.49 685574.93 504696.77 685598.96</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.6ca84fc3-6ed1-4edb-86cf-69225390cbd8">
+      <ot:lokalnyId>28BEDAB7-056B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>skład opału</ot:informacjaDodatkowa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.91b6597b-8254-4024-b02a-b7cecca4617e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505377.93 682531.74 505390.30 682549.19 505378.63 682558.19 505414.07 682592.03 505422.22 682586.04 505449.36 682564.75 505415.03 682513.76 505410.67 682507.70 505387.85 682524.64 505380.63 682529.88 505377.93 682531.74</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.a7faedc3-1b32-4140-8315-a37e91eee522">
+      <ot:lokalnyId>28BEDAB7-0550-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bfbb1037-190c-4859-8fb0-8106015bf913" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490333.09 682759.15 490318.46 682716.97 490285.02 682738.09 490292.56 682750.18 490310.28 682753.97 490319.06 682775.84 490320.47 682778.98 490339.27 682776.98 490333.09 682759.15</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.df447915-9462-47f0-848f-3869ea79e23b">
+      <ot:lokalnyId>28BEDAB7-0552-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f4fe2d49-a72c-4ce0-8bde-f69471a81156" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494122.08 687678.71 494117.21 687655.85 494113.54 687656.96 494112.44 687651.37 494104.28 687653.26 494067.95 687661.20 494072.05 687677.40 494102.18 687670.31 494105.36 687682.94 494122.08 687678.71</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.9d4df232-9c71-415c-843e-dfa62abfba3d">
+      <ot:lokalnyId>28BEDAB7-0553-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5f323446-38b3-4575-a229-afa253158fd8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494338.70 694553.59 494326.00 694549.04 494323.24 694564.99 494319.81 694586.15 494330.99 694587.58 494394.44 694596.65 494400.73 694597.69 494404.74 694575.83 494405.51 694568.07 494400.44 694567.04 494344.27 694555.58 494338.70 694553.59</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.61d74bb2-929f-4d1f-a3b6-11b9f5349c2e">
+      <ot:lokalnyId>28BEDAB7-0554-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8df8e832-4c36-4c1c-bdd0-e2766a1da7b7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495957.99 689368.25 495937.88 689337.76 495912.22 689352.29 495941.54 689399.34 495947.88 689409.52 495963.02 689400.03 495955.80 689390.32 495948.61 689378.95 495960.30 689371.76 495957.99 689368.25</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.587d7467-027e-4d97-bc4a-6ed9d15490bb">
+      <ot:lokalnyId>28BEDAB7-0555-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6ea32aa8-5592-4faa-bec8-8b215345554e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497401.05 690193.96 497401.61 690197.98 497407.81 690205.32 497413.50 690210.21 497427.55 690221.74 497463.39 690161.58 497450.64 690153.43 497447.86 690150.32 497446.47 690147.26 497445.91 690143.63 497446.25 690140.05 497447.59 690136.25 497455.56 690122.65 497456.47 690119.70 497455.79 690114.28 497409.69 690195.31 497401.68 690190.34 497401.05 690193.96</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.0c7c2686-eb49-4f95-a73f-7752f92ed878">
+      <ot:lokalnyId>28BEDAB7-0556-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7ef99b76-f731-4507-b9a4-ad5a3a5bee16" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497922.49 685276.14 497915.33 685262.03 497843.23 685301.74 497849.02 685314.24 497855.60 685326.84 497862.70 685341.51 497870.00 685354.94 497943.85 685315.54 497936.55 685302.11 497929.85 685288.33 497922.49 685276.14</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.71f8ca9b-d8d5-4de5-a902-b70f151a8e2a">
+      <ot:lokalnyId>28BEDAB7-058C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e2e6f858-5bc6-4877-882a-f6f3950b18a4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501156.26 686499.79 501136.93 686494.23 501052.63 686468.89 501047.49 686467.34 501036.71 686464.03 501034.07 686473.03 501023.91 686471.00 501021.88 686475.40 501009.44 686471.31 500995.88 686508.87 501029.16 686519.37 501025.50 686529.80 501005.53 686588.61 501003.81 686593.04 501035.15 686587.51 501058.66 686575.73 501085.17 686562.85 501071.06 686537.37 501107.94 686517.65 501115.47 686531.65 501127.70 686524.57 501142.36 686516.72 501148.82 686511.41 501153.55 686507.72 501156.26 686499.79</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.2a11f267-5c1b-4e29-bb9a-f47cbc41d26c">
+      <ot:lokalnyId>28BEDAB7-0567-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.013593f1-3843-49fb-a645-9b52368ed2eb" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513298.43 686771.39 513274.08 686769.14 513249.25 686766.96 513252.07 686775.28 513254.24 686781.71 513256.65 686788.84 513258.85 686795.34 513261.07 686797.75 513264.41 686799.61 513267.19 686799.61 513269.23 686799.05 513278.12 686790.51 513285.51 686783.55 513292.30 686777.17 513298.43 686771.39</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.9bfc0690-3e3e-4f8f-bb45-782dcc888e90">
+      <ot:lokalnyId>28BEDAB7-055D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.acd70d76-feb3-4774-ab11-4e466b4d0892" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500919.53 684124.90 500948.19 684109.32 500955.03 684105.41 500939.20 684075.34 500911.95 684026.22 500875.82 684045.44 500919.53 684124.90</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.4afb5a43-ecfe-49a2-9477-6e9fbefd9ddf">
+      <ot:lokalnyId>28BEDAB7-055E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.13293899-b750-439f-827d-02d7dac29f66" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500884.47 698705.17 500950.93 698766.83 500961.54 698756.05 500971.07 698744.48 500981.41 698733.64 500914.95 698671.98 500904.61 698682.82 500895.08 698694.39 500884.47 698705.17</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.5e99079f-267c-4cf3-b2be-3d3360aa538f">
+      <ot:lokalnyId>28BEDAB7-055F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9f8787d8-3558-4489-8547-f9e8845c5be8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502096.12 687218.43 502130.14 687281.75 502171.42 687261.41 502156.45 687232.16 502148.86 687217.32 502148.03 687215.70 502138.25 687197.14 502096.12 687218.43</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.64a9651e-f577-44a8-a7ce-182912a7dd07">
+      <ot:lokalnyId>28BEDAB7-0560-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9535010f-475e-4c0a-90d9-85b90093c04a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502136.66 687285.97 502161.65 687335.38 502184.17 687323.98 502159.19 687274.58 502136.66 687285.97</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.37b6c28b-1993-4520-9c40-3ed768d489c7">
+      <ot:lokalnyId>28BEDAB7-0561-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.650bc003-faed-408b-8ccd-8fa9d4f31276" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503643.19 685179.77 503580.31 685200.23 503572.02 685202.86 503572.13 685203.80 503573.22 685210.10 503574.43 685215.89 503576.91 685224.80 503581.82 685242.46 503592.92 685238.09 503655.28 685217.33 503643.19 685179.77</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.2ded47ee-80fb-44a6-bfde-c7b55f314d3d">
+      <ot:lokalnyId>28BEDAB7-0562-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e6c56f1e-688a-46d4-aea4-b977d8bca815" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503851.83 686456.82 503862.15 686489.06 503876.87 686503.92 503991.70 686470.68 503983.63 686443.66 503905.65 686464.88 503892.12 686463.91 503885.99 686443.27 503859.57 686450.37 503851.83 686456.82</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.28f468f4-0011-40d0-af5f-e21e4f9755a4">
+      <ot:lokalnyId>28BEDAB7-0563-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5a6148d3-9575-4673-a5af-217eccec8b20" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505332.04 695392.23 505379.21 695405.76 505384.78 695393.95 505392.54 695369.85 505386.50 695350.30 505379.61 695342.25 505372.36 695337.37 505355.99 695326.33 505351.45 695323.27 505334.22 695368.04 505332.04 695392.23</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.7a6775ff-d28e-48f2-b8d5-38862383b4e4">
+      <ot:lokalnyId>28BEDAB7-0564-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3b1a19b8-c577-4014-8955-3c514f6ba6b9" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507956.04 689001.50 507989.34 688974.60 507968.30 688934.44 507936.62 688963.87 507956.04 689001.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.9f53d380-4078-4508-8a0e-ea4665668271">
+      <ot:lokalnyId>28BEDAB7-0565-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.81d21c2f-b790-4c85-a38d-dad107b81368" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>509027.00 686643.26 509001.02 686646.40 508963.02 686650.31 508966.48 686678.06 509013.94 686682.24 509027.09 686683.81 509027.00 686643.26</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.f55196d3-42a5-4a43-b98f-586396b82775">
+      <ot:lokalnyId>28BEDAB7-0566-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bcec003c-d737-47f2-b546-181a459380a2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>510454.26 696350.29 510477.20 696357.61 510484.55 696333.93 510523.27 696344.72 510526.67 696324.06 510468.52 696306.52 510454.26 696350.29</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.c539c499-1797-4d23-a45c-5a1a608800d8">
+      <ot:lokalnyId>28BEDAB7-0568-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0ba1835d-87cf-4a18-8095-12907fa424d5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502148.89 687406.91 502189.06 687486.09 502278.06 687440.56 502238.66 687363.57 502152.96 687404.91 502148.89 687406.91</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.58051588-bdcd-4318-9613-7d01d835af0e">
+      <ot:lokalnyId>28BEDAB7-0569-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f9733505-3767-4d7e-a1b5-48922f3aefc1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502507.84 685636.99 502523.40 685682.19 502525.54 685688.40 502551.54 685681.52 502580.22 685674.03 502586.46 685672.40 502611.39 685665.83 502622.14 685662.66 502628.77 685660.70 502635.36 685658.69 502641.28 685657.01 502649.57 685653.79 502663.43 685648.67 502668.24 685646.64 502665.82 685641.89 502661.35 685631.56 502658.33 685624.50 502654.13 685625.94 502636.48 685562.44 502587.88 685576.41 502525.61 685592.97 502520.25 685594.51 502522.90 685607.34 502528.00 685635.29 502507.84 685636.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren przemysłowo-składowy</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_PTNZ_A gml:id="OT_PTNZ_A.1a9dec66-7387-4e96-9df8-314a38593808">
+      <ot:lokalnyId>28BEDAB7-0575-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.af4284e7-7fd2-4fa3-a440-6a0ca7ba86a3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503266.78 685294.24 503254.70 685297.18 503199.19 685316.46 503148.58 685328.87 503128.01 685334.75 503113.64 685342.59 503055.86 685356.57 503020.32 685364.10 502959.38 685415.85 502971.87 685437.99 502952.56 685449.35 502899.78 685459.88 502891.22 685462.57 502895.55 685488.15 502897.20 685495.54 502845.77 685504.74 502761.53 685516.44 502758.85 685516.72 502759.36 685521.35 502735.05 685524.18 502723.14 685525.42 502725.78 685545.69 502769.10 685540.09 502814.01 685534.87 502843.11 685531.49 502907.81 685524.57 502980.79 685513.08 503014.71 685506.17 503010.26 685502.19 503004.42 685496.90 503008.10 685494.70 503064.89 685477.71 503101.70 685468.59 503109.51 685464.95 503113.22 685463.98 503120.63 685462.04 503152.26 685449.96 503157.38 685452.52 503160.86 685451.50 503162.90 685448.94 503157.79 685430.41 503168.83 685434.90 503174.13 685440.11 503185.01 685441.56 503194.15 685439.67 503241.65 685420.53 503265.48 685407.79 503285.40 685392.43 503292.58 685383.61 503294.87 685376.75 503294.87 685363.03 503292.19 685337.40 503293.23 685327.57 503289.96 685312.21 503284.74 685299.80 503277.55 685294.90 503266.78 685294.24</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren pod urządzeniami technicznymi lub budowlami</ot:rodzaj>
+    </ot:OT_PTNZ_A>
+  </gml:featureMember>
+</gml:FeatureCollection>
