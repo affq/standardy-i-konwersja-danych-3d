@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_BUHD_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_BUHD_A gml:id="OT_BUHD_A.e5eeac63-45e2-4ceb-bc29-8eeb74c0dacd">
+      <ot:lokalnyId>28BEDAB6-82B1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_617_1</ot:kodKarto10k>
+      <ot:rodzaj>śluza</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5b23681d-0286-4e3d-a6ee-ecfd22ac44ad" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505310.00 686053.99 505316.50 686052.26 505313.02 686046.89 505312.21 686041.37 505252.58 686062.89 505253.57 686068.92 505256.86 686072.98 505310.00 686053.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUHD_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUHD_A gml:id="OT_BUHD_A.38b7d0fc-9659-4dc4-b4aa-69d324d6c893">
+      <ot:lokalnyId>28BEDAB6-82B2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>Śluza Szonowo</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_617_1</ot:kodKarto10k>
+      <ot:rodzaj>śluza</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.14e15ea2-e88a-451c-bd9f-6b3f8ff648ac" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499207.54 682480.22 499205.94 682478.47 499162.22 682435.14 499158.22 682437.26 499155.52 682442.13 499156.95 682443.38 499200.08 682487.69 499202.65 682482.78 499207.54 682480.22</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUHD_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

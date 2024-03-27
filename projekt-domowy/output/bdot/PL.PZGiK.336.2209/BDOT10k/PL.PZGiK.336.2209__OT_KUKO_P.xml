@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_KUKO_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_KUKO_P gml:id="OT_KUKO_P.9a536694-d7b3-4be0-a0c6-1b576b65cf5d">
+      <ot:lokalnyId>9de31fa8-3f7d-4b2d-a73c-3e1ff2934649</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>port wodny lub przystań</ot:rodzaj>
+      <ot:typPortu>przystań żeglugi pasażerskiej</ot:typPortu>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c3cfb264-6a9b-4b2d-bbde-fc2866423c11" srsDimension="2">
+          <gml:pos>508233.29 688731.10</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_KUKO_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_P gml:id="OT_KUKO_P.5d13bbc8-12a8-48b0-bac4-a19c8bfd2819">
+      <ot:lokalnyId>28BEDAB6-95B0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja kolejowa</ot:rodzaj>
+      <ot:nazwa>Malbork</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.896fc6a3-1e12-47c7-8fd3-de529e01b553" srsDimension="2">
+          <gml:pos>502830.39 685680.98</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_KUKO_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_P gml:id="OT_KUKO_P.1fe7d787-193c-4c74-a108-bf5c5405140a">
+      <ot:lokalnyId>28BEDAB6-95B1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>stacja kolejowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c90eb9c8-58b4-4a41-a56e-03158e516368" srsDimension="2">
+          <gml:pos>495305.34 689804.87</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_KUKO_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUKO_P gml:id="OT_KUKO_P.307a925c-247c-4ccb-9c36-876526ded017">
+      <ot:lokalnyId>eeab229e-bf60-11ea-9bac-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>lotnisko lub lądowisko</ot:rodzaj>
+      <ot:typLotniska>inne lotnisko lub lądowisko</ot:typLotniska>
+      <ot:nazwa>Lotnisko Królewo Malborskie</ot:nazwa>
+      <ot:idIata>998</ot:idIata>
+      <ot:idIcao>998</ot:idIcao>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b975433c-a157-47cb-afcd-c6fb55790792" srsDimension="2">
+          <gml:pos>508907.89 684751.30</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_KUKO_P>
+  </gml:featureMember>
+</gml:FeatureCollection>

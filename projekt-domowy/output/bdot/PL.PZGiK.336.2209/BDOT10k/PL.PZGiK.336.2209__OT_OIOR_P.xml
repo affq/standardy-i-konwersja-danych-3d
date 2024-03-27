@@ -1,0 +1,2628 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_OIOR_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7587eaed-9c5d-4656-8269-27b9d9b56bff">
+      <ot:lokalnyId>28BEDAB6-B2EE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>2 m</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pamięci Polaków Wywiezionych</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b846abf8-fbcd-4372-bc7c-ca85a8db5e1b" srsDimension="2">
+          <gml:pos>498420.47 696364.67</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.923a3ed4-5b62-4c62-97a9-99e8a16b5ec3">
+      <ot:lokalnyId>28BEDAB6-B2BB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pomnik Kazimierza Jagielończyka</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a5256f2b-f603-4ee0-8578-f0f021f84643" srsDimension="2">
+          <gml:pos>502149.56 685837.73</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7d4738af-347d-4248-ac82-ea317af666fe">
+      <ot:lokalnyId>28BEDAB6-B2BC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>fontanna</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7324a79f-b130-45f5-a874-275e253aed9c" srsDimension="2">
+          <gml:pos>502127.93 685842.67</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.71124da2-cfc3-4e87-805b-231829e451bc">
+      <ot:lokalnyId>28BEDAB6-B2BD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, nr rej.: 722 z 1975-04-24</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b58a9ab6-9882-40fe-a3c3-7456acb5762f" srsDimension="2">
+          <gml:pos>509350.88 686975.21</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5a722d38-3649-46ed-b8a8-e4e5f629187f">
+      <ot:lokalnyId>28BEDAB6-B2BE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.bb317bef-433d-4173-bec1-a3c459223756" srsDimension="2">
+          <gml:pos>508232.48 695433.16</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e2c84c1b-b615-47e8-a21c-4d6fcb93cf26">
+      <ot:lokalnyId>28BEDAB6-B2C0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>fontanna</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c68367fc-a51f-42b3-908b-501cc429c06d" srsDimension="2">
+          <gml:pos>500546.62 696807.06</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.0b76e4fb-4856-4414-a1fc-fb8562edce04">
+      <ot:lokalnyId>28BEDAB6-B2C1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:rodzaj>fontanna</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b32b6079-3364-4e34-a7af-6e5bf497dce1" srsDimension="2">
+          <gml:pos>513119.84 687786.71</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.1e99749e-213d-46b8-a26f-91e0fa88a1d0">
+      <ot:lokalnyId>28BEDAB6-B2C2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.faca3966-047e-4d69-a809-34383a974386" srsDimension="2">
+          <gml:pos>501816.50 686123.83</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7e647bdf-c317-44d7-a0ed-75a686797484">
+      <ot:lokalnyId>28BEDAB6-B2C3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pomnik Żołnierzy AK</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.86b10c3a-2fa7-4669-87a8-27f2d58a6e36" srsDimension="2">
+          <gml:pos>502151.84 685999.19</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.04f9cf16-6cec-4b40-a8b2-5da674a72121">
+      <ot:lokalnyId>28BEDAB6-B2AB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.88bc129c-8d8f-42a1-ae5b-13f3195b7956" srsDimension="2">
+          <gml:pos>499266.75 686683.76</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.86dbf29d-540f-47f0-80f5-31f7da2733f4">
+      <ot:lokalnyId>28BEDAB6-B2AC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.fffc8986-e1d6-484f-8523-84fedfd3db76" srsDimension="2">
+          <gml:pos>495344.91 685280.76</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.409945d9-157f-4bc8-a176-c6804565a454">
+      <ot:lokalnyId>28BEDAB6-B2AD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8103b273-36f2-4bc6-ae57-aa1af4479150" srsDimension="2">
+          <gml:pos>497810.41 683102.84</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.ad08618b-d336-407d-b0ff-6ca92bec56ef">
+      <ot:lokalnyId>28BEDAB6-B2AE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.14f6faee-3036-4978-abff-c2e13c80903c" srsDimension="2">
+          <gml:pos>497872.13 683056.19</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.886e16bd-fd4a-4cc9-ad95-af06fdded17d">
+      <ot:lokalnyId>28BEDAB6-B2AF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9992e676-cac0-4fdf-ad41-040d980c55be" srsDimension="2">
+          <gml:pos>508000.56 688830.50</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b2fd8fa9-0ed9-41cd-b146-5ea1cf6ef027">
+      <ot:lokalnyId>28BEDAB6-B2B0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9068035b-a1fb-4daa-9f1c-aee9a35aa730" srsDimension="2">
+          <gml:pos>506502.50 688018.55</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.fb4c40bb-10f7-4171-98fe-6f31b3817794">
+      <ot:lokalnyId>28BEDAB6-B2B1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.943e5c7f-06c5-43a5-a1d5-d0011f19416e" srsDimension="2">
+          <gml:pos>500649.70 683433.20</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.60592c83-e964-42f9-82f0-b7a17d7cb297">
+      <ot:lokalnyId>28BEDAB6-B2B2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e388c530-50c5-4864-984d-caf654f97208" srsDimension="2">
+          <gml:pos>503124.90 683293.18</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.3c5fcdc4-8e9a-480f-862b-a5ef2afde535">
+      <ot:lokalnyId>28BEDAB6-B2B3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a7832055-b59a-4d92-be0f-fd9bf48c00e1" srsDimension="2">
+          <gml:pos>503159.61 683803.32</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.05f341c9-2608-4af2-95ac-c9382c6c1baf">
+      <ot:lokalnyId>28BEDAB6-B2B4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.95ba7bd5-44d9-49a4-845c-5a862bc433c3" srsDimension="2">
+          <gml:pos>503745.54 686266.45</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.0cfc3e87-0336-4b8a-a96a-b75faa86a373">
+      <ot:lokalnyId>28BEDAB6-B2C4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8ee71b64-0494-486c-9c22-792c7b0264a3" srsDimension="2">
+          <gml:pos>494328.95 694599.16</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.1cb62a0b-959e-4ddb-b37d-2d81f6adb354">
+      <ot:lokalnyId>28BEDAB6-B2C5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a8c1bf5f-d314-41c1-ae66-20d7ac48e198" srsDimension="2">
+          <gml:pos>500345.24 696674.19</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.ab309f0b-e1f5-47c0-bf20-c4d6c0d02623">
+      <ot:lokalnyId>28BEDAB6-B2C6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d3d1a0a4-2dba-48b9-9ef9-b2113a493023" srsDimension="2">
+          <gml:pos>513351.81 687872.24</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.d6896f3b-b7df-4089-848d-60bce4db6e2a">
+      <ot:lokalnyId>28BEDAB6-B2C7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e4a4c41d-a0c5-4461-a66e-50b8de2faf58" srsDimension="2">
+          <gml:pos>513452.94 686922.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.639a856d-0546-48ef-a79a-03d4e0c0fb52">
+      <ot:lokalnyId>28BEDAB6-B2C8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.99a225a0-496f-4ff4-9c24-1632c0324a9f" srsDimension="2">
+          <gml:pos>513479.17 686903.54</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.40ec748a-e4f2-421f-9f0c-df7ccd5cd283">
+      <ot:lokalnyId>28BEDAB6-B2FD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Bohaterom Armii Radzieckiej</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.61ad7e18-d05d-46e8-ba23-7a8e4e528ab0" srsDimension="2">
+          <gml:pos>502732.42 685165.81</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.3495ac97-6947-4350-b562-9a304831488d">
+      <ot:lokalnyId>28BEDAB6-B2FE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.ce66e038-ab3c-4149-b099-338340a1b464" srsDimension="2">
+          <gml:pos>502481.50 684495.62</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5aa8c0f6-7c43-424b-81a3-fc78c8471238">
+      <ot:lokalnyId>28BEDAB6-B2FF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0c46138b-8eb0-4298-88be-042344ac4aed" srsDimension="2">
+          <gml:pos>501969.84 685852.55</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.49ccb10f-ce2e-4134-a26f-2f65684f32d6">
+      <ot:lokalnyId>28BEDAB6-B300-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.63a9806b-0306-42c9-8b1c-21028b266cd3" srsDimension="2">
+          <gml:pos>491978.44 679113.09</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.676960a2-3fa6-4f70-901e-8b9e7466ba20">
+      <ot:lokalnyId>28BEDAB6-B301-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a42afbad-b995-4b83-9765-13240a620a48" srsDimension="2">
+          <gml:pos>491771.50 691975.41</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e284b3b2-7fdc-4c57-b7d7-86e7fa22ef8c">
+      <ot:lokalnyId>28BEDAB6-B302-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.310a9251-1228-4396-ab93-c78b21adaaeb" srsDimension="2">
+          <gml:pos>493662.38 698273.62</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.96cd5b0f-67b1-4705-96e8-7289f9b55d25">
+      <ot:lokalnyId>28BEDAB6-B303-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a78c9c20-77d8-4a0e-bdbb-9d49af9eb57a" srsDimension="2">
+          <gml:pos>495565.34 699261.25</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.bd0e51d1-3dfc-41a7-853a-04e85ef53f7f">
+      <ot:lokalnyId>28BEDAB6-B304-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f9b589cd-0106-41fc-83b8-3696b8b1a140" srsDimension="2">
+          <gml:pos>496695.76 700099.96</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.783631f8-f4d6-400b-90d9-f383d3328170">
+      <ot:lokalnyId>28BEDAB6-B305-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.ac398fad-a10a-49a5-b954-cc4a1552772e" srsDimension="2">
+          <gml:pos>495984.65 697350.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a4fd1d17-a004-4df3-9cb1-a8bc4e60e902">
+      <ot:lokalnyId>28BEDAB6-B306-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9812f8c3-f8f0-4f9d-9dcf-a28ebc7bb32c" srsDimension="2">
+          <gml:pos>498775.08 695848.75</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a1a03596-2150-4884-8590-af11f9a8c9c6">
+      <ot:lokalnyId>28BEDAB6-B307-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c0952146-3ead-4b4b-bac4-b1553a29d469" srsDimension="2">
+          <gml:pos>493363.48 693745.37</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.0ede239d-d5b7-49a9-a926-59b4968fe86d">
+      <ot:lokalnyId>28BEDAB6-B308-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f5bc5d31-245c-4609-b6f4-dfdee8bbec91" srsDimension="2">
+          <gml:pos>497221.20 694341.76</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.6be85cc1-2eff-4a43-9dd1-7fd062497f57">
+      <ot:lokalnyId>28BEDAB6-B309-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5227e1c9-9f23-4cf3-8b3e-b67374c4b79e" srsDimension="2">
+          <gml:pos>499271.56 693981.08</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.fcf31fa0-e219-45e9-8595-51b445328245">
+      <ot:lokalnyId>28BEDAB6-B30A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e59ae1f4-fa3e-454e-ac1e-9c0bfee7f2f9" srsDimension="2">
+          <gml:pos>499155.29 694096.40</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a49c3399-4384-4811-83e2-85c054c6db47">
+      <ot:lokalnyId>28BEDAB6-B30B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a2e66754-e527-4b2f-bc0d-71ac7bf93ed1" srsDimension="2">
+          <gml:pos>496281.85 691077.56</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.189b8680-5f88-467e-84ca-baddccbf231d">
+      <ot:lokalnyId>28BEDAB6-B30C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.76463b05-01ec-45ab-ac13-bf9c214cf3a9" srsDimension="2">
+          <gml:pos>497147.37 692767.47</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.96474d58-8d1f-4420-b515-60e889c1ffa6">
+      <ot:lokalnyId>28BEDAB6-B30D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8bef2ad2-b10c-4168-b896-143c69e15c28" srsDimension="2">
+          <gml:pos>490821.93 687002.72</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.8fdff997-d453-4a02-839f-dea8b86539b5">
+      <ot:lokalnyId>28BEDAB6-B30E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, kapliczka, nr rej.: 102/N z 1960-04-05</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e170e421-730a-4c28-8641-0fbb862b15fe" srsDimension="2">
+          <gml:pos>494107.18 687786.03</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5303372d-f1f5-4382-9623-795c26c3e094">
+      <ot:lokalnyId>28BEDAB6-B30F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9f639965-6dc9-47e0-b881-69ff988e1da4" srsDimension="2">
+          <gml:pos>498428.51 690422.78</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a74bccf6-0aec-4acd-bb91-0db2266a9f0c">
+      <ot:lokalnyId>28BEDAB6-B310-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5446a276-1b8b-411b-ae23-ad84c3a31f2b" srsDimension="2">
+          <gml:pos>496119.34 686764.39</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.fe8a3a12-7de9-4581-8d2f-bc48f7355539">
+      <ot:lokalnyId>28BEDAB6-B311-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.70eed944-8a3b-48f0-a255-b2e4e927c9d3" srsDimension="2">
+          <gml:pos>501258.51 700958.78</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.aebdfba5-3cc9-4f20-8e22-031760ee97a7">
+      <ot:lokalnyId>28BEDAB6-B312-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.79817ae8-a55c-4ab9-bccb-0298880e6e15" srsDimension="2">
+          <gml:pos>501193.19 698644.08</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f8f8250b-8c8e-4eac-9175-053c2985a6ab">
+      <ot:lokalnyId>28BEDAB6-B313-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.efb6282d-13c8-4981-8c57-52706b06ac22" srsDimension="2">
+          <gml:pos>502701.11 699098.53</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e5e6cb54-a8a7-4970-ae48-a97bde1ae9ef">
+      <ot:lokalnyId>28BEDAB6-B314-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b1104cc2-b780-4a1b-834b-b86693de60ab" srsDimension="2">
+          <gml:pos>503469.24 696500.21</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.4a07a5a8-b1c3-4357-8ccc-72e4631b98d2">
+      <ot:lokalnyId>28BEDAB6-B315-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.62164de3-7016-42d3-96b4-7d171e5582df" srsDimension="2">
+          <gml:pos>506106.51 697255.70</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.3fb90fe6-3eb2-4ca7-9ab1-5e24242b7c2d">
+      <ot:lokalnyId>28BEDAB6-B316-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d3c3cd1c-5d55-45c7-8e9a-ede5f93413cb" srsDimension="2">
+          <gml:pos>503531.35 692744.31</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.cf9c148a-6187-4e47-9a79-273ee0f11c93">
+      <ot:lokalnyId>28BEDAB6-B317-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b5a44620-ca31-4a45-a1c7-b3381cd9fffa" srsDimension="2">
+          <gml:pos>500025.62 692919.50</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e73b69d6-8ed2-428c-a966-1f2d30eb3eed">
+      <ot:lokalnyId>28BEDAB6-B318-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.fb439fc5-1a70-408e-9984-d1d587dee736" srsDimension="2">
+          <gml:pos>504702.58 691455.29</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.bf14af83-56fd-4df3-8065-8b8fbbb7b493">
+      <ot:lokalnyId>28BEDAB6-B319-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.697bc7b6-da6c-4ca1-ab3f-1145d7fbc584" srsDimension="2">
+          <gml:pos>504902.83 691520.73</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.76f7f85c-7131-43a2-a30b-456e640a5283">
+      <ot:lokalnyId>28BEDAB6-B31A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1609ef94-8802-464f-8f04-ce9ce966ce75" srsDimension="2">
+          <gml:pos>506128.86 692521.41</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.9cad4940-0161-4844-83dc-827d37a3583b">
+      <ot:lokalnyId>28BEDAB6-B31B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.55499ef5-4b63-4a08-a0a5-1f109ca7e37a" srsDimension="2">
+          <gml:pos>500827.01 689230.62</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.44296829-d7b3-4977-9999-c489083322fd">
+      <ot:lokalnyId>28BEDAB6-B31C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6f1f812e-213a-4d7b-b6c4-2fd66f8e0faa" srsDimension="2">
+          <gml:pos>503148.79 690379.85</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f643b7e4-6464-4bd2-a50b-695dbbf86c6f">
+      <ot:lokalnyId>28BEDAB6-B31D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8df0a9ce-92bb-4ab4-8088-0ec52b75633d" srsDimension="2">
+          <gml:pos>503411.82 688103.84</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.98745260-6812-4303-b728-c66f41b99897">
+      <ot:lokalnyId>28BEDAB6-B31E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.60be13a3-ce7a-4c77-b5fd-a780fe4ce688" srsDimension="2">
+          <gml:pos>501379.03 686992.52</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.79b52f50-f751-4acc-b2bc-e9aae7219d13">
+      <ot:lokalnyId>28BEDAB6-B31F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4260aeb8-18c5-4012-8c0f-b522bfc348d0" srsDimension="2">
+          <gml:pos>507818.72 688868.67</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.9d4d2a65-ce42-441c-82b6-e532995281d1">
+      <ot:lokalnyId>28BEDAB6-B320-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5b2c8c69-8406-4aa1-85cd-7fd5ac38551e" srsDimension="2">
+          <gml:pos>504296.51 687586.74</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.36b652b3-38af-4650-8828-8a33b41e860e">
+      <ot:lokalnyId>28BEDAB6-B321-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2d574443-c417-4e49-9103-5d047f2bd4b5" srsDimension="2">
+          <gml:pos>501549.53 684711.98</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.2cf632c8-8777-454b-b85b-9674a69e400a">
+      <ot:lokalnyId>28BEDAB6-B322-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6ad38161-c75d-4690-a07b-efbed75080ae" srsDimension="2">
+          <gml:pos>501782.38 686013.23</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.4a9a82c2-39ff-4155-8424-bd0421547fb4">
+      <ot:lokalnyId>28BEDAB6-B324-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0a57bca0-055b-4d36-93ed-18d588a62931" srsDimension="2">
+          <gml:pos>505467.44 682569.65</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e40113a3-a337-47d8-bda3-4096ea442fac">
+      <ot:lokalnyId>28BEDAB6-B325-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1653cdaf-2310-45af-9f34-5651972abedc" srsDimension="2">
+          <gml:pos>504256.07 683219.59</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.563d2ab8-a07f-4a85-817d-3b8b9fe54952">
+      <ot:lokalnyId>28BEDAB6-B326-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a1d58b74-27d5-4ebf-86c5-f5021cc1d1c2" srsDimension="2">
+          <gml:pos>510837.50 689213.86</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.41993b0d-8682-453a-a18b-81e45b0ddfb8">
+      <ot:lokalnyId>28BEDAB6-B327-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7ca35c4e-e6f8-4fe0-9503-ca4c0b675eb4" srsDimension="2">
+          <gml:pos>514883.01 688105.51</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.29eb147d-fefd-46b9-9ac3-a2e9bedd62c6">
+      <ot:lokalnyId>28BEDAB6-B328-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1bab2572-052d-4883-af0d-fe6313452011" srsDimension="2">
+          <gml:pos>514947.80 688995.38</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.8da3ba6b-50f4-4db9-8ead-64a4bee8555d">
+      <ot:lokalnyId>28BEDAB6-B329-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.6157e1b4-152d-43a0-a62d-9bfa6f5ce5bb" srsDimension="2">
+          <gml:pos>513263.19 686805.17</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.946c73a7-32fb-471a-b140-a84a63eb912f">
+      <ot:lokalnyId>28BEDAB6-B32A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2a7ab705-c4ca-46a8-90af-0261a1987cdf" srsDimension="2">
+          <gml:pos>511387.78 684905.30</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.6afa4be9-b450-4b2c-9424-7415a12047da">
+      <ot:lokalnyId>28BEDAB6-B32B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.fec35f25-b391-4ff3-b1a3-0dc84845c4e5" srsDimension="2">
+          <gml:pos>512437.31 685481.94</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e0d679de-2faf-4db6-90c4-d61feb7f2aff">
+      <ot:lokalnyId>28BEDAB6-B32C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0718f087-5b52-4b2e-a65f-ddca3ba81595" srsDimension="2">
+          <gml:pos>513320.96 683252.31</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.c6199010-0f20-4be9-b2ea-94adf739333c">
+      <ot:lokalnyId>28BEDAB6-B298-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1746ecdf-4d4d-45c0-990b-9eb5c1ba563f" srsDimension="2">
+          <gml:pos>514688.68 684806.76</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f185b5d3-ecd7-4d59-b6c1-8c4f921c90db">
+      <ot:lokalnyId>28BEDAB6-B299-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.cf570140-fdea-47c0-8401-fa2c3ed3bce4" srsDimension="2">
+          <gml:pos>514736.89 686281.49</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.77882f79-cc63-44d2-9a0b-0090a1b3b960">
+      <ot:lokalnyId>28BEDAB6-B29A-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.fa55453f-cc20-418c-b225-59b9eb19796e" srsDimension="2">
+          <gml:pos>491213.49 680742.03</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.cb53e593-5f8a-495d-ab97-341ec1bd2b06">
+      <ot:lokalnyId>28BEDAB6-B29B-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2dc035d4-e7ac-435b-a3fa-7b57a93d1c8f" srsDimension="2">
+          <gml:pos>491292.47 681505.55</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5de21b36-d288-4d23-a7e8-0f9c780b90db">
+      <ot:lokalnyId>00c9964f-9c1c-11ea-a462-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, Ossuarium w Bystrzu - kaplica cmentarna, nr rej.: 75/25/57 z 1957-06-12</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.dba8abd8-88a3-4a8b-94b9-b4a347ce67b1" srsDimension="2">
+          <gml:pos>490802.76 686738.68</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.56187c3b-fab7-462d-8e75-7cbda818be30">
+      <ot:lokalnyId>00c96f40-9c1c-11ea-b2b5-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>kaplica cmentarna</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b7097c47-dbfc-433e-91d3-618ef294e6dc" srsDimension="2">
+          <gml:pos>508970.29 686664.07</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e94eaa6b-3085-4971-904a-713b277a8e46">
+      <ot:lokalnyId>53a8558f-ce5e-11ea-8c00-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.29b40a05-8726-4186-b431-409889b73103" srsDimension="2">
+          <gml:pos>491674.51 688134.32</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b4f72ba0-08cf-401a-80b8-4e6bee15d1c1">
+      <ot:lokalnyId>53a918de-ce5e-11ea-afd5-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.99af9854-0910-48d5-8c3c-69224f9426b0" srsDimension="2">
+          <gml:pos>496069.10 686628.66</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.08732f5d-5db8-4c97-b3a9-acd9ba127731">
+      <ot:lokalnyId>28BEDAB6-B2D4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e8ad14d0-327b-4c91-b75f-4c9bc80d0dbc" srsDimension="2">
+          <gml:pos>509277.88 686748.69</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.11b38f79-65a0-4353-97c7-64b731f21b48">
+      <ot:lokalnyId>28BEDAB6-B2D5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.431c60f4-137a-414a-8670-c33190079cab" srsDimension="2">
+          <gml:pos>502633.15 694715.33</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.29aeef7c-b4df-439b-b7f9-4aac117817cb">
+      <ot:lokalnyId>28BEDAB6-B2D6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.82511fca-0a21-42fc-b12b-bce5e9ad84cc" srsDimension="2">
+          <gml:pos>508135.62 695436.91</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a3f20b18-629f-4616-895f-6451c10b2bbb">
+      <ot:lokalnyId>28BEDAB6-B2D7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.824cd3d8-3c37-4f19-b020-6dcd6e305232" srsDimension="2">
+          <gml:pos>512921.05 696461.25</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a8853edf-f95a-4752-86c6-ec6ff32f936e">
+      <ot:lokalnyId>28BEDAB6-B2D8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.dca0e084-2a2f-4842-9d52-8228acce992a" srsDimension="2">
+          <gml:pos>504845.13 691594.33</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e8123368-3927-43f0-a785-9fc24e79db3a">
+      <ot:lokalnyId>28BEDAB6-B2D9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.cb54cada-a1bf-4b8f-8cbb-5d77c3ab2762" srsDimension="2">
+          <gml:pos>503587.29 690470.24</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.c3620ffe-44a3-4598-bb6b-5ef1b4e99108">
+      <ot:lokalnyId>28BEDAB6-B2DA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4b6f4385-9e7c-40cc-b392-49a1a3a3afc0" srsDimension="2">
+          <gml:pos>491725.29 694590.82</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.d87a0630-7241-41d7-b493-ed70902acb06">
+      <ot:lokalnyId>28BEDAB6-B2DB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0ea6ad40-c631-4bbe-a442-0440d16df3dc" srsDimension="2">
+          <gml:pos>490144.89 697198.25</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.ea7f4fb2-3d65-43a5-a744-3fa22961f075">
+      <ot:lokalnyId>28BEDAB6-B2DC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.11459cd0-5eca-4220-98e1-edbc87dce6a5" srsDimension="2">
+          <gml:pos>490900.76 688300.38</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.0e433fb2-7a85-41f3-9465-15a964c9359a">
+      <ot:lokalnyId>28BEDAB6-B2DD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.60e80269-ecbe-4bf1-a50f-8869694d28a1" srsDimension="2">
+          <gml:pos>494074.40 687675.43</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.2ec17159-89a3-462f-81df-a42b7a230760">
+      <ot:lokalnyId>28BEDAB6-B2DE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5e2af1c7-f168-4113-84ff-9adcb75c59b0" srsDimension="2">
+          <gml:pos>495973.05 689422.51</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.40a82aec-bb27-435f-b3c7-19b225c7740f">
+      <ot:lokalnyId>28BEDAB6-B2DF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.e07ffad5-71c5-4a7b-885c-1f9b1e68591d" srsDimension="2">
+          <gml:pos>498715.68 686152.01</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.076b48d0-91c7-43ac-a154-1a654689e553">
+      <ot:lokalnyId>28BEDAB6-B2E0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.823882c7-167c-43f4-b3cb-0b6d53a7f834" srsDimension="2">
+          <gml:pos>498165.78 685112.47</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f95f6972-7d6b-4d13-80a5-fc5efb8b9068">
+      <ot:lokalnyId>28BEDAB6-B2E1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7ad287d7-2291-4ae5-9467-caf78c32c158" srsDimension="2">
+          <gml:pos>498335.42 684091.70</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5794b5bc-1639-427d-982c-a7a8d529dfa6">
+      <ot:lokalnyId>28BEDAB6-B2E2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b011ee2c-ba36-400f-ad67-a96cba3d1711" srsDimension="2">
+          <gml:pos>494605.38 683201.35</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7b64f6bd-da5c-43f4-b405-feed43752fe1">
+      <ot:lokalnyId>28BEDAB6-B2E3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.bffa5e2a-f267-4d03-9d6c-3013c1c9e8f1" srsDimension="2">
+          <gml:pos>494569.84 683147.61</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b6ddf6c6-9bac-426d-ad62-46d9a35abe6f">
+      <ot:lokalnyId>28BEDAB6-B2E4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.98bedf74-d391-4237-af9f-f91150226920" srsDimension="2">
+          <gml:pos>495643.35 685559.99</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7a5f7d36-8c7a-46d0-9872-c52482848f93">
+      <ot:lokalnyId>28BEDAB6-B2E5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2a7f91bc-6bf3-4766-a1ed-2ce7880b5292" srsDimension="2">
+          <gml:pos>495687.39 685626.19</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.6549b151-cc09-44b4-b47d-f90d19d8baeb">
+      <ot:lokalnyId>28BEDAB6-B2E6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.bebbc900-2517-4dd6-baf1-9fc46637d6b5" srsDimension="2">
+          <gml:pos>497718.83 682668.20</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7d444c97-1f94-442c-a27a-25bb560e36d0">
+      <ot:lokalnyId>28BEDAB6-B2E7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.93388db1-13fc-48de-b889-6becd1da844f" srsDimension="2">
+          <gml:pos>495585.25 678823.64</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.465830e9-d386-46bf-a354-fd2c1993b548">
+      <ot:lokalnyId>28BEDAB6-B2E8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.82f7a6a8-bf94-4c3b-a8d8-d2d5cf605cfe" srsDimension="2">
+          <gml:pos>490708.29 683471.62</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.08c95c60-e911-4ed7-8a17-5e2fac3fc160">
+      <ot:lokalnyId>28BEDAB6-B2E9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a93a5bf6-a168-49ea-bdaf-3a1f20c19a09" srsDimension="2">
+          <gml:pos>514230.77 691748.85</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.0e6ba6c4-2736-420d-ad55-5536d2a9d5cb">
+      <ot:lokalnyId>28BEDAB6-B2EA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d809ee8e-f833-4723-a566-f6471dff65cb" srsDimension="2">
+          <gml:pos>493566.13 687706.03</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7377ebd8-8f90-412d-81a8-1cd043b4426f">
+      <ot:lokalnyId>28BEDAB6-B2EB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.de1ee367-37d3-4be8-9457-bb652cf30423" srsDimension="2">
+          <gml:pos>494939.39 689799.22</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5316114f-bcc2-43ca-96ac-0350529349f7">
+      <ot:lokalnyId>28BEDAB6-B2EC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.86a77bbc-1431-417d-8d55-d20384f699bc" srsDimension="2">
+          <gml:pos>513701.67 688028.77</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b03316ce-62d1-4bf5-bf56-a05e83cada41">
+      <ot:lokalnyId>28BEDAB6-B2ED-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b3ae5688-3a67-4df5-b4fc-6e973ea9ddc5" srsDimension="2">
+          <gml:pos>504373.17 686344.40</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.46005af4-2eac-4c1d-bcad-d5c581ad6a4c">
+      <ot:lokalnyId>28BEDAB6-B2EF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pamięci Jeńców Wojennych</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.982a15a1-b9f6-4af3-af80-648a4d0ff3b2" srsDimension="2">
+          <gml:pos>494113.47 687794.73</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e2207d71-4c2c-4830-83dd-321ba6472df3">
+      <ot:lokalnyId>28BEDAB6-B2F0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pomnik bohaterskich celników i kolejarzy w Szymankowie</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d2527edc-8ceb-4e1a-8384-503d2338457b" srsDimension="2">
+          <gml:pos>495983.17 689428.81</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.c4ec4f11-171f-4725-be28-cd5a3141d858">
+      <ot:lokalnyId>28BEDAB6-B2F1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.177b13a5-d099-43db-a4c9-ae4e56efc9ec" srsDimension="2">
+          <gml:pos>494194.01 683365.06</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.dbc80743-6c79-4a85-a2aa-ca6e7a5131b0">
+      <ot:lokalnyId>28BEDAB6-B2F2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.23036c31-7a60-47d8-bc34-27b3c300e875" srsDimension="2">
+          <gml:pos>500569.25 696833.49</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.d890e91b-3bd5-4446-80ee-b0e9c0c57f38">
+      <ot:lokalnyId>28BEDAB6-B2F3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pomnik na przypomnienie I wojny światowej</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1122657c-8b83-4784-82cf-d6ed135a9722" srsDimension="2">
+          <gml:pos>500487.77 696995.67</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.0170124a-15fe-49cf-ac33-20af7c4102a1">
+      <ot:lokalnyId>28BEDAB6-B2F4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pomnik Celników Polskich w Malborku</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.032e74c2-f4e3-4ea4-ad5c-d303c265ae41" srsDimension="2">
+          <gml:pos>501554.49 686855.45</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.50aa5ee7-02ed-46a2-ab05-80a9d00787d8">
+      <ot:lokalnyId>28BEDAB6-B2F5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Monument Żołnierzy Armii Radzieckiej</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5984e7a3-9c70-44ab-8704-814202b39aee" srsDimension="2">
+          <gml:pos>500940.04 684089.71</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.be17f1a8-f70d-4a88-8a7d-f7efaf328668">
+      <ot:lokalnyId>28BEDAB6-B2F6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Krzyż Wspólnoty Brytyjskiej</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.2cfb7e60-234e-4c9e-aa3a-8278a21c276b" srsDimension="2">
+          <gml:pos>500913.27 684057.19</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e8420c71-6a60-4364-87f9-18c5b5f201e2">
+      <ot:lokalnyId>28BEDAB6-B2F7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5aa3a26f-ec3a-4f1f-b67c-aeff269b699a" srsDimension="2">
+          <gml:pos>501505.89 685343.84</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.3da4017d-ccae-40cc-8734-06d9ac6e0ef2">
+      <ot:lokalnyId>28BEDAB6-B2F8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Monument</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a083be76-7353-4de0-bec4-5c94dfa47beb" srsDimension="2">
+          <gml:pos>501855.54 685390.40</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.13c2304b-465f-430b-b603-f577b9ef347d">
+      <ot:lokalnyId>28BEDAB6-B2F9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Czołg</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.7b600baa-c133-42a3-b086-8f58c231875a" srsDimension="2">
+          <gml:pos>501797.98 685201.64</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.32d1a176-3bcc-4d4e-853b-81adb15148b6">
+      <ot:lokalnyId>28BEDAB6-B2FA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>monument Wielkich Mistrzów</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.39f77126-a08f-407b-8afe-7a6d1932c175" srsDimension="2">
+          <gml:pos>501865.55 686204.34</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.c0843ad6-95e2-433e-ae92-b9238a0df8ca">
+      <ot:lokalnyId>28BEDAB6-B2FB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:nazwa>Pomnik Wielkich Mistrzów</ot:nazwa>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.173ec553-3069-43df-b7c9-9af4042261d1" srsDimension="2">
+          <gml:pos>501860.26 686189.86</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b1e50008-7db7-4984-8262-b97b870e3be2">
+      <ot:lokalnyId>28BEDAB6-B2FC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>brak nazwy</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_331</ot:kodKarto10k>
+      <ot:rodzaj>pomnik</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.76311d7e-7ec0-4962-81dc-8f9a03aa5150" srsDimension="2">
+          <gml:pos>501954.43 686292.99</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b456e2dc-c9c8-4be6-abc1-0952b85091ea">
+      <ot:lokalnyId>28BEDAB6-B29C-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1c624f4a-bdba-41dd-84df-28d2ea3c7867" srsDimension="2">
+          <gml:pos>491291.36 681473.10</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b1b778ca-e0df-456d-8156-2081d4fd4f2e">
+      <ot:lokalnyId>89154395-2268-4ef5-b3a5-f54c51c34441</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.9b23c366-f8fb-4f1e-948b-4872a112e788" srsDimension="2">
+          <gml:pos>489881.12 697127.58</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b85b627f-ce68-466a-baca-b39618ddcf58">
+      <ot:lokalnyId>865fb0ae-0826-4873-b44e-22afbaeddf53</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5affe21c-35d0-4ef8-bcba-7c69dceb33e4" srsDimension="2">
+          <gml:pos>489085.45 692852.63</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.ef36e4f5-0f2b-46c4-8093-e89a8022110d">
+      <ot:lokalnyId>8bf8a829-68b8-453a-a79d-b48cbee6c069</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c9cb9e7a-f9c1-4fa4-bdec-504a8007ee52" srsDimension="2">
+          <gml:pos>490630.82 697332.03</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.2b029dc3-3a5f-42a2-be8c-27aaabf24d41">
+      <ot:lokalnyId>28BEDAB6-B29D-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c6c084b2-1f64-40f0-bcad-11e167e1f3e5" srsDimension="2">
+          <gml:pos>493213.41 680732.04</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b1652820-7e56-4bca-8537-3ca93c954281">
+      <ot:lokalnyId>28BEDAB6-B29E-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1c50f450-59a2-4820-a10c-99a3360923c6" srsDimension="2">
+          <gml:pos>494775.77 680680.02</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.007852f2-c02b-4abf-82d7-817fd7e514fc">
+      <ot:lokalnyId>28BEDAB6-B29F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.3f517c96-e8b3-41cb-b0b0-b1bc47fe7c23" srsDimension="2">
+          <gml:pos>495629.27 678881.27</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.9bf70739-3851-479f-96c2-6199a61292b6">
+      <ot:lokalnyId>28BEDAB6-B2A0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_333</ot:kodKarto10k>
+      <ot:rodzaj>bunkier lub schron</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.36a280ee-ef0e-4b68-b206-20026fe14c19" srsDimension="2">
+          <gml:pos>505066.97 682751.19</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a948ec05-03f3-4cb3-b589-0debd676bdee">
+      <ot:lokalnyId>28BEDAB6-B2A1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.3e11376d-ac2f-4318-8e5c-0bded82c6860" srsDimension="2">
+          <gml:pos>488929.66 692386.00</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.b8277b84-fe84-47b8-9939-08a86a5cf427">
+      <ot:lokalnyId>28BEDAB6-B2A2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8db51f83-5711-4341-ac4c-746fb139d3cb" srsDimension="2">
+          <gml:pos>488934.36 692749.78</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5136f088-bde4-478d-8b38-2616bf9c6d6f">
+      <ot:lokalnyId>28BEDAB6-B2A3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a17708fb-c9e0-44f6-8223-f877d9645179" srsDimension="2">
+          <gml:pos>496227.75 697675.95</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e3da1c0b-983f-423a-a843-f28ffacdf4f6">
+      <ot:lokalnyId>28BEDAB6-B2A4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.3e7616ef-1368-4cea-bbf8-4ada4318f119" srsDimension="2">
+          <gml:pos>498729.08 695850.64</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.de3ea36e-0f63-43ca-b27d-5fd3a5db6a24">
+      <ot:lokalnyId>28BEDAB6-B2A5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.a4f09af8-e50b-4744-a7cb-0ec1976336fc" srsDimension="2">
+          <gml:pos>492009.69 694591.78</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a9bc2b03-ead3-4e2b-9633-6abccba088c9">
+      <ot:lokalnyId>28BEDAB6-B2A6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.71dd648a-079e-4cca-bc4f-41d1d22617f4" srsDimension="2">
+          <gml:pos>493633.31 691576.62</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.41ac8860-3f7d-422d-a5d7-de137fa142fb">
+      <ot:lokalnyId>28BEDAB6-B2A7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.29d39b47-6c2b-4d5b-9474-0aa8579506e1" srsDimension="2">
+          <gml:pos>494521.06 693776.37</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.add220e8-f0cd-425d-9b4d-2df3f088071b">
+      <ot:lokalnyId>28BEDAB6-B2A8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.d5e5c668-a062-4e6c-9824-15c977ea68a4" srsDimension="2">
+          <gml:pos>494310.40 694523.37</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f475f123-70d3-43ea-9ea7-a80044a2121c">
+      <ot:lokalnyId>28BEDAB6-B2AA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.f9d4f55c-8599-4ae7-9915-1d498d219c19" srsDimension="2">
+          <gml:pos>495453.78 689870.25</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.7da33589-325e-45c3-8f68-c32c1f959db5">
+      <ot:lokalnyId>28BEDAB6-B2C9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.1502b2ce-77a3-4994-921a-678f6d05527f" srsDimension="2">
+          <gml:pos>501743.42 685990.64</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.2f7f0593-3e45-4975-8908-67064b7b0daf">
+      <ot:lokalnyId>28BEDAB6-B2CA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b0fbc4f8-24bd-4ee9-bcd8-207187e6a403" srsDimension="2">
+          <gml:pos>501510.79 685356.49</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.24ebbe7a-0893-46ae-97ce-0ec4a4ea94ed">
+      <ot:lokalnyId>28BEDAB6-B2CB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.892e3733-180d-49ed-b303-eed2d9cbd646" srsDimension="2">
+          <gml:pos>501024.04 685651.63</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.e1b80b78-766f-4817-ac9b-0d6400113de3">
+      <ot:lokalnyId>28BEDAB6-B2CC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.79d95527-e689-471b-a10f-28203cb0b191" srsDimension="2">
+          <gml:pos>502385.43 684568.06</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.299acb37-4013-4ac1-867b-888911f89f62">
+      <ot:lokalnyId>28BEDAB6-B2CD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.c22a3a50-46fa-492a-a2e6-08cb6250e25c" srsDimension="2">
+          <gml:pos>502332.54 684572.81</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.3d5bde55-e0bb-43dd-97fb-e18998399e0f">
+      <ot:lokalnyId>28BEDAB6-B2CE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0588001e-0111-4d60-af2d-ff6071e6b91c" srsDimension="2">
+          <gml:pos>504141.16 685970.97</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.c8975336-8349-43e6-b629-5b4e36171f23">
+      <ot:lokalnyId>28BEDAB6-B2CF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4443a3e3-7526-4361-b8f6-61d6010bc8aa" srsDimension="2">
+          <gml:pos>490313.99 682761.00</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.c3297698-2c7d-4e9a-945b-d70698f1d757">
+      <ot:lokalnyId>28BEDAB6-B2D0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.5ccf897f-0204-4ed9-810c-ba7870d8e3a8" srsDimension="2">
+          <gml:pos>500294.34 681326.22</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.cddd92a7-1a11-4a1f-9042-3406c645b810">
+      <ot:lokalnyId>28BEDAB6-B2D1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.b112e168-e2cc-412a-9140-f0169d12f43c" srsDimension="2">
+          <gml:pos>505363.58 695370.60</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.5f0b39e3-6fe1-42f8-86de-207461271ccf">
+      <ot:lokalnyId>28BEDAB6-B2D2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.82a8b409-3401-49da-9f54-994e3dff50ce" srsDimension="2">
+          <gml:pos>505415.75 695559.37</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.520f0b46-5b9c-4814-af88-da6bcef65cbb">
+      <ot:lokalnyId>28BEDAB6-B2D3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_330</ot:kodKarto10k>
+      <ot:rodzaj>figura, kapliczka lub krzyż</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.8f7c24f9-a7fd-4fd3-817d-4847811f90b7" srsDimension="2">
+          <gml:pos>510807.57 689111.11</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f507d861-da1b-40e9-8631-b4a8c4e41f73">
+      <ot:lokalnyId>28BEDAB6-B2B5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.529ab7a4-e59a-4468-bb8a-89f55c738a3e" srsDimension="2">
+          <gml:pos>504741.89 685552.34</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.ef1e49bc-83ec-4e00-9c28-8555a8f54fef">
+      <ot:lokalnyId>28BEDAB6-B2B6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0dee29d7-0b2f-4411-8686-79c153693da8" srsDimension="2">
+          <gml:pos>509431.92 690779.88</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.eab87282-bec0-4031-a31f-ff6581813ad3">
+      <ot:lokalnyId>28BEDAB6-B2B7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.0a59853a-3c29-4303-823f-990cf64b32aa" srsDimension="2">
+          <gml:pos>508774.98 689227.70</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.401359c9-1781-4928-82f9-7be36ba48e1f">
+      <ot:lokalnyId>28BEDAB6-B2B8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.4a53c32e-8fa3-4160-be4e-68d0196ce8bb" srsDimension="2">
+          <gml:pos>514061.58 685709.66</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.f0bee3e6-27a3-457f-b11f-c5bea605acef">
+      <ot:lokalnyId>28BEDAB6-B2B9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.81054fee-d97f-48be-bf99-3853a6c11b1f" srsDimension="2">
+          <gml:pos>514516.64 684162.78</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_OIOR_P gml:id="OT_OIOR_P.a6f94654-f9dc-4130-8fa5-a31d9f91dbc2">
+      <ot:lokalnyId>28BEDAB6-B2BA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_613</ot:kodKarto10k>
+      <ot:rodzaj>studnia głębinowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Point srsName="EPSG:2180" gml:id="geom.42bcc955-10b5-4628-9cdd-13217eb05084" srsDimension="2">
+          <gml:pos>491488.04 681459.79</gml:pos>
+        </gml:Point>
+      </ot:geometria>
+    </ot:OT_OIOR_P>
+  </gml:featureMember>
+</gml:FeatureCollection>

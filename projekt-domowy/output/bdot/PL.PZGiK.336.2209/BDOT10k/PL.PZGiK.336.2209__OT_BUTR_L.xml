@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_BUTR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.62fedbfc-5332-4836-bf39-1e783ae0b07f">
+      <ot:lokalnyId>7a86d1b8-f3a7-4917-aab9-4922f2b0f1f3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">10</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.3e21725c-dcc0-4f61-bcd4-1883eb288a11" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>504890.22 685544.04 504894.18 685613.89</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.4f0b0edd-05ce-409c-a277-741deb0fab01">
+      <ot:lokalnyId>9b86ccf2-bd44-11ea-8819-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">16</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.9f613f9c-a735-46d9-b9e7-d77db68d2f92" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502836.19 685341.51 502794.12 685349.25 502732.14 685360.23 502732.27 685360.23</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.e658f45a-c2ff-44e6-8de5-b3141c2e6333">
+      <ot:lokalnyId>9b86ccf3-bd44-11ea-97e4-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">16</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.74a0d210-fb48-471b-aeca-4c3e13eebee9" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502835.33 685348.06 502733.66 685366.51</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.72a59655-4894-40d2-b057-c41ca0ad81c1">
+      <ot:lokalnyId>9b86ccf4-bd44-11ea-a7dd-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">16</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.bf36e895-00df-43e2-9da4-e71673d82d13" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502835.53 685353.28 502735.98 685371.21</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.3dd12ef3-d026-4075-9f67-803785982150">
+      <ot:lokalnyId>9b823911-bd44-11ea-aad7-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_434</ot:kodKarto10k>
+      <ot:rodzaj>taśmociąg</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.e4264bc5-8967-436e-81e2-7739dfe08636" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502724.13 685541.99 502825.20 685522.14 502852.05 685517.65 502895.31 685504.15</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.fed346f0-b9b1-4427-a588-dea9d1ec03c6">
+      <ot:lokalnyId>9b86ccf0-bd44-11ea-b2d4-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_434</ot:kodKarto10k>
+      <ot:rodzaj>taśmociąg</ot:rodzaj>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.826826ec-c146-40b7-a36f-5a903522d463" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502597.83 685505.30 502592.58 685405.37</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.b6e23208-c3ab-4ae4-bd84-024ba44e344c">
+      <ot:lokalnyId>9b86ccf1-bd44-11ea-b1a3-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">16</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.d5d73ebf-7af9-46cd-86a9-8a2e55d7987c" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502835.66 685336.81 502788.96 685345.01 502730.42 685355.33</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.41dfd879-622a-4bea-aab0-5a7be6d08838">
+      <ot:lokalnyId>28BEDAB6-8FE7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">57</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.80f5888b-ddb5-4aa7-840e-a1790dcb6c68" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502585.08 685613.77 502646.46 685598.01</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUTR_L gml:id="OT_BUTR_L.68383454-0c7f-4ca4-876f-ce498035b15e">
+      <ot:lokalnyId>28BEDAB6-8FE8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+      <ot:rodzaj>suwnica</ot:rodzaj>
+      <ot:szerokosc uom="m">16</ot:szerokosc>
+      <ot:geometria>
+        <gml:Curve srsName="EPSG:2180" gml:id="geom.18df8686-08d7-4efe-9e38-871822efafdf" srsDimension="2">
+          <gml:segments>
+            <gml:LineStringSegment>
+              <gml:posList>502363.54 685936.96 502376.24 685978.31</gml:posList>
+            </gml:LineStringSegment>
+          </gml:segments>
+        </gml:Curve>
+      </ot:geometria>
+    </ot:OT_BUTR_L>
+  </gml:featureMember>
+</gml:FeatureCollection>

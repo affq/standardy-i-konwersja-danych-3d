@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_PTGN_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_PTGN_A gml:id="OT_PTGN_A.984c69da-ec2d-47dc-9e05-ca395c6f6137">
+      <ot:lokalnyId>06cbd211-160d-4f6e-a0e3-e405935b3a18</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>plaża</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_737</ot:kodKarto10k>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a209e125-e339-4542-9228-c442436c0b0d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495348.73 687195.19 495343.06 687188.08 495334.31 687183.13 495326.76 687178.54 495322.58 687170.95 495319.18 687150.28 495313.16 687138.77 495308.71 687128.31 495305.43 687116.98 495293.52 687118.25 495306.68 687163.38 495310.77 687177.39 495314.65 687190.69 495322.96 687191.73 495348.73 687195.19</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+      <ot:rodzaj>teren piaszczysty lub żwirowy</ot:rodzaj>
+    </ot:OT_PTGN_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

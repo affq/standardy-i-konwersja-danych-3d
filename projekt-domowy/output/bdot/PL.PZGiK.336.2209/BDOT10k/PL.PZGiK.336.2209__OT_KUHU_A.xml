@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_KUHU_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_KUHU_A gml:id="OT_KUHU_A.148df521-6184-48a7-bf25-352ceb03b2b7">
+      <ot:lokalnyId>28BEDAB6-9581-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Targowisko miejskie</ot:nazwa>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4a27bfc3-d3b1-4286-8298-ea6661c52db2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502226.26 685001.61 502227.57 684970.08 502221.57 684969.66 502222.60 684930.04 502214.30 684934.39 502210.22 684927.30 502207.65 684922.70 502197.18 684928.33 502171.52 684942.11 502168.90 684943.33 502154.33 684951.62 502139.37 684959.94 502131.90 684964.10 502118.10 684971.78 502104.59 684978.97 502097.36 684983.46 502070.68 684996.98 502061.28 685001.91 502045.20 685010.13 502032.98 685017.97 502021.31 685023.41 502000.95 685033.25 501986.96 685039.47 501989.39 685043.64 501990.13 685044.90 501995.46 685054.03 501950.93 685070.83 501934.83 685076.67 501937.00 685082.74 501949.55 685113.75 501996.97 685102.55 502000.51 685101.82 502004.52 685123.68 502008.65 685119.59 502038.05 685113.12 502038.56 685123.24 502040.23 685131.10 502042.08 685141.34 502046.59 685166.51 502085.40 685159.70 502098.30 685154.92 502104.12 685149.84 502106.52 685143.31 502106.05 685114.35 502121.29 685111.39 502128.89 685107.77 502184.37 685077.50 502226.34 685055.71 502225.11 685042.52 502224.73 685038.42 502226.26 685001.61</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUHU_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

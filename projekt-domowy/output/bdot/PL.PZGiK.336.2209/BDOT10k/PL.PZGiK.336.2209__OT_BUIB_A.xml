@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_BUIB_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.1f740300-d98e-49fc-8797-502b284eecdd">
+      <ot:lokalnyId>59434551-ce5e-11ea-bdff-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e15c24ed-f9d7-4909-9167-1d4990c0d5dc" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>488705.36 692070.17 488621.57 692078.17 488527.83 692087.40 488505.60 692089.45 488506.16 692095.32 488705.95 692076.34 488705.36 692070.17</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.7032fb4b-73d1-4714-bb24-77784f3862f9">
+      <ot:lokalnyId>28BEDAB6-82B8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b609e9c7-06eb-4cac-b806-15e64e8c3db0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495246.20 689829.09 495157.10 689860.21 495085.99 689887.08 495144.30 689874.37 495159.97 689868.94 495249.66 689838.48 495341.76 689803.88 495339.17 689796.09 495246.20 689829.09</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.e91c2391-b66f-41d4-b667-8e83132021b3">
+      <ot:lokalnyId>28BEDAB6-82B9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d3385027-c001-4fdf-9dff-fc91ba9d45ac" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500870.85 696439.92 500877.22 696456.67 500895.04 696503.50 500898.43 696512.40 500903.29 696525.61 500913.73 696553.95 500916.99 696562.82 500922.75 696560.87 500899.92 696499.49 500876.17 696437.70 500870.85 696439.92</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.e345b869-8c55-4de7-9d68-41ab9ce3fbd2">
+      <ot:lokalnyId>28BEDAB6-82BA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8ac3f193-d734-4054-ad5d-0eb6c71f4568" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502694.44 685809.75 502706.38 685800.14 502719.17 685790.33 502728.90 685782.86 502741.48 685774.23 502762.51 685760.26 502788.63 685744.23 502830.30 685721.37 502878.88 685697.16 502894.91 685690.49 502910.15 685683.82 502930.47 685674.93 502969.76 685657.79 502990.32 685648.47 503007.81 685640.52 503004.21 685633.96 502957.99 685654.21 502947.90 685658.91 502925.50 685668.61 502898.71 685679.92 502880.98 685687.96 502872.69 685691.44 502816.65 685720.41 502787.91 685736.21 502773.23 685745.42 502754.50 685757.40 502735.05 685770.74 502713.38 685786.43 502689.99 685804.05 502683.49 685809.00 502674.64 685816.43 502648.91 685838.85 502616.95 685868.24 502620.04 685871.05 502651.18 685846.44 502669.14 685831.13 502694.44 685809.75</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.0a3a60a6-e25b-4cd8-a3bd-00bc5d50b831">
+      <ot:lokalnyId>28BEDAB6-82BB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:skrotKartograficzny>rmp.</ot:skrotKartograficzny>
+      <ot:rodzaj>rampa kolejowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ac31fb18-1956-44de-a8eb-3344815b395b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502828.91 685619.42 502835.07 685634.57 502882.02 685615.01 502879.88 685610.09 502878.32 685605.40 502875.93 685600.96 502828.91 685619.42</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.370510d8-b13e-4e54-812a-08469492b97f">
+      <ot:lokalnyId>28BEDAB6-82BC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:skrotKartograficzny>rmp.</ot:skrotKartograficzny>
+      <ot:rodzaj>rampa kolejowa</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1d6ddc76-809d-439b-9df1-8e3f22d574c8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502982.80 685621.36 502950.82 685635.18 502870.37 685672.57 502872.71 685682.03 502907.11 685665.20 502984.66 685630.27 502994.87 685626.02 503019.08 685616.88 503030.03 685611.80 503060.36 685596.96 503105.60 685575.13 503103.85 685571.36 503066.39 685585.41 503019.66 685605.84 502982.80 685621.36</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.8b379fad-6c38-4364-a771-8badea776777">
+      <ot:lokalnyId>28BEDAB6-82BE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f9a97f18-b1bb-4052-8fb4-cba0b2115119" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513337.46 687651.18 513364.15 687659.75 513421.40 687678.12 513449.83 687687.30 513463.24 687691.90 513491.53 687701.60 513492.45 687698.60 513338.64 687645.80 513337.46 687651.18</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.9474b0c3-ed6e-4c56-9986-0c008c20f56c">
+      <ot:lokalnyId>28BEDAB6-82BF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3e0ca1de-2508-4ef6-9ca5-0b82ae4877bf" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513339.50 687644.81 513494.87 687697.84 513496.45 687692.84 513341.15 687639.65 513339.50 687644.81</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.f4fce577-6357-4b3e-806d-2617e856744e">
+      <ot:lokalnyId>b65dd54f-bd44-11ea-8c4d-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6dceb651-e981-4a36-94ef-74cbdfece686" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501494.43 687062.36 501510.72 687044.38 501535.49 687019.14 501570.10 686988.03 501601.21 686961.36 501632.33 686937.23 501643.76 686929.29 501640.90 686925.48 501615.18 686944.53 501582.16 686970.57 501550.73 686997.08 501489.45 687058.20 501494.43 687062.36</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.7b774c62-dfdc-4ba4-857b-23572d1489ce">
+      <ot:lokalnyId>28BEDAB6-82C4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.53c48cba-2b02-48da-b8f3-02b8422064cc" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502633.45 685877.70 502704.18 685826.37 502743.82 685799.60 502793.16 685765.59 502879.88 685716.10 502914.31 685700.12 502946.59 685682.56 502957.69 685677.14 502956.18 685673.45 502876.23 685707.66 502848.26 685721.07 502815.86 685738.06 502786.50 685755.38 502766.25 685768.09 502745.77 685781.93 502718.99 685802.18 502668.59 685843.25 502626.97 685875.84 502633.45 685877.70</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.a3123fdb-34ff-47a9-9729-565bb794f39d">
+      <ot:lokalnyId>b65f5bf1-bd44-11ea-b671-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.42a9d6a6-6125-447f-a2b1-5929aae0318f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497783.85 688911.08 497830.52 688894.14 497901.64 688868.32 497968.42 688844.40 498008.43 688832.12 498005.99 688825.56 497969.16 688837.31 497940.38 688847.89 497910.32 688858.58 497862.38 688875.62 497834.22 688885.78 497802.69 688896.79 497781.41 688905.04 497783.85 688911.08</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.d0c06fff-9da0-413f-abda-0c0421a3db6a">
+      <ot:lokalnyId>b65f5bf2-bd44-11ea-8457-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.f0731755-6698-4749-a94c-f945eb40899c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498028.96 688824.82 498054.57 688815.83 498111.61 688795.29 498160.83 688777.51 498158.50 688771.37 498098.81 688792.65 498026.52 688818.47 498028.96 688824.82</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.0fafe2e8-13b6-4546-b428-7153484a2489">
+      <ot:lokalnyId>59428200-ce5e-11ea-90b0-480fcf3c9bd7</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.15aaf4cb-9abf-42cd-8986-642abb812c8f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>488704.57 692061.84 488704.03 692056.10 488639.62 692062.44 488504.24 692075.08 488504.83 692081.32 488544.81 692077.53 488617.13 692070.47 488683.64 692063.80 488704.57 692061.84</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_BUIB_A gml:id="OT_BUIB_A.292f9ec4-1849-43c8-b058-59efa3ce2cbd">
+      <ot:lokalnyId>b65f5bf0-bd44-11ea-848c-b8ca3aa2e5c2</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_226</ot:kodKarto10k>
+      <ot:rodzaj>peron kolejowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.9354d1f8-34b8-40f6-9502-a92ef516286b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501502.32 687072.34 501519.46 687054.24 501539.57 687034.35 501554.39 687020.38 501573.44 687003.23 501591.43 686987.04 501598.03 686981.95 501624.45 686961.11 501633.11 686954.42 501636.50 686951.81 501649.84 686942.54 501651.31 686941.30 501648.48 686936.34 501625.40 686953.49 501603.39 686970.95 501577.57 686992.54 501560.95 687007.36 501543.91 687023.02 501526.24 687039.85 501498.40 687068.32 501502.32 687072.34</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_BUIB_A>
+  </gml:featureMember>
+</gml:FeatureCollection>

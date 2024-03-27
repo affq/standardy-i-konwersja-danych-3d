@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gml:FeatureCollection xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WODGiK_OT_KUSC_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ./XSD/BDOT10k_BDOO.XSD">
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.bc330760-1ab3-4b34-aa4b-029cb8c45761">
+      <ot:lokalnyId>ccd6497b-4a5a-4dce-b811-a94c826d2bea</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętej Katarzyny Męczennicy w Borętach</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8ff2d238-49a6-4e16-9f8e-e7a3dbdb8a60" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490323.01 697280.59 490325.48 697269.14 490333.90 697229.95 490303.11 697221.92 490304.58 697214.59 490272.68 697207.22 490264.52 697207.84 490254.66 697253.03 490254.61 697253.25 490252.24 697264.09 490259.48 697265.92 490285.91 697272.60 490298.78 697275.23 490323.01 697280.59</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.a5c6bbc8-36bf-471e-9719-d6798942f146">
+      <ot:lokalnyId>a39e60aa-da2c-4acb-b71e-fa707db46a4d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Najświętszej Maryi Panny Wspomożycielki Wiernych w Lipince</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.78d5a13d-63fa-4415-8aae-1ec1e8288535" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>508102.81 695455.11 508137.85 695464.52 508146.36 695439.97 508111.16 695426.58 508102.81 695455.11</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.1fbad0fe-0551-42ab-8c70-47ce8d0c9867">
+      <ot:lokalnyId>245d7674-59cb-4c6e-847f-03fd2b251d3f</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, nr rej. 714 z 1974-11-17</ot:informacjaDodatkowa>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego w Myszewie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e3657385-4b8a-40ad-af12-964f5d43d4d5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>510475.83 696360.83 510515.66 696369.28 510523.27 696344.72 510484.55 696333.93 510477.20 696357.61 510475.83 696360.83</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.d1663e11-cad7-4e1a-9ad4-53d33edb27d8">
+      <ot:lokalnyId>74b7ca89-3211-4e05-ada6-c48068fc3b42</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Wojciecha Biskupa i Męczennika w Ząbrowie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.eb14e8ac-fee3-4452-86bc-f9fc32e65a45" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>514219.80 691823.82 514225.54 691823.78 514227.60 691823.23 514231.83 691822.96 514252.49 691829.24 514252.75 691824.85 514256.72 691787.04 514224.05 691779.81 514217.12 691783.41 514219.80 691823.82</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.842f0624-6d6e-48e0-9fff-40845c2bb7d8">
+      <ot:lokalnyId>6f2a746e-0766-488c-8cab-87663acffa99</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Matki Bożej Częstochowskiej w Kaczynosie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.3e0b773f-b568-4466-a7fe-18316c60c07a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>510787.45 689094.08 510808.31 689120.34 510823.13 689105.96 510803.41 689081.14 510787.45 689094.08</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.30ce551e-c82f-44b1-8b0f-78d3ed662980">
+      <ot:lokalnyId>429b6a30-28aa-4d4f-96da-f8fcde79505c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Matki Boskiej Królowej Polski w Starym Polu</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.fc2e8bf4-f189-47e7-9a9d-d1ccb9f4191b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513501.41 687922.44 513509.46 687895.95 513525.19 687849.23 513516.85 687846.77 513502.17 687893.50 513484.11 687887.43 513454.22 687877.38 513445.89 687904.01 513474.38 687913.55 513494.96 687920.34 513501.41 687922.44</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.782aecb4-a47f-494a-ae78-ed419ea61369">
+      <ot:lokalnyId>a0fddf9e-c312-4153-a74b-60f3c7523049</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Kościół Zielonoświątkowy Przyjazny Kościół w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a6e9163c-b33c-41db-96bd-abb7fe1cf57b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504066.33 685834.71 504056.80 685834.16 504056.49 685840.90 504056.38 685843.14 504056.06 685850.15 504055.22 685868.22 504054.83 685879.86 504062.81 685879.81 504066.17 685880.04 504069.30 685880.24 504072.34 685880.44 504075.59 685880.66 504078.82 685880.87 504081.97 685881.08 504085.01 685881.27 504087.94 685881.47 504091.04 685881.67 504099.20 685882.29 504100.97 685835.35 504066.33 685834.71</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.8583bb09-76c8-4f6a-9b05-649441ad6bd3">
+      <ot:lokalnyId>c1a0bade-c312-4bd5-8c6e-e22697c634be</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Floriana w Szymankowie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.1d9b4a85-c7b6-4287-8854-dde9ac3df28c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494920.91 689837.54 494925.88 689854.42 494966.89 689842.42 494964.13 689832.36 494950.70 689783.51 494909.26 689798.03 494914.32 689815.20 494920.91 689837.54</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.60a3c66d-bc07-4df3-aebc-1cd10339a4d1">
+      <ot:lokalnyId>5c5b46a3-eee9-46cc-a2d7-27e15f3b856d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Wincentego a Paulo w Stogach Malborskich</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e7511504-d78c-4fee-b756-70456a359778" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498605.75 689554.14 498597.39 689550.77 498588.95 689556.92 498579.54 689562.95 498571.82 689566.90 498563.16 689570.10 498556.77 689571.98 498550.02 689573.18 498566.98 689578.02 498642.11 689600.81 498646.60 689589.59 498654.65 689569.44 498636.46 689563.82 498605.75 689554.14</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.7e80afd6-3e2a-480d-a926-ec11c8c77257">
+      <ot:lokalnyId>9830d9f4-bed1-47a1-a8ab-024519ced33c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętych Szymona i Judy w Gnojewie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bd419574-7049-4241-bcc2-3c1f783f3d91" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494054.07 687624.85 494012.33 687629.00 494009.77 687629.15 493993.34 687630.12 493971.99 687631.37 493963.69 687633.24 493960.47 687635.61 493958.77 687637.81 493957.59 687641.20 493957.43 687684.10 493981.72 687683.46 494009.33 687682.73 494019.52 687682.46 494039.09 687681.95 494052.47 687681.97 494067.26 687697.38 494073.85 687695.51 494106.63 687688.00 494105.36 687682.94 494102.18 687670.31 494072.05 687677.40 494067.95 687661.20 494065.90 687661.65 494059.14 687663.13 494058.54 687647.89 494057.77 687632.32 494054.07 687624.85</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.bc3d76dd-a3f1-46e0-8baf-dfdea12932cb">
+      <ot:lokalnyId>91a5e7ea-a5f6-4cd9-a8b5-ddc9bec9021c</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>ruiny kościoła gotyckiego wraz z cmentarzem przykościelnym</ot:informacjaDodatkowa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a689c72d-a9e0-4297-9e84-b3af777abe84" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490143.74 697237.64 490145.74 697238.22 490173.03 697246.17 490184.10 697248.49 490187.49 697237.41 490187.75 697236.56 490192.99 697219.39 490195.67 697208.73 490197.41 697201.13 490199.78 697191.33 490165.44 697186.57 490156.06 697184.27 490151.42 697205.99 490150.21 697211.15 490146.22 697226.33 490146.15 697226.60 490143.74 697237.64</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.5dedaa07-1cf4-4013-8a06-1c6ec64a9128">
+      <ot:lokalnyId>28BEDAB6-AFD4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Mateusza Apostoła w Nowym Stawie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ca39d28c-bf18-460b-a13b-f678e462ab48" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500522.39 696682.56 500510.85 696682.34 500506.78 696684.15 500503.68 696687.19 500499.31 696691.48 500502.06 696694.65 500509.97 696703.48 500493.30 696718.23 500505.23 696729.55 500509.72 696733.82 500516.01 696741.58 500520.07 696745.89 500536.75 696767.12 500550.71 696761.93 500587.96 696735.15 500598.70 696725.21 500603.78 696723.10 500606.62 696721.93 500623.35 696715.04 500632.38 696711.15 500622.55 696684.48 500625.46 696683.71 500622.07 696667.63 500606.78 696673.69 500582.01 696681.01 500522.39 696682.56</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.c2fa18ef-22aa-41dd-b97e-4e8d31ea9c97">
+      <ot:lokalnyId>28BEDAB6-AFD6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Mikołaja w Pogorzałej Wsi</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.529a9988-812b-40d5-8d69-95df3c7d8c62" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495516.73 678847.33 495527.43 678853.23 495561.79 678872.18 495595.83 678842.96 495605.95 678834.27 495604.98 678832.93 495574.21 678790.24 495552.77 678811.62 495542.36 678821.93 495516.73 678847.33</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.9ca0114c-ea44-4722-863c-7e53899bd5c3">
+      <ot:lokalnyId>755ca4ec-3693-4cbc-aee5-8a5d0e6ce70a</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętej Katarzyny Męczennicy w Szawałdzie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.094aade7-42e7-4356-8d5c-76f3edbf02c2" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507968.30 688934.44 507989.34 688974.60 507997.70 688967.76 508038.14 688934.67 508041.51 688931.91 508017.48 688892.65 507968.30 688934.44</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.b0ea688e-4f91-4455-ba9c-0ba4a6b6ff6c">
+      <ot:lokalnyId>28BEDAB6-AFE8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Miłosierdzia Bożego w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c8d6ac44-0942-454b-aff9-b31f8949af37" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500871.32 683663.15 500900.49 683643.49 500907.56 683615.30 500897.73 683599.11 500893.09 683591.46 500883.64 683575.45 500812.57 683614.96 500808.10 683617.44 500792.08 683626.35 500797.72 683630.33 500813.28 683644.67 500824.48 683645.38 500837.32 683650.92 500845.07 683653.92 500871.32 683663.15</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.f86b28fe-0f4c-41a8-8e61-024c3f18e634">
+      <ot:lokalnyId>28BEDAB6-AFEA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Andrzeja Apostoła w Lasowicach Wielkich</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c416df6b-bbd9-44d3-b315-fced8876d57e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504848.41 691607.33 504852.91 691610.82 504865.46 691608.08 504889.79 691601.99 504900.65 691599.28 504904.67 691588.67 504915.04 691565.51 504880.99 691536.41 504876.14 691532.26 504863.43 691545.92 504834.84 691566.31 504827.36 691573.14 504829.22 691578.44 504848.41 691607.33</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.49c69ceb-bd8d-439a-8dfe-9cc43288e5af">
+      <ot:lokalnyId>28BEDAB6-AFEB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. błogosławionej Urszuli Ledóchowskiej w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.285cc0f4-ceb8-4460-a4a5-7052d95d80e1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502287.97 684579.73 502376.07 684584.30 502405.16 684585.72 502410.30 684510.09 502353.67 684506.59 502319.31 684504.46 502303.26 684503.47 502297.65 684521.32 502289.11 684553.47 502287.97 684579.73</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.4a3df330-07e6-42ef-a95f-40d2cb914b4a">
+      <ot:lokalnyId>eb011c2e-9c1b-11ea-b3ab-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Matki Boskiej Nieustającej Pomocy w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.aeba0245-4b24-48ff-8530-c34c07e06186" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501528.88 685407.11 501566.53 685402.06 501573.74 685401.17 501572.03 685388.70 501566.89 685359.08 501563.00 685343.15 501561.90 685338.03 501567.12 685337.24 501595.51 685331.89 501595.50 685329.87 501594.52 685324.82 501594.43 685324.37 501594.40 685324.23 501593.73 685324.37 501586.18 685287.69 501551.59 685294.00 501544.20 685294.64 501503.93 685306.92 501484.60 685313.86 501502.87 685351.12 501526.37 685401.70 501528.88 685407.11</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.12215dd1-516e-47e7-a549-74db32748ee6">
+      <ot:lokalnyId>eb016a4f-9c1b-11ea-9c95-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Mikołaja w Lisewie Malborskim</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bd703f99-e287-40d2-a03d-92cfea40e53b" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>489111.43 692896.38 489145.92 692877.76 489151.81 692874.58 489161.19 692827.84 489129.14 692841.16 489126.58 692835.69 489118.16 692817.69 489114.83 692810.57 489100.07 692816.77 489092.91 692802.21 489061.32 692819.90 489084.66 692858.32 489092.00 692867.51 489111.43 692896.38</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.a2c85cd8-8906-43ff-8acb-bce243c0018d">
+      <ot:lokalnyId>eb01915e-9c1b-11ea-8920-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Matki Bożej Wniebowzięcia w Kończewicach</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d38b1623-a7a2-41be-b889-de5840e746b5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490858.93 688382.06 490929.77 688377.55 490929.45 688360.31 490948.01 688358.55 490944.40 688325.05 490942.82 688310.73 490938.67 688272.96 490938.33 688269.86 490937.04 688258.10 490925.57 688259.97 490901.63 688263.86 490885.85 688266.42 490860.68 688270.51 490862.68 688279.06 490864.20 688285.14 490874.83 688327.55 490876.40 688333.86 490860.58 688335.94 490855.77 688336.57 490858.93 688382.06</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.69307607-f8f0-4f6b-bc8b-3e4ae86f55ed">
+      <ot:lokalnyId>eb01b871-9c1b-11ea-9112-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętej Urszuli w Lichnowach</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.204534b3-3bcb-4cf6-a268-977948b6ca76" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494436.31 694638.87 494444.54 694595.03 494409.04 694581.04 494398.38 694577.20 494398.99 694574.19 494400.14 694568.52 494344.32 694557.51 494338.05 694555.07 494330.99 694587.58 494326.63 694618.70 494367.65 694625.39 494376.72 694626.87 494388.57 694629.21 494395.39 694629.98 494399.74 694630.74 494436.31 694638.87</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.758b509b-fe21-4cdb-b297-4b74f600021b">
+      <ot:lokalnyId>eb02068f-9c1b-11ea-acdc-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Jana Chrzciciela w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.99af9b50-9859-433d-8a25-1791f1ff7299" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501744.77 685939.89 501714.49 685953.56 501693.03 685963.25 501708.06 685996.92 501705.08 686000.14 501697.98 686003.63 501698.73 686007.02 501701.96 686015.76 501714.68 686045.57 501722.31 686058.06 501723.92 686062.43 501734.60 686059.26 501806.11 686020.65 501814.50 686014.51 501808.10 686012.97 501782.02 685996.35 501757.08 685965.25 501744.77 685939.89</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.fd011ad8-e751-4228-8e6a-762e44a32d0d">
+      <ot:lokalnyId>eb020690-9c1b-11ea-9ff0-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Zesłania Ducha Świętego w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.247b6136-6b5d-4b13-aff0-d1e9bf6d9a94" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504131.70 685974.86 504136.88 685975.45 504188.15 685981.24 504189.51 685917.96 504166.33 685916.44 504139.11 685915.08 504138.73 685929.90 504133.04 685929.73 504131.70 685974.86</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.6d9b0758-8760-4204-96e7-cc942918620e">
+      <ot:lokalnyId>eb022d9e-9c1b-11ea-8018-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Mikołaja w Królewie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c27cd4a4-5679-4d7a-92c7-dcbb94c16d96" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>509012.88 686740.47 509048.96 686739.98 509050.75 686730.85 509053.74 686718.87 509055.96 686712.51 509064.49 686691.94 509065.56 686689.89 509066.33 686688.40 509079.03 686663.97 509089.01 686645.90 509083.81 686644.05 509059.13 686640.32 509027.00 686643.26 509027.09 686683.81 509013.94 686682.24 508966.48 686678.06 508972.67 686741.01 509012.88 686740.47</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.e03e853a-5c2b-41ac-a689-b60b814a8563">
+      <ot:lokalnyId>eb0254b0-9c1b-11ea-bb28-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Bartłomieja Apostoła w Świerkach</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bbeb32e5-7d11-4156-a09e-cff0f4786e7c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505386.76 695576.91 505397.01 695582.10 505423.43 695590.44 505455.38 695601.71 505472.48 695557.94 505440.27 695545.63 505411.61 695535.28 505400.99 695534.68 505393.51 695556.88 505386.76 695576.91</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.d7468a6e-a776-42bf-94ed-621354fad9ba">
+      <ot:lokalnyId>1365cb7b-2fc8-4603-9124-c4a5bac043c6</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Mennonitów w Mirowie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.d2f669d4-349f-465e-b84e-38173a1018d4" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>502607.60 699105.43 502631.33 699113.27 502677.62 699128.55 502684.56 699108.47 502685.48 699105.82 502653.80 699095.21 502628.06 699087.70 502616.03 699081.03 502607.60 699105.43</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.b46ca3d2-4055-49b7-8179-0ba74faa867f">
+      <ot:lokalnyId>eb01df80-9c1b-11ea-b687-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Jerzego w Starej Kościelnicy</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.97071e08-4c4e-44ed-8c70-2287501a390d" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495637.67 685546.94 495635.64 685548.27 495618.56 685559.49 495601.76 685570.51 495593.64 685576.62 495596.86 685580.62 495609.92 685596.83 495614.05 685602.10 495624.05 685613.84 495626.29 685616.55 495629.72 685620.70 495642.93 685608.53 495623.09 685591.66 495630.87 685584.59 495652.26 685599.95 495653.60 685598.70 495662.88 685586.77 495668.98 685582.35 495637.67 685546.94</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.e4f2fc76-f959-4b91-ad20-e3d2941ed266">
+      <ot:lokalnyId>28BEDAB6-AFD8-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. błogosławionych 108 Męczenników Polskich w Malborku</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a4b7d18d-0acf-48b6-b1da-aa2470c9a8db" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>503454.94 684162.00 503473.42 684142.26 503421.42 684076.28 503396.90 684088.71 503454.94 684162.00</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.482a02d9-e8b1-47aa-a9bb-3daeabe10767">
+      <ot:lokalnyId>28BEDAB6-AFDA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Mikołaja w Pogorzałej Wsi</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.bf467829-4a34-4dc3-8644-8f8ffe4ac92f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497722.87 682691.98 497766.71 682662.56 497791.80 682645.71 497868.52 682599.88 497850.42 682566.67 497849.50 682564.18 497708.71 682645.88 497703.67 682648.40 497707.17 682656.35 497709.03 682660.56 497722.87 682691.98</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.5bf6a194-1abb-4f63-aae6-274c1e1a01ac">
+      <ot:lokalnyId>28BEDAB6-AFDE-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Sala Zgromadzeń Światków Jehowy</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.b5f4a698-4f3a-4c60-84b4-1841d3b7a21c" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500480.91 682405.27 500513.71 682493.15 500519.45 682502.26 500526.11 682498.93 500527.45 682501.89 500530.67 682509.00 500667.57 682441.69 500715.22 682418.26 500729.34 682411.62 500726.26 682403.35 500715.74 682385.15 500700.01 682352.63 500691.26 682334.71 500678.50 682308.57 500669.63 682291.42 500474.11 682387.38 500480.91 682405.27</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.b6e39981-ea3d-4ce3-b924-e5dc29656bcb">
+      <ot:lokalnyId>eb01b870-9c1b-11ea-a3ce-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętego Michała Archanioła w Miłoradzu</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4d6b662d-a030-4440-92d4-5b5cdb64fbe6" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494472.72 683303.38 494510.77 683294.64 494513.44 683294.01 494533.51 683289.28 494528.82 683276.22 494519.82 683264.29 494516.39 683254.71 494509.89 683236.56 494508.79 683232.01 494475.64 683243.80 494456.90 683252.48 494457.65 683254.75 494458.15 683256.25 494463.90 683274.84 494472.72 683303.38</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.9a0c76ac-77f7-4e32-b434-b8bf703b6b3e">
+      <ot:lokalnyId>28BEDAB6-AFE7-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>Sanktuarium błogosławionej Doroty z Mątów</ot:informacjaDodatkowa>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętych Piotra i Pawła w Mątowach Wielkich</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.54826735-9e26-4594-8a3b-2dd9c11b00f9" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490313.33 682702.14 490301.76 682702.45 490245.14 682749.97 490271.14 682796.16 490259.88 682804.98 490280.10 682833.39 490290.87 682825.58 490293.95 682831.78 490349.78 682807.70 490344.38 682791.71 490339.27 682776.98 490320.47 682778.98 490319.06 682775.84 490310.28 682753.97 490292.56 682750.18 490285.02 682738.09 490318.46 682716.97 490313.33 682702.14</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.3ed649d4-6b49-4245-81dc-c951490b3068">
+      <ot:lokalnyId>eb00f521-9c1b-11ea-8854-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:nazwa>Parafia Rzymskokatolicka pw. Świętej Barbary w Krzyżanowie</ot:nazwa>
+      <ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.089ae76d-56bf-49af-8958-18672e9d8635" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513398.12 686876.21 513409.77 686900.17 513378.68 686916.30 513385.48 686931.80 513414.62 686919.32 513436.38 686905.77 513441.22 686916.35 513445.19 686924.92 513452.17 686936.99 513462.17 686945.08 513471.06 686946.04 513476.03 686945.51 513481.38 686944.93 513488.05 686941.59 513490.59 686939.53 513499.16 686930.96 513502.65 686923.34 513503.61 686919.68 513513.41 686910.68 513511.38 686902.50 513507.88 686888.56 513505.03 686877.66 513499.47 686856.32 513498.70 686852.46 513492.44 686852.35 513452.30 686860.54 513448.08 686861.41 513428.49 686865.09 513425.22 686866.97 513429.25 686874.13 513416.74 686867.31 513398.12 686876.21</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.7572c96a-b536-4c2f-91d6-e0f312b6dad9">
+      <ot:lokalnyId>83ecbe45-8fa7-421b-9a0f-c11e8fe1b009</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, nr rej. 370/94 z 1994-06-22</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Myszewie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.49a34f8b-b0ae-46c5-8abf-c0d79eb1714a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>510475.83 696360.83 510477.20 696357.61 510484.55 696333.93 510523.27 696344.72 510526.67 696324.06 510468.52 696306.52 510459.72 696303.64 510422.04 696291.99 510409.79 696330.77 510452.37 696344.29 510449.83 696355.18 510475.83 696360.83</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.74ac0ae9-6aa6-478c-952c-f43dfa2a1a11">
+      <ot:lokalnyId>7c18a33d-d1bc-4f07-9aaf-b822105d3e9d</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Mennonicki w Starej Wiśle</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.7a7c13b4-2d8d-441f-a3b4-3ed83aea1fce" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490581.05 689364.32 490584.10 689384.63 490608.01 689384.45 490608.05 689384.72 490618.40 689384.67 490616.78 689372.94 490614.55 689362.07 490581.05 689364.32</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.73ca4c2c-0f0a-4f5a-8d05-d90c35bea9df">
+      <ot:lokalnyId>a9e1e792-2944-4ccf-8509-0ff262437196</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6b92e91a-4123-433d-abbb-c34f5005a832" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494603.66 683186.88 494593.83 683162.58 494578.84 683125.07 494558.42 683131.54 494574.44 683169.31 494580.15 683167.33 494589.23 683190.02 494589.53 683190.85 494603.66 683186.88</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.48e51d11-9524-4ff8-8a03-fedffb995ca5">
+      <ot:lokalnyId>f429106b-895d-4b4e-8623-56eab6fd2aa3</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Szawałdzie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0b4787f5-5589-4638-8ce1-6f5f3f8dd056" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507894.84 688703.66 507878.04 688680.07 507864.38 688670.65 507832.99 688701.62 507860.39 688730.64 507878.04 688716.21 507891.25 688706.33 507894.84 688703.66</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.36308a15-de2d-406e-aa88-27025985c5da">
+      <ot:lokalnyId>28BEDAB6-AFD5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Szymankowie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.622301ec-273f-4acc-b758-41442e89636a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495912.22 689352.29 495941.54 689399.34 495970.12 689445.21 495997.70 689428.46 495957.99 689368.25 495937.88 689337.76 495912.22 689352.29</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.c70e8532-647d-47eb-92b5-c8d623cfd5cf">
+      <ot:lokalnyId>28BEDAB6-AFE2-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nieczynny</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Lipince</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.52cf9017-3a0f-407e-bb78-59d43b6f6ac3" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507504.46 694999.63 507557.01 694995.33 507562.10 694939.46 507506.15 694940.70 507504.46 694999.63</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.173bf744-9970-4d2b-bc28-ac7367ebad34">
+      <ot:lokalnyId>28BEDAB6-AFE5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Świerkach</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.0a13cba9-a9e0-4150-bc26-e4eb0ce2257e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>505332.04 695392.23 505379.21 695405.76 505384.78 695393.95 505392.54 695369.85 505386.50 695350.30 505379.61 695342.25 505372.36 695337.37 505355.99 695326.33 505351.45 695323.27 505334.22 695368.04 505332.04 695392.23</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.3c5f89b5-a296-4a09-a5c4-19af30f3c2e4">
+      <ot:lokalnyId>28BEDAB6-AFD3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Gnojewie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8cce74cf-394f-4ee5-86a3-643fa20e56db" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494132.48 687646.72 494112.44 687651.37 494104.28 687653.26 494067.95 687661.20 494072.05 687677.40 494102.18 687670.31 494105.36 687682.94 494106.63 687688.00 494140.63 687680.59 494133.60 687651.10 494132.48 687646.72</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.6dbc8fee-76e3-43b1-9761-836cbd0f491a">
+      <ot:lokalnyId>28BEDAB6-AFE6-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nieczynny</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Mennonicki w Pordenowie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.371ed54e-af94-4d48-8898-feaa24ac3051" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>493345.49 699744.78 493390.44 699762.30 493397.06 699745.22 493403.27 699727.59 493408.19 699705.04 493361.97 699691.82 493345.49 699744.78</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.df5aea0d-4d0b-4c50-8160-ca6bbafc028b">
+      <ot:lokalnyId>28BEDAB6-AFE9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_345_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Komunalny w Malborku</ot:nazwa>
+      <ot:rodzaj>cmentarz komunalny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8cb8b5fc-b9bb-4bae-b829-2815a0a0423f" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500379.57 682795.03 500391.19 682789.08 500445.43 682761.79 500475.94 682746.45 500490.07 682739.34 500496.85 682735.89 500504.74 682731.85 500497.21 682714.51 500525.75 682699.17 500514.36 682670.47 500479.11 682564.65 500427.28 682422.35 500024.23 682644.92 500027.49 682648.19 500027.34 682660.95 500028.53 682666.25 500030.60 682669.82 500035.28 682676.57 500047.46 682695.18 500065.61 682721.38 500074.38 682732.71 500130.15 682840.12 500221.47 682798.69 500232.59 682794.83 500260.70 682854.75 500318.80 682824.27 500379.57 682795.03</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.d7df7ada-4066-4404-85a4-f34bde67ce37">
+      <ot:lokalnyId>28BEDAB6-AFDB-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nieczynny</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Ewangelicko-Katolicki w Malborku</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.a29757c8-326e-40b7-a3f0-5dc323af79ba" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501520.82 684750.48 501520.94 684801.82 501520.99 684821.54 501521.04 684841.39 501564.49 684833.82 501653.72 684818.29 501653.04 684810.81 501664.10 684807.65 501661.42 684801.84 501656.22 684790.55 501645.77 684767.89 501641.62 684758.90 501635.83 684746.35 501630.53 684734.85 501623.00 684718.52 501574.85 684733.94 501538.92 684745.29 501520.82 684750.48</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.db9fae96-af04-476f-a4af-99b5474abb0b">
+      <ot:lokalnyId>28BEDAB6-AFE3-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nieczynny</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Kraśniewie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2aeefe02-6d9b-4037-b990-e44060983c33" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>497924.53 683105.23 497924.99 683105.07 497958.98 683093.27 497945.19 683056.13 497938.32 683037.62 497896.93 683054.71 497924.53 683105.23</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.e6a6e576-6e8d-49e0-8520-da447fa1dc2c">
+      <ot:lokalnyId>eb0254b1-9c1b-11ea-9d7a-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>nieczynny</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Mennonicki w Bystrzu</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ecdde7e2-5760-45e9-a521-5ae12bb8cdaf" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490740.97 686714.17 490745.08 686730.08 490754.93 686764.50 490807.26 686746.51 490808.07 686719.21 490800.37 686704.81 490741.70 686714.06 490740.97 686714.17</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.b6d420be-aea8-409a-8110-e579a1a105fc">
+      <ot:lokalnyId>28BEDAB6-AFD9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, nr rej. 44/78 z 1989-08-30</ot:informacjaDodatkowa>
+      <ot:nazwa>Cmentarz Mennonicki w Stogach</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.76127db1-3114-4868-a2a1-557d8d45eade" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498692.35 689617.96 498772.96 689643.91 498808.00 689581.13 498728.86 689553.71 498710.25 689586.50 498708.99 689588.67 498706.32 689593.39 498692.35 689617.96</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.ac57f5c9-c1ff-46d5-8788-97f87e518639">
+      <ot:lokalnyId>28BEDAB6-AFDC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Komunalny w Nowym Stawie</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.c56bf8cf-dd4b-4659-bd1c-0d021e1541e1" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>499938.68 696690.99 499971.08 696715.70 499999.29 696737.29 500001.96 696739.53 500038.87 696693.63 500077.66 696645.28 500086.23 696634.60 500051.34 696614.07 500016.40 696587.98 500013.83 696591.24 499999.99 696608.87 499988.43 696623.60 499984.91 696628.08 499985.12 696628.23 499984.56 696628.94 499984.35 696628.79 499982.86 696630.70 499985.69 696632.66 499938.68 696690.99</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.ba0f3419-3358-4551-96a5-0aaadfe9ce82">
+      <ot:lokalnyId>28BEDAB6-AFDD-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_345_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Krzyżanowie</ot:nazwa>
+      <ot:rodzaj>cmentarz komunalny</ot:rodzaj>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.2dbebdff-0b4d-41d6-99fe-5f3c0a57c7cb" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513177.46 686909.25 513313.65 686849.63 513337.83 686773.41 513308.72 686759.05 513300.47 686754.98 513254.23 686732.16 513217.10 686713.84 513177.46 686909.25</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.0250dbcd-27ff-4871-ab4a-4e61918487f5">
+      <ot:lokalnyId>28BEDAB6-AFDF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Malborku</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.4626d19f-cf77-40e4-a100-0ed1800df8d7" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>501097.44 686641.07 501159.11 686676.06 501190.20 686664.57 501210.34 686621.74 501185.31 686607.29 501181.92 686613.98 501165.56 686605.13 501168.77 686598.35 501141.13 686583.66 501107.90 686603.12 501106.25 686623.24 501097.44 686641.07</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.feb4b246-a243-4a98-bb24-3f33b7c9476b">
+      <ot:lokalnyId>28BEDAB6-AFE0-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Starej Kościelnicy</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.57fb284c-d247-4b69-87a3-b0638480ea62" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495683.28 685647.11 495695.34 685636.05 495706.74 685626.06 495698.90 685616.98 495677.96 685592.74 495668.98 685582.35 495662.88 685586.77 495653.60 685598.70 495652.26 685599.95 495630.87 685584.59 495623.09 685591.66 495642.93 685608.53 495629.72 685620.70 495626.29 685616.55 495624.05 685613.84 495614.05 685602.10 495609.92 685596.83 495596.86 685580.62 495577.78 685594.94 495572.49 685599.25 495583.75 685602.03 495588.28 685603.26 495613.11 685617.76 495632.45 685636.10 495641.55 685645.08 495652.56 685645.98 495666.11 685645.61 495683.28 685647.11</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.304e2e3f-e997-48b4-a2d5-fbf0772c4cab">
+      <ot:lokalnyId>28BEDAB6-AFE1-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, nr rej. 285/93 z 1993-07-20</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Starym Polu</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e3349856-d171-418c-9436-8f18c0d69806" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>513432.27 687870.10 513454.22 687877.38 513484.11 687887.43 513502.17 687893.50 513516.85 687846.77 513527.78 687807.23 513534.58 687780.39 513497.62 687768.40 513472.23 687760.31 513462.52 687757.71 513432.27 687870.10</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.b62eb170-0617-48b8-9d43-1036f74f40b0">
+      <ot:lokalnyId>28BEDAB6-AFE4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Lichnowach</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.8d409906-2359-4b59-abaf-c68be43cabee" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>494427.53 693908.02 494438.47 693861.86 494439.39 693857.32 494448.03 693814.58 494392.84 693801.92 494389.77 693816.83 494372.16 693896.14 494379.49 693897.42 494424.97 693907.46 494427.53 693908.02</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.c3047fe5-e397-477a-910d-99b5129a0b7e">
+      <ot:lokalnyId>eb027bc0-9c1b-11ea-8d2b-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:informacjaDodatkowa>zabytek, cmentarz ze starodrzewem, nr rej. A-284 z 2016-03-31</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:nazwa>Cmentarz Parafialny w Mątowach Wielkich</ot:nazwa>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.5ecc7457-9450-4564-9a77-0a172e2ea4b0" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>490320.47 682778.98 490339.27 682776.98 490333.09 682759.15 490320.24 682722.11 490318.46 682716.97 490285.02 682738.09 490292.56 682750.18 490310.28 682753.97 490319.06 682775.84 490320.47 682778.98</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.7eeead44-c9a5-4245-8586-0acf09b56137">
+      <ot:lokalnyId>d3e9daee-9c1b-11ea-9e62-5404a6a68038</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>zabytek, cmentarz mennonicki, nr rej. 45/78 z 1988-08-15</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.dd0878a9-41f5-45c4-969c-8064f005506a" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>516917.02 685905.51 516937.00 685934.13 516960.52 685912.08 516951.31 685885.65 516917.02 685905.51</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.917709f1-f22d-48a8-9fe5-75844d251c3d">
+      <ot:lokalnyId>28BEDAB6-8292-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.897d5420-00b1-4258-a43a-cc9beda614ee" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>507956.04 689001.50 507989.34 688974.60 507968.30 688934.44 507936.62 688963.87 507956.04 689001.50</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.1b9dc3e1-901d-4bc3-b144-e198b8b906df">
+      <ot:lokalnyId>28BEDAB6-829F-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>zabytek, cmentarz przykościelny z drzewostanem, nr rej. 360/94 z 1994-05-27</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.970851a4-946b-4cac-8eb5-f59cd2269935" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>508963.02 686650.31 508966.48 686678.06 509013.94 686682.24 509027.09 686683.81 509027.00 686643.26 509001.02 686646.40 508963.02 686650.31</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.465f1c47-3719-4bb7-807b-fa515d5d5867">
+      <ot:lokalnyId>28BEDAB6-82A9-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.e74dac75-7f11-4b7d-b48b-dc4830c98960" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500800.81 684021.00 500808.52 684034.32 500824.27 684061.53 500853.81 684046.75 500830.63 684004.49 500800.81 684021.00</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.9053fba1-2492-4037-9644-243edaaf41eb">
+      <ot:lokalnyId>28BEDAB6-82AA-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.ac2361ce-731b-47c4-8425-4ade1b3a862e" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>504762.27 682888.54 504787.70 682945.96 504822.96 682932.00 504799.01 682870.04 504762.27 682888.54</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.760342b0-4f69-48c2-a42c-c21ec71fef8f">
+      <ot:lokalnyId>28BEDAB6-82AC-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:informacjaDodatkowa>cmentarz ewangelicki</ot:informacjaDodatkowa>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.739254c6-1842-4cf2-973b-f2eedf4e1de8" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495732.30 679145.23 495721.42 679153.30 495735.57 679170.68 495744.34 679183.00 495788.72 679164.39 495772.24 679125.04 495732.30 679145.23</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.a05af0eb-9e9e-4b90-99bf-d48fbd62baf1">
+      <ot:lokalnyId>28BEDAB6-82AF-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.858a3811-728d-4d3e-98cb-3ddafd21f604" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>500919.53 684124.90 500948.19 684109.32 500955.03 684105.41 500939.20 684075.34 500911.95 684026.22 500875.82 684045.44 500919.53 684124.90</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.a9b914d1-9ed7-4c95-801c-441c98b91f83">
+      <ot:lokalnyId>28BEDAB6-82A5-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>chrześcijańskie</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.68618c1d-e8dd-459d-bf27-b5e2da3c0100" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>498655.12 689587.02 498653.46 689591.44 498646.60 689589.59 498642.11 689600.81 498652.01 689604.17 498679.24 689613.48 498679.44 689613.55 498686.60 689599.07 498673.42 689594.31 498673.42 689593.04 498655.12 689587.02</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+  <gml:featureMember>
+    <ot:OT_KUSC_A gml:id="OT_KUSC_A.fba24b6b-58d4-421c-aaa5-d3842b573e00">
+      <ot:lokalnyId>28BEDAB6-82A4-F426-E053-CC2BA8C0B2DD</ot:lokalnyId>
+      <ot:przestrzenNazw>PL.PZGiK.336.BDOT10k</ot:przestrzenNazw>
+      <ot:wersja>2023-12-28T12:00:00</ot:wersja>
+      <ot:poczatekWersjiObiektu>2023-12-28T12:00:00</ot:poczatekWersjiObiektu>
+      <ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+      <ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+      <ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+      <ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+      <ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+      <ot:wyznanie>inne</ot:wyznanie>
+      <ot:geometria>
+        <gml:Polygon srsName="EPSG:2180" gml:id="geom.6c908e84-ccfd-4af8-aa56-e681f214d1d5" srsDimension="2">
+          <gml:exterior>
+            <gml:LinearRing>
+              <gml:posList>495593.39 696971.16 495616.65 696996.64 495646.88 696962.53 495623.27 696940.49 495609.63 696953.90 495593.39 696971.16</gml:posList>
+            </gml:LinearRing>
+          </gml:exterior>
+        </gml:Polygon>
+      </ot:geometria>
+    </ot:OT_KUSC_A>
+  </gml:featureMember>
+</gml:FeatureCollection>
